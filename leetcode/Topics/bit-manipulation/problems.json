@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-11T07:18:36.607Z",
+  "updatedAt": "2026-10-11T07:23:55.398Z",
   "problems": [
     {
       "frontendId": "78",
@@ -44,6 +44,26 @@
           "path": "leetcode/0187-repeated-dna-sequences/0187-repeated-dna-sequences.py",
           "sha": "4ccff6ecf207e4c09174fa09ee2f1956a97c3c3b",
           "lastSyncedAt": "2026-10-11T07:09:05.294Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "191",
+      "title": "Number of 1 Bits",
+      "slug": "number-of-1-bits",
+      "problemName": "0191-number-of-1-bits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-1-bits/",
+      "folderPath": "leetcode/0191-number-of-1-bits/",
+      "readmePath": "leetcode/0191-number-of-1-bits/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0191-number-of-1-bits.py",
+          "path": "leetcode/0191-number-of-1-bits/0191-number-of-1-bits.py",
+          "sha": "f7db9942ca244736cbd62feee601d20df91ea38a",
+          "lastSyncedAt": "2026-10-11T07:23:55.398Z"
         }
       ]
     },
