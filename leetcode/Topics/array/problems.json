@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-11T07:21:29.436Z",
+  "updatedAt": "2026-10-11T07:21:46.211Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1004,6 +1004,26 @@
           "path": "leetcode/0986-interval-list-intersections/0986-interval-list-intersections.py",
           "sha": "7e63111e2fdf5b3dbd69563cd4e1548410a84bde",
           "lastSyncedAt": "2026-10-11T07:20:13.674Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "992",
+      "title": "Subarrays with K Different Integers",
+      "slug": "subarrays-with-k-different-integers",
+      "problemName": "0992-subarrays-with-k-different-integers",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/subarrays-with-k-different-integers/",
+      "folderPath": "leetcode/0992-subarrays-with-k-different-integers/",
+      "readmePath": "leetcode/0992-subarrays-with-k-different-integers/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0992-subarrays-with-k-different-integers.py",
+          "path": "leetcode/0992-subarrays-with-k-different-integers/0992-subarrays-with-k-different-integers.py",
+          "sha": "4be4116a099c70a6139a8710cb4cf686c84fbb25",
+          "lastSyncedAt": "2026-10-11T07:21:46.211Z"
         }
       ]
     },
