@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "knuth-morris-pratt-algorithm",
+    "name": "Knuth–Morris–Pratt Algorithm",
+    "tagId": "122018"
+  },
+  "updatedAt": "2026-10-11T07:08:36.697Z",
+  "problems": [
+    {
+      "frontendId": "459",
+      "title": "Repeated Substring Pattern",
+      "slug": "repeated-substring-pattern",
+      "problemName": "0459-repeated-substring-pattern",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/repeated-substring-pattern/",
+      "folderPath": "leetcode/0459-repeated-substring-pattern/",
+      "readmePath": "leetcode/0459-repeated-substring-pattern/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0459-repeated-substring-pattern.py",
+          "path": "leetcode/0459-repeated-substring-pattern/0459-repeated-substring-pattern.py",
+          "sha": "adb7ec9e09ace11cf0a6e59c3b77ebb7bcabb0b9",
+          "lastSyncedAt": "2026-10-11T07:08:36.697Z"
+        }
+      ]
+    }
+  ]
+}
