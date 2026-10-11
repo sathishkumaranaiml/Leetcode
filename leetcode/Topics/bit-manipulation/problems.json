@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-11T07:46:05.798Z",
+  "updatedAt": "2026-10-11T07:46:10.887Z",
   "problems": [
     {
       "frontendId": "78",
@@ -84,6 +84,26 @@
           "path": "leetcode/0201-bitwise-and-of-numbers-range/0201-bitwise-and-of-numbers-range.py",
           "sha": "92fc9bcd774fd8f68452441f1b8250acd0219305",
           "lastSyncedAt": "2026-10-11T07:46:05.798Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "260",
+      "title": "Single Number III",
+      "slug": "single-number-iii",
+      "problemName": "0260-single-number-iii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/single-number-iii/",
+      "folderPath": "leetcode/0260-single-number-iii/",
+      "readmePath": "leetcode/0260-single-number-iii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0260-single-number-iii.py",
+          "path": "leetcode/0260-single-number-iii/0260-single-number-iii.py",
+          "sha": "99a5e0c7fb5e3f38001dcf6ff776030c96f0d06b",
+          "lastSyncedAt": "2026-10-11T07:46:10.887Z"
         }
       ]
     },
