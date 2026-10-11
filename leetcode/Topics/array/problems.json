@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-11T07:16:35.902Z",
+  "updatedAt": "2026-10-11T07:16:43.322Z",
   "problems": [
     {
       "frontendId": "1",
@@ -284,6 +284,26 @@
           "path": "leetcode/0162-find-peak-element/0162-find-peak-element.py",
           "sha": "6caf74d535be05a7e5c0df54809aecdb4eccf2e4",
           "lastSyncedAt": "2026-10-11T07:07:33.275Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "289",
+      "title": "Game of Life",
+      "slug": "game-of-life",
+      "problemName": "0289-game-of-life",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/game-of-life/",
+      "folderPath": "leetcode/0289-game-of-life/",
+      "readmePath": "leetcode/0289-game-of-life/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0289-game-of-life.py",
+          "path": "leetcode/0289-game-of-life/0289-game-of-life.py",
+          "sha": "52e352f789ad2fdb47081efc7616d82a0345034a",
+          "lastSyncedAt": "2026-10-11T07:16:43.322Z"
         }
       ]
     },
