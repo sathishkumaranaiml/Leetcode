@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-11T07:24:19.080Z",
+  "updatedAt": "2026-10-11T07:24:30.372Z",
   "problems": [
     {
       "frontendId": "1",
@@ -944,6 +944,26 @@
           "path": "leetcode/0875-koko-eating-bananas/0875-koko-eating-bananas.py",
           "sha": "9859b2e2b9fe3980db0d2afb8ccb2ad31d646f0a",
           "lastSyncedAt": "2026-10-11T07:07:15.918Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "881",
+      "title": "Boats to Save People",
+      "slug": "boats-to-save-people",
+      "problemName": "0881-boats-to-save-people",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/boats-to-save-people/",
+      "folderPath": "leetcode/0881-boats-to-save-people/",
+      "readmePath": "leetcode/0881-boats-to-save-people/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0881-boats-to-save-people.py",
+          "path": "leetcode/0881-boats-to-save-people/0881-boats-to-save-people.py",
+          "sha": "7f7b68ec5b7f8654b0ba22c22c8430eb693ddf82",
+          "lastSyncedAt": "2026-10-11T07:24:30.372Z"
         }
       ]
     },
