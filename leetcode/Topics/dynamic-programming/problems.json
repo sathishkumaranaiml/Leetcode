@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-11T08:00:05.206Z",
+  "updatedAt": "2026-10-11T08:01:23.230Z",
   "problems": [
     {
       "frontendId": "32",
@@ -163,7 +163,7 @@
           "filename": "0647-palindromic-substrings.py",
           "path": "leetcode/0647-palindromic-substrings/0647-palindromic-substrings.py",
           "sha": "978556a5224cde40fac6095fe1272603a3a6e69e",
-          "lastSyncedAt": "2026-10-11T07:08:22.009Z"
+          "lastSyncedAt": "2026-10-11T08:01:23.230Z"
         }
       ]
     },
