@@ -5,8 +5,28 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-11T07:13:18.028Z",
+  "updatedAt": "2026-10-11T07:13:22.844Z",
   "problems": [
+    {
+      "frontendId": "1148",
+      "title": "Article Views I",
+      "slug": "article-views-i",
+      "problemName": "1148-article-views-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/article-views-i/",
+      "folderPath": "leetcode/1148-article-views-i/",
+      "readmePath": "leetcode/1148-article-views-i/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1148-article-views-i.sql",
+          "path": "leetcode/1148-article-views-i/1148-article-views-i.sql",
+          "sha": "3c36e4ee7431adb57a0bffaf69f1ea2199c2b65c",
+          "lastSyncedAt": "2026-10-11T07:13:22.844Z"
+        }
+      ]
+    },
     {
       "frontendId": "1174",
       "title": "Immediate Food Delivery II",
