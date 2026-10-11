@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-10-11T07:21:29.436Z",
+  "updatedAt": "2026-10-11T07:22:35.295Z",
   "problems": [
     {
       "frontendId": "303",
@@ -244,6 +244,26 @@
           "path": "leetcode/2024-maximize-the-confusion-of-an-exam/2024-maximize-the-confusion-of-an-exam.py",
           "sha": "8ce65c97b9f0b9467badc963947dfed9dcd1a5e6",
           "lastSyncedAt": "2026-10-11T07:09:58.701Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3364",
+      "title": "Minimum Positive Sum Subarray ",
+      "slug": "minimum-positive-sum-subarray",
+      "problemName": "3364-minimum-positive-sum-subarray",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-positive-sum-subarray/",
+      "folderPath": "leetcode/3364-minimum-positive-sum-subarray/",
+      "readmePath": "leetcode/3364-minimum-positive-sum-subarray/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3364-minimum-positive-sum-subarray.py",
+          "path": "leetcode/3364-minimum-positive-sum-subarray/3364-minimum-positive-sum-subarray.py",
+          "sha": "a8e10b896c0baf741545a08c67603f3bca7f448d",
+          "lastSyncedAt": "2026-10-11T07:22:35.295Z"
         }
       ]
     }
