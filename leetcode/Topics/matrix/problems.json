@@ -5,8 +5,28 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-10-11T07:16:43.322Z",
+  "updatedAt": "2026-10-11T07:17:01.167Z",
   "problems": [
+    {
+      "frontendId": "74",
+      "title": "Search a 2D Matrix",
+      "slug": "search-a-2d-matrix",
+      "problemName": "0074-search-a-2d-matrix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/search-a-2d-matrix/",
+      "folderPath": "leetcode/0074-search-a-2d-matrix/",
+      "readmePath": "leetcode/0074-search-a-2d-matrix/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0074-search-a-2d-matrix.py",
+          "path": "leetcode/0074-search-a-2d-matrix/0074-search-a-2d-matrix.py",
+          "sha": "75020f772069a3962d616dbde3b6ec4de3edbb06",
+          "lastSyncedAt": "2026-10-11T07:17:01.167Z"
+        }
+      ]
+    },
     {
       "frontendId": "289",
       "title": "Game of Life",
