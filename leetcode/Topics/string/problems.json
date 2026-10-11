@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-11T07:44:34.053Z",
+  "updatedAt": "2026-10-11T07:44:40.550Z",
   "problems": [
     {
       "frontendId": "3",
@@ -944,6 +944,26 @@
           "path": "leetcode/3823-reverse-letters-then-special-characters-in-a-string/3823-reverse-letters-then-special-characters-in-a-string.py",
           "sha": "88934c21842b9dee46bf12337f13aa284d040f53",
           "lastSyncedAt": "2026-10-11T07:26:45.492Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3884",
+      "title": "First Matching Character From Both Ends",
+      "slug": "first-matching-character-from-both-ends",
+      "problemName": "3884-first-matching-character-from-both-ends",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/first-matching-character-from-both-ends/",
+      "folderPath": "leetcode/3884-first-matching-character-from-both-ends/",
+      "readmePath": "leetcode/3884-first-matching-character-from-both-ends/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3884-first-matching-character-from-both-ends.py",
+          "path": "leetcode/3884-first-matching-character-from-both-ends/3884-first-matching-character-from-both-ends.py",
+          "sha": "377b50f487e69539015f61e0ee4b042ad63591e3",
+          "lastSyncedAt": "2026-10-11T07:44:40.550Z"
         }
       ]
     },
