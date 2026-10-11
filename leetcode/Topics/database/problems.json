@@ -5,8 +5,28 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-11T07:13:36.509Z",
+  "updatedAt": "2026-10-11T07:13:41.070Z",
   "problems": [
+    {
+      "frontendId": "196",
+      "title": "Delete Duplicate Emails",
+      "slug": "delete-duplicate-emails",
+      "problemName": "0196-delete-duplicate-emails",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/delete-duplicate-emails/",
+      "folderPath": "leetcode/0196-delete-duplicate-emails/",
+      "readmePath": "leetcode/0196-delete-duplicate-emails/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0196-delete-duplicate-emails.sql",
+          "path": "leetcode/0196-delete-duplicate-emails/0196-delete-duplicate-emails.sql",
+          "sha": "b3d613aa7cd98f08a984d8e8208fac6aa9c82881",
+          "lastSyncedAt": "2026-10-11T07:13:41.070Z"
+        }
+      ]
+    },
     {
       "frontendId": "608",
       "title": "Tree Node",
