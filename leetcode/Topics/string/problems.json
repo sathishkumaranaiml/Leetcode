@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-11T07:46:27.535Z",
+  "updatedAt": "2026-10-11T07:56:48.006Z",
   "problems": [
     {
       "frontendId": "3",
@@ -384,6 +384,26 @@
           "path": "leetcode/0459-repeated-substring-pattern/0459-repeated-substring-pattern.py",
           "sha": "adb7ec9e09ace11cf0a6e59c3b77ebb7bcabb0b9",
           "lastSyncedAt": "2026-10-11T07:08:36.697Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "520",
+      "title": "Detect Capital",
+      "slug": "detect-capital",
+      "problemName": "0520-detect-capital",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/detect-capital/",
+      "folderPath": "leetcode/0520-detect-capital/",
+      "readmePath": "leetcode/0520-detect-capital/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0520-detect-capital.py",
+          "path": "leetcode/0520-detect-capital/0520-detect-capital.py",
+          "sha": "1864199e4c07dd3abf4858601d3328b5149b7582",
+          "lastSyncedAt": "2026-10-11T07:56:48.006Z"
         }
       ]
     },
