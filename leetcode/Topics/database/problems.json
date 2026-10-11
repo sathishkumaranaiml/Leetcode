@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-11T07:14:42.447Z",
+  "updatedAt": "2026-10-11T07:14:47.068Z",
   "problems": [
     {
       "frontendId": "184",
@@ -84,6 +84,26 @@
           "path": "leetcode/0586-customer-placing-the-largest-number-of-orders/0586-customer-placing-the-largest-number-of-orders.sql",
           "sha": "a163d101b8f7a9be22ddce21edc1b21ca4eff872",
           "lastSyncedAt": "2026-10-11T07:14:03.798Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "596",
+      "title": "Classes With at Least 5 Students",
+      "slug": "classes-with-at-least-5-students",
+      "problemName": "0596-classes-with-at-least-5-students",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/classes-with-at-least-5-students/",
+      "folderPath": "leetcode/0596-classes-with-at-least-5-students/",
+      "readmePath": "leetcode/0596-classes-with-at-least-5-students/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0596-classes-with-at-least-5-students.sql",
+          "path": "leetcode/0596-classes-with-at-least-5-students/0596-classes-with-at-least-5-students.sql",
+          "sha": "88dd6f471b2898e5673b85a1193dbff3c109edee",
+          "lastSyncedAt": "2026-10-11T07:14:47.068Z"
         }
       ]
     },
