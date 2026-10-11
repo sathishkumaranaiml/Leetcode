@@ -5,8 +5,28 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-11T07:04:59.207Z",
+  "updatedAt": "2026-10-11T07:05:07.411Z",
   "problems": [
+    {
+      "frontendId": "39",
+      "title": "Combination Sum",
+      "slug": "combination-sum",
+      "problemName": "0039-combination-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/combination-sum/",
+      "folderPath": "leetcode/0039-combination-sum/",
+      "readmePath": "leetcode/0039-combination-sum/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0039-combination-sum.py",
+          "path": "leetcode/0039-combination-sum/0039-combination-sum.py",
+          "sha": "410af868fe5dba2033ac2b1134c8b90addb883a7",
+          "lastSyncedAt": "2026-10-11T07:05:07.411Z"
+        }
+      ]
+    },
     {
       "frontendId": "78",
       "title": "Subsets",
