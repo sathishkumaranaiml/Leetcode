@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-11T08:00:05.206Z",
+  "updatedAt": "2026-10-11T08:00:13.911Z",
   "problems": [
     {
       "frontendId": "3",
@@ -743,7 +743,7 @@
           "filename": "1249-minimum-remove-to-make-valid-parentheses.py",
           "path": "leetcode/1249-minimum-remove-to-make-valid-parentheses/1249-minimum-remove-to-make-valid-parentheses.py",
           "sha": "314a8d15ab1136ebffa9a67054b3b0c35713f4e5",
-          "lastSyncedAt": "2026-10-11T07:07:09.269Z"
+          "lastSyncedAt": "2026-10-11T08:00:13.911Z"
         }
       ]
     },
