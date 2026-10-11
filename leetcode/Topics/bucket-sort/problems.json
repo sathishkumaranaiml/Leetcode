@@ -5,7 +5,7 @@
     "name": "Bucket Sort",
     "tagId": "61060"
   },
-  "updatedAt": "2026-10-11T07:19:03.531Z",
+  "updatedAt": "2026-10-11T07:45:37.619Z",
   "problems": [
     {
       "frontendId": "347",
@@ -44,6 +44,26 @@
           "path": "leetcode/0451-sort-characters-by-frequency/0451-sort-characters-by-frequency.py",
           "sha": "8da7897318a1f88e78d8809c031134a0567bf354",
           "lastSyncedAt": "2026-10-11T07:11:13.759Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "692",
+      "title": "Top K Frequent Words",
+      "slug": "top-k-frequent-words",
+      "problemName": "0692-top-k-frequent-words",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/top-k-frequent-words/",
+      "folderPath": "leetcode/0692-top-k-frequent-words/",
+      "readmePath": "leetcode/0692-top-k-frequent-words/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0692-top-k-frequent-words.py",
+          "path": "leetcode/0692-top-k-frequent-words/0692-top-k-frequent-words.py",
+          "sha": "5a4ecf3ed7999d91c343dd2aec06faab89d21ddf",
+          "lastSyncedAt": "2026-10-11T07:45:37.619Z"
         }
       ]
     }
