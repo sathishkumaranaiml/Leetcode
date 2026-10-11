@@ -5,7 +5,7 @@
     "name": "Counting",
     "tagId": "61062"
   },
-  "updatedAt": "2026-10-11T07:19:03.531Z",
+  "updatedAt": "2026-10-11T07:21:46.211Z",
   "problems": [
     {
       "frontendId": "347",
@@ -84,6 +84,26 @@
           "path": "leetcode/0884-uncommon-words-from-two-sentences/0884-uncommon-words-from-two-sentences.py",
           "sha": "7cc4e0985194b7c576b5595616f7c13a3c3d81a0",
           "lastSyncedAt": "2026-10-11T07:08:06.359Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "992",
+      "title": "Subarrays with K Different Integers",
+      "slug": "subarrays-with-k-different-integers",
+      "problemName": "0992-subarrays-with-k-different-integers",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/subarrays-with-k-different-integers/",
+      "folderPath": "leetcode/0992-subarrays-with-k-different-integers/",
+      "readmePath": "leetcode/0992-subarrays-with-k-different-integers/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0992-subarrays-with-k-different-integers.py",
+          "path": "leetcode/0992-subarrays-with-k-different-integers/0992-subarrays-with-k-different-integers.py",
+          "sha": "4be4116a099c70a6139a8710cb4cf686c84fbb25",
+          "lastSyncedAt": "2026-10-11T07:21:46.211Z"
         }
       ]
     },
