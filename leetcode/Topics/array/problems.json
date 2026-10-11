@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-11T07:59:06.441Z",
+  "updatedAt": "2026-10-11T07:59:12.637Z",
   "problems": [
     {
       "frontendId": "1",
@@ -883,7 +883,7 @@
           "filename": "0376-wiggle-subsequence.py",
           "path": "leetcode/0376-wiggle-subsequence/0376-wiggle-subsequence.py",
           "sha": "1516cc1c085fac94ae67a94817d1f0f278904072",
-          "lastSyncedAt": "2026-10-11T07:06:11.325Z"
+          "lastSyncedAt": "2026-10-11T07:59:12.637Z"
         }
       ]
     },
