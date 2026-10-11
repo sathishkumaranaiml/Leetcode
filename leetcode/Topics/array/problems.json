@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-11T07:20:06.339Z",
+  "updatedAt": "2026-10-11T07:20:13.674Z",
   "problems": [
     {
       "frontendId": "1",
@@ -884,6 +884,26 @@
           "path": "leetcode/0930-binary-subarrays-with-sum/0930-binary-subarrays-with-sum.py",
           "sha": "6a3073294de9daa99aef18ea5160af8a154bc41d",
           "lastSyncedAt": "2026-10-11T07:16:11.800Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "986",
+      "title": "Interval List Intersections",
+      "slug": "interval-list-intersections",
+      "problemName": "0986-interval-list-intersections",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/interval-list-intersections/",
+      "folderPath": "leetcode/0986-interval-list-intersections/",
+      "readmePath": "leetcode/0986-interval-list-intersections/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0986-interval-list-intersections.py",
+          "path": "leetcode/0986-interval-list-intersections/0986-interval-list-intersections.py",
+          "sha": "7e63111e2fdf5b3dbd69563cd4e1548410a84bde",
+          "lastSyncedAt": "2026-10-11T07:20:13.674Z"
         }
       ]
     },
