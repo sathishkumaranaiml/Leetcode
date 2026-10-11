@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-11T07:12:43.168Z",
+  "updatedAt": "2026-10-11T07:12:47.594Z",
   "problems": [
     {
       "frontendId": "1251",
@@ -24,6 +24,26 @@
           "path": "leetcode/1251-average-selling-price/1251-average-selling-price.sql",
           "sha": "7c2bdc29e13005a15cb34f46bdfe26da8a4ea563",
           "lastSyncedAt": "2026-10-11T07:12:15.027Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1407",
+      "title": "Top Travellers",
+      "slug": "top-travellers",
+      "problemName": "1407-top-travellers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/top-travellers/",
+      "folderPath": "leetcode/1407-top-travellers/",
+      "readmePath": "leetcode/1407-top-travellers/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1407-top-travellers.sql",
+          "path": "leetcode/1407-top-travellers/1407-top-travellers.sql",
+          "sha": "35ef4d2895588952aea6037016fefb5c40052c2f",
+          "lastSyncedAt": "2026-10-11T07:12:47.594Z"
         }
       ]
     },
