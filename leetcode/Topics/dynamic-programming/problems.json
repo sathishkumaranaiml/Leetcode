@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-11T07:58:23.765Z",
+  "updatedAt": "2026-10-11T07:58:40.884Z",
   "problems": [
     {
       "frontendId": "32",
@@ -63,7 +63,7 @@
           "filename": "0045-jump-game-ii.py",
           "path": "leetcode/0045-jump-game-ii/0045-jump-game-ii.py",
           "sha": "c400fc7c13b0690002fef15864979d8e22320f1d",
-          "lastSyncedAt": "2026-10-11T07:05:33.286Z"
+          "lastSyncedAt": "2026-10-11T07:58:40.884Z"
         }
       ]
     },
