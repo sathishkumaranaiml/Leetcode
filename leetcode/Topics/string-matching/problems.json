@@ -5,7 +5,7 @@
     "name": "String Matching",
     "tagId": "61052"
   },
-  "updatedAt": "2026-10-11T07:09:24.470Z",
+  "updatedAt": "2026-10-11T07:42:51.560Z",
   "problems": [
     {
       "frontendId": "28",
@@ -84,6 +84,26 @@
           "path": "leetcode/1392-longest-happy-prefix/1392-longest-happy-prefix.py",
           "sha": "9109a39298800da1a6e384e3a255c8cd289ed127",
           "lastSyncedAt": "2026-10-11T07:08:49.524Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1455",
+      "title": "Check If a Word Occurs As a Prefix of Any Word in a Sentence",
+      "slug": "check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence",
+      "problemName": "1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/",
+      "folderPath": "leetcode/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/",
+      "readmePath": "leetcode/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.py",
+          "path": "leetcode/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.py",
+          "sha": "e32b81208a204b5d61e73d284e2d4bd7bf0b0459",
+          "lastSyncedAt": "2026-10-11T07:42:51.560Z"
         }
       ]
     }
