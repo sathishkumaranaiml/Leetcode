@@ -5,7 +5,7 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-10-11T07:17:32.093Z",
+  "updatedAt": "2026-10-11T07:17:39.509Z",
   "problems": [
     {
       "frontendId": "48",
@@ -44,6 +44,26 @@
           "path": "leetcode/0059-spiral-matrix-ii/0059-spiral-matrix-ii.py",
           "sha": "93a59bc0c0f4dafe8c5504f1df69826190321b13",
           "lastSyncedAt": "2026-10-11T07:17:18.328Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "73",
+      "title": "Set Matrix Zeroes",
+      "slug": "set-matrix-zeroes",
+      "problemName": "0073-set-matrix-zeroes",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/set-matrix-zeroes/",
+      "folderPath": "leetcode/0073-set-matrix-zeroes/",
+      "readmePath": "leetcode/0073-set-matrix-zeroes/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0073-set-matrix-zeroes.py",
+          "path": "leetcode/0073-set-matrix-zeroes/0073-set-matrix-zeroes.py",
+          "sha": "aff70eac7ef8dbafc09f80ed37c441438114edf5",
+          "lastSyncedAt": "2026-10-11T07:17:39.509Z"
         }
       ]
     },
