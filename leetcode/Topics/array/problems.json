@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-11T07:06:44.749Z",
+  "updatedAt": "2026-10-11T07:07:15.918Z",
   "problems": [
     {
       "frontendId": "1",
@@ -264,6 +264,26 @@
           "path": "leetcode/0739-daily-temperatures/0739-daily-temperatures.py",
           "sha": "cd5f3930820a38929e98e3c58e24913f467f55f3",
           "lastSyncedAt": "2026-10-11T07:06:40.324Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "875",
+      "title": "Koko Eating Bananas",
+      "slug": "koko-eating-bananas",
+      "problemName": "0875-koko-eating-bananas",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/koko-eating-bananas/",
+      "folderPath": "leetcode/0875-koko-eating-bananas/",
+      "readmePath": "leetcode/0875-koko-eating-bananas/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0875-koko-eating-bananas.py",
+          "path": "leetcode/0875-koko-eating-bananas/0875-koko-eating-bananas.py",
+          "sha": "9859b2e2b9fe3980db0d2afb8ccb2ad31d646f0a",
+          "lastSyncedAt": "2026-10-11T07:07:15.918Z"
         }
       ]
     },
