@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-11T08:00:55.621Z",
+  "updatedAt": "2026-10-11T08:01:14.558Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2523,7 +2523,7 @@
           "filename": "4061-minimum-queen-moves-to-reach-target.py",
           "path": "leetcode/4061-minimum-queen-moves-to-reach-target/4061-minimum-queen-moves-to-reach-target.py",
           "sha": "2a2823986c7085c80a1a017b370a3808db3578dc",
-          "lastSyncedAt": "2026-10-11T07:08:11.671Z"
+          "lastSyncedAt": "2026-10-11T08:01:14.558Z"
         }
       ]
     },
