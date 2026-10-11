@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-11T07:09:58.701Z",
+  "updatedAt": "2026-10-11T07:10:07.475Z",
   "problems": [
     {
       "frontendId": "28",
@@ -284,6 +284,26 @@
           "path": "leetcode/1209-remove-all-adjacent-duplicates-in-string-ii/1209-remove-all-adjacent-duplicates-in-string-ii.py",
           "sha": "fb0e8d9114b092304298067cd197f8eab86c9dd4",
           "lastSyncedAt": "2026-10-11T07:06:54.936Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1234",
+      "title": "Replace the Substring for Balanced String",
+      "slug": "replace-the-substring-for-balanced-string",
+      "problemName": "1234-replace-the-substring-for-balanced-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/replace-the-substring-for-balanced-string/",
+      "folderPath": "leetcode/1234-replace-the-substring-for-balanced-string/",
+      "readmePath": "leetcode/1234-replace-the-substring-for-balanced-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1234-replace-the-substring-for-balanced-string.py",
+          "path": "leetcode/1234-replace-the-substring-for-balanced-string/1234-replace-the-substring-for-balanced-string.py",
+          "sha": "9160566921192c3a3fd92d42ffe079938ef00d8f",
+          "lastSyncedAt": "2026-10-11T07:10:07.475Z"
         }
       ]
     },
