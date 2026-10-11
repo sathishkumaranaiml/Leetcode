@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-11T07:44:40.550Z",
+  "updatedAt": "2026-10-11T07:44:46.957Z",
   "problems": [
     {
       "frontendId": "11",
@@ -704,6 +704,26 @@
           "path": "leetcode/3884-first-matching-character-from-both-ends/3884-first-matching-character-from-both-ends.py",
           "sha": "377b50f487e69539015f61e0ee4b042ad63591e3",
           "lastSyncedAt": "2026-10-11T07:44:40.550Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3936",
+      "title": "Minimum Swaps to Move Zeros to End",
+      "slug": "minimum-swaps-to-move-zeros-to-end",
+      "problemName": "3936-minimum-swaps-to-move-zeros-to-end",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-swaps-to-move-zeros-to-end/",
+      "folderPath": "leetcode/3936-minimum-swaps-to-move-zeros-to-end/",
+      "readmePath": "leetcode/3936-minimum-swaps-to-move-zeros-to-end/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3936-minimum-swaps-to-move-zeros-to-end.py",
+          "path": "leetcode/3936-minimum-swaps-to-move-zeros-to-end/3936-minimum-swaps-to-move-zeros-to-end.py",
+          "sha": "da7354dbc6bedf545fc1c27de31c7f317f6f6628",
+          "lastSyncedAt": "2026-10-11T07:44:46.957Z"
         }
       ]
     },
