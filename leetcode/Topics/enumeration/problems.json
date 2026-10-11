@@ -5,8 +5,28 @@
     "name": "Enumeration",
     "tagId": "61066"
   },
-  "updatedAt": "2026-10-11T07:11:49.769Z",
+  "updatedAt": "2026-10-11T13:46:43.248Z",
   "problems": [
+    {
+      "frontendId": "2778",
+      "title": "Sum of Squares of Special Elements ",
+      "slug": "sum-of-squares-of-special-elements",
+      "problemName": "2778-sum-of-squares-of-special-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-squares-of-special-elements/",
+      "folderPath": "leetcode/2778-sum-of-squares-of-special-elements/",
+      "readmePath": "leetcode/2778-sum-of-squares-of-special-elements/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "2778-sum-of-squares-of-special-elements.py",
+          "path": "leetcode/2778-sum-of-squares-of-special-elements/2778-sum-of-squares-of-special-elements.py",
+          "sha": "77b4757ee58ab5a16921df1a2d9d247ca28928d2",
+          "lastSyncedAt": "2026-10-11T13:46:43.248Z"
+        }
+      ]
+    },
     {
       "frontendId": "4056",
       "title": "Number of Intersecting Interval Pairs I",
