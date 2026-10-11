@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-11T07:05:37.820Z",
+  "updatedAt": "2026-10-11T07:06:11.325Z",
   "problems": [
     {
       "frontendId": "45",
@@ -64,6 +64,26 @@
           "path": "leetcode/0122-best-time-to-buy-and-sell-stock-ii/0122-best-time-to-buy-and-sell-stock-ii.py",
           "sha": "298ae0ffa7a0bec9044614ecc7e4988bf8d92939",
           "lastSyncedAt": "2026-10-11T07:05:11.209Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "376",
+      "title": "Wiggle Subsequence",
+      "slug": "wiggle-subsequence",
+      "problemName": "0376-wiggle-subsequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/wiggle-subsequence/",
+      "folderPath": "leetcode/0376-wiggle-subsequence/",
+      "readmePath": "leetcode/0376-wiggle-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0376-wiggle-subsequence.py",
+          "path": "leetcode/0376-wiggle-subsequence/0376-wiggle-subsequence.py",
+          "sha": "1516cc1c085fac94ae67a94817d1f0f278904072",
+          "lastSyncedAt": "2026-10-11T07:06:11.325Z"
         }
       ]
     },
