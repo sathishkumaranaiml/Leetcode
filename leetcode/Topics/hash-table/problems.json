@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-11T07:10:56.975Z",
+  "updatedAt": "2026-10-11T07:11:05.119Z",
   "problems": [
     {
       "frontendId": "1",
@@ -44,6 +44,26 @@
           "path": "leetcode/0187-repeated-dna-sequences/0187-repeated-dna-sequences.py",
           "sha": "4ccff6ecf207e4c09174fa09ee2f1956a97c3c3b",
           "lastSyncedAt": "2026-10-11T07:09:05.294Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "383",
+      "title": "Ransom Note",
+      "slug": "ransom-note",
+      "problemName": "0383-ransom-note",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/ransom-note/",
+      "folderPath": "leetcode/0383-ransom-note/",
+      "readmePath": "leetcode/0383-ransom-note/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0383-ransom-note.py",
+          "path": "leetcode/0383-ransom-note/0383-ransom-note.py",
+          "sha": "7234cadfdfc315b765abf53a11f046e6aaf0f7d0",
+          "lastSyncedAt": "2026-10-11T07:11:05.119Z"
         }
       ]
     },
