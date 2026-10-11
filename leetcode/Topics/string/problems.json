@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-11T07:42:36.064Z",
+  "updatedAt": "2026-10-11T07:42:44.614Z",
   "problems": [
     {
       "frontendId": "3",
@@ -584,6 +584,26 @@
           "path": "leetcode/1249-minimum-remove-to-make-valid-parentheses/1249-minimum-remove-to-make-valid-parentheses.py",
           "sha": "314a8d15ab1136ebffa9a67054b3b0c35713f4e5",
           "lastSyncedAt": "2026-10-11T07:07:09.269Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1332",
+      "title": "Remove Palindromic Subsequences",
+      "slug": "remove-palindromic-subsequences",
+      "problemName": "1332-remove-palindromic-subsequences",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-palindromic-subsequences/",
+      "folderPath": "leetcode/1332-remove-palindromic-subsequences/",
+      "readmePath": "leetcode/1332-remove-palindromic-subsequences/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1332-remove-palindromic-subsequences.py",
+          "path": "leetcode/1332-remove-palindromic-subsequences/1332-remove-palindromic-subsequences.py",
+          "sha": "7ee974fb9fbc08650804858e86cfd792f50dd81c",
+          "lastSyncedAt": "2026-10-11T07:42:44.614Z"
         }
       ]
     },
