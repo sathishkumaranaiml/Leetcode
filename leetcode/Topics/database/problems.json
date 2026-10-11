@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-11T07:13:41.070Z",
+  "updatedAt": "2026-10-11T07:13:45.590Z",
   "problems": [
     {
       "frontendId": "196",
@@ -24,6 +24,26 @@
           "path": "leetcode/0196-delete-duplicate-emails/0196-delete-duplicate-emails.sql",
           "sha": "b3d613aa7cd98f08a984d8e8208fac6aa9c82881",
           "lastSyncedAt": "2026-10-11T07:13:41.070Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "197",
+      "title": "Rising Temperature",
+      "slug": "rising-temperature",
+      "problemName": "0197-rising-temperature",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/rising-temperature/",
+      "folderPath": "leetcode/0197-rising-temperature/",
+      "readmePath": "leetcode/0197-rising-temperature/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0197-rising-temperature.sql",
+          "path": "leetcode/0197-rising-temperature/0197-rising-temperature.sql",
+          "sha": "7591364aa4c411565a2c83f28926abbb1d9b9da7",
+          "lastSyncedAt": "2026-10-11T07:13:45.590Z"
         }
       ]
     },
