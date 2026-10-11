@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-11T07:23:25.519Z",
+  "updatedAt": "2026-10-11T07:23:35.233Z",
   "problems": [
     {
       "frontendId": "3",
@@ -644,6 +644,26 @@
           "path": "leetcode/2024-maximize-the-confusion-of-an-exam/2024-maximize-the-confusion-of-an-exam.py",
           "sha": "8ce65c97b9f0b9467badc963947dfed9dcd1a5e6",
           "lastSyncedAt": "2026-10-11T07:09:58.701Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2269",
+      "title": "Find the K-Beauty of a Number",
+      "slug": "find-the-k-beauty-of-a-number",
+      "problemName": "2269-find-the-k-beauty-of-a-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-k-beauty-of-a-number/",
+      "folderPath": "leetcode/2269-find-the-k-beauty-of-a-number/",
+      "readmePath": "leetcode/2269-find-the-k-beauty-of-a-number/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "2269-find-the-k-beauty-of-a-number.py",
+          "path": "leetcode/2269-find-the-k-beauty-of-a-number/2269-find-the-k-beauty-of-a-number.py",
+          "sha": "f880734c621f3aca6a7c6d1203d70f4586c654b5",
+          "lastSyncedAt": "2026-10-11T07:23:35.233Z"
         }
       ]
     },
