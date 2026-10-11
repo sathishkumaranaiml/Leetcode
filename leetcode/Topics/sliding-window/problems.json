@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-10-11T07:25:56.287Z",
+  "updatedAt": "2026-10-11T07:26:07.685Z",
   "problems": [
     {
       "frontendId": "3",
@@ -124,6 +124,26 @@
           "path": "leetcode/0438-find-all-anagrams-in-a-string/0438-find-all-anagrams-in-a-string.py",
           "sha": "4b148f634b0c37b67ff069216a2f6424f5a9cbbc",
           "lastSyncedAt": "2026-10-11T07:23:25.519Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "713",
+      "title": "Subarray Product Less Than K",
+      "slug": "subarray-product-less-than-k",
+      "problemName": "0713-subarray-product-less-than-k",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/subarray-product-less-than-k/",
+      "folderPath": "leetcode/0713-subarray-product-less-than-k/",
+      "readmePath": "leetcode/0713-subarray-product-less-than-k/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0713-subarray-product-less-than-k.py",
+          "path": "leetcode/0713-subarray-product-less-than-k/0713-subarray-product-less-than-k.py",
+          "sha": "d676b907ed461b593b27a82293aafcfe2fc6491c",
+          "lastSyncedAt": "2026-10-11T07:26:07.685Z"
         }
       ]
     },
