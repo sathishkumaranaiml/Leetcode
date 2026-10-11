@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-11T07:08:15.094Z",
+  "updatedAt": "2026-10-11T07:16:01.365Z",
   "problems": [
     {
       "frontendId": "2",
@@ -104,6 +104,26 @@
           "path": "leetcode/0633-sum-of-square-numbers/0633-sum-of-square-numbers.py",
           "sha": "65d66e74629d2d075cc0f4660fb261427f199dee",
           "lastSyncedAt": "2026-10-11T07:05:51.531Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1248",
+      "title": "Count Number of Nice Subarrays",
+      "slug": "count-number-of-nice-subarrays",
+      "problemName": "1248-count-number-of-nice-subarrays",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-number-of-nice-subarrays/",
+      "folderPath": "leetcode/1248-count-number-of-nice-subarrays/",
+      "readmePath": "leetcode/1248-count-number-of-nice-subarrays/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1248-count-number-of-nice-subarrays.py",
+          "path": "leetcode/1248-count-number-of-nice-subarrays/1248-count-number-of-nice-subarrays.py",
+          "sha": "cd1ecbb63381714a0a071d791bc2fda3310c9903",
+          "lastSyncedAt": "2026-10-11T07:16:01.365Z"
         }
       ]
     },
