@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-11T07:06:00.403Z",
+  "updatedAt": "2026-10-11T07:07:15.918Z",
   "problems": [
     {
       "frontendId": "367",
@@ -44,6 +44,26 @@
           "path": "leetcode/0633-sum-of-square-numbers/0633-sum-of-square-numbers.py",
           "sha": "65d66e74629d2d075cc0f4660fb261427f199dee",
           "lastSyncedAt": "2026-10-11T07:05:51.531Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "875",
+      "title": "Koko Eating Bananas",
+      "slug": "koko-eating-bananas",
+      "problemName": "0875-koko-eating-bananas",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/koko-eating-bananas/",
+      "folderPath": "leetcode/0875-koko-eating-bananas/",
+      "readmePath": "leetcode/0875-koko-eating-bananas/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0875-koko-eating-bananas.py",
+          "path": "leetcode/0875-koko-eating-bananas/0875-koko-eating-bananas.py",
+          "sha": "9859b2e2b9fe3980db0d2afb8ccb2ad31d646f0a",
+          "lastSyncedAt": "2026-10-11T07:07:15.918Z"
         }
       ]
     }
