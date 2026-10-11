@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-10-11T07:27:10.389Z",
+  "updatedAt": "2026-10-11T07:27:21.602Z",
   "problems": [
     {
       "frontendId": "238",
@@ -244,6 +244,26 @@
           "path": "leetcode/1423-maximum-points-you-can-obtain-from-cards/1423-maximum-points-you-can-obtain-from-cards.py",
           "sha": "6b179db8a64a0ac0afb73f43eec70ef3d0bbd53f",
           "lastSyncedAt": "2026-10-11T07:23:00.315Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1480",
+      "title": "Running Sum of 1d Array",
+      "slug": "running-sum-of-1d-array",
+      "problemName": "1480-running-sum-of-1d-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/running-sum-of-1d-array/",
+      "folderPath": "leetcode/1480-running-sum-of-1d-array/",
+      "readmePath": "leetcode/1480-running-sum-of-1d-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1480-running-sum-of-1d-array.py",
+          "path": "leetcode/1480-running-sum-of-1d-array/1480-running-sum-of-1d-array.py",
+          "sha": "65687f67b0e25d347c8aab40096b60ad29cda9a2",
+          "lastSyncedAt": "2026-10-11T07:27:21.602Z"
         }
       ]
     },
