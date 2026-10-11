@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-11T07:11:36.240Z",
+  "updatedAt": "2026-10-11T07:11:42.668Z",
   "problems": [
     {
       "frontendId": "1",
@@ -84,6 +84,26 @@
           "path": "leetcode/0205-isomorphic-strings/0205-isomorphic-strings.py",
           "sha": "7e484f3559711ad106155e6e32bf1d1ea505f150",
           "lastSyncedAt": "2026-10-11T07:11:36.240Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "242",
+      "title": "Valid Anagram",
+      "slug": "valid-anagram",
+      "problemName": "0242-valid-anagram",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-anagram/",
+      "folderPath": "leetcode/0242-valid-anagram/",
+      "readmePath": "leetcode/0242-valid-anagram/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0242-valid-anagram.py",
+          "path": "leetcode/0242-valid-anagram/0242-valid-anagram.py",
+          "sha": "432b9bb7e81ced47542a23624769255628142617",
+          "lastSyncedAt": "2026-10-11T07:11:42.668Z"
         }
       ]
     },
