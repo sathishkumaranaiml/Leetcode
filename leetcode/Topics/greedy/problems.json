@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-11T07:57:23.064Z",
+  "updatedAt": "2026-10-11T07:57:53.735Z",
   "problems": [
     {
       "frontendId": "11",
@@ -344,6 +344,26 @@
           "path": "leetcode/1326-minimum-number-of-taps-to-open-to-water-a-garden/1326-minimum-number-of-taps-to-open-to-water-a-garden.py",
           "sha": "fa61286f2b7efe1f5d356b021250aeb3dee162e1",
           "lastSyncedAt": "2026-10-11T07:56:58.588Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1647",
+      "title": "Minimum Deletions to Make Character Frequencies Unique",
+      "slug": "minimum-deletions-to-make-character-frequencies-unique",
+      "problemName": "1647-minimum-deletions-to-make-character-frequencies-unique",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/",
+      "folderPath": "leetcode/1647-minimum-deletions-to-make-character-frequencies-unique/",
+      "readmePath": "leetcode/1647-minimum-deletions-to-make-character-frequencies-unique/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1647-minimum-deletions-to-make-character-frequencies-unique.py",
+          "path": "leetcode/1647-minimum-deletions-to-make-character-frequencies-unique/1647-minimum-deletions-to-make-character-frequencies-unique.py",
+          "sha": "f0234f3c0b12b55dbf6f6a4fae4fc7e47ca81269",
+          "lastSyncedAt": "2026-10-11T07:57:53.735Z"
         }
       ]
     },
