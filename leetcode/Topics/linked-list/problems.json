@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-10-11T07:21:11.847Z",
+  "updatedAt": "2026-10-11T07:58:52.707Z",
   "problems": [
     {
       "frontendId": "2",
@@ -83,7 +83,7 @@
           "filename": "0206-reverse-linked-list.py",
           "path": "leetcode/0206-reverse-linked-list/0206-reverse-linked-list.py",
           "sha": "7ba068e07f55c6aa7bb819566254d5182f9324ce",
-          "lastSyncedAt": "2026-10-11T07:05:44.682Z"
+          "lastSyncedAt": "2026-10-11T07:58:52.707Z"
         }
       ]
     },
