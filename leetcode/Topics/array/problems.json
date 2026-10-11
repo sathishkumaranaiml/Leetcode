@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-11T07:22:10.402Z",
+  "updatedAt": "2026-10-11T07:22:35.295Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1344,6 +1344,26 @@
           "path": "leetcode/2760-longest-even-odd-subarray-with-threshold/2760-longest-even-odd-subarray-with-threshold.py",
           "sha": "14634b7384ade52cf841cbc5bb48edc99309f170",
           "lastSyncedAt": "2026-10-11T07:21:54.886Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3364",
+      "title": "Minimum Positive Sum Subarray ",
+      "slug": "minimum-positive-sum-subarray",
+      "problemName": "3364-minimum-positive-sum-subarray",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-positive-sum-subarray/",
+      "folderPath": "leetcode/3364-minimum-positive-sum-subarray/",
+      "readmePath": "leetcode/3364-minimum-positive-sum-subarray/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3364-minimum-positive-sum-subarray.py",
+          "path": "leetcode/3364-minimum-positive-sum-subarray/3364-minimum-positive-sum-subarray.py",
+          "sha": "a8e10b896c0baf741545a08c67603f3bca7f448d",
+          "lastSyncedAt": "2026-10-11T07:22:35.295Z"
         }
       ]
     },
