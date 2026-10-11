@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-11T07:44:54.076Z",
+  "updatedAt": "2026-10-11T07:45:00.887Z",
   "problems": [
     {
       "frontendId": "11",
@@ -104,6 +104,26 @@
           "path": "leetcode/0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.py",
           "sha": "1d7b7e8ef18b253f9eeb5159aab79ecc47341082",
           "lastSyncedAt": "2026-10-11T07:09:24.470Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "42",
+      "title": "Trapping Rain Water",
+      "slug": "trapping-rain-water",
+      "problemName": "0042-trapping-rain-water",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/trapping-rain-water/",
+      "folderPath": "leetcode/0042-trapping-rain-water/",
+      "readmePath": "leetcode/0042-trapping-rain-water/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0042-trapping-rain-water.py",
+          "path": "leetcode/0042-trapping-rain-water/0042-trapping-rain-water.py",
+          "sha": "13c1e58b8d269251a62fd8ab17ae757e459bd5e3",
+          "lastSyncedAt": "2026-10-11T07:45:00.887Z"
         }
       ]
     },
