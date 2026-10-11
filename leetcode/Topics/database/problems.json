@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "database",
+    "name": "Database",
+    "tagId": "61043"
+  },
+  "updatedAt": "2026-10-11T07:12:08.856Z",
+  "problems": [
+    {
+      "frontendId": "1633",
+      "title": "Percentage of Users Attended a Contest",
+      "slug": "percentage-of-users-attended-a-contest",
+      "problemName": "1633-percentage-of-users-attended-a-contest",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/percentage-of-users-attended-a-contest/",
+      "folderPath": "leetcode/1633-percentage-of-users-attended-a-contest/",
+      "readmePath": "leetcode/1633-percentage-of-users-attended-a-contest/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1633-percentage-of-users-attended-a-contest.sql",
+          "path": "leetcode/1633-percentage-of-users-attended-a-contest/1633-percentage-of-users-attended-a-contest.sql",
+          "sha": "f654577e69e62fcbe919c404ea7c70dd09e0888d",
+          "lastSyncedAt": "2026-10-11T07:12:08.856Z"
+        }
+      ]
+    }
+  ]
+}
