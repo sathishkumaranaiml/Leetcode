@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-11T07:12:29.635Z",
+  "updatedAt": "2026-10-11T07:12:34.346Z",
   "problems": [
     {
       "frontendId": "1251",
@@ -24,6 +24,26 @@
           "path": "leetcode/1251-average-selling-price/1251-average-selling-price.sql",
           "sha": "7c2bdc29e13005a15cb34f46bdfe26da8a4ea563",
           "lastSyncedAt": "2026-10-11T07:12:15.027Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1587",
+      "title": "Bank Account Summary II",
+      "slug": "bank-account-summary-ii",
+      "problemName": "1587-bank-account-summary-ii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/bank-account-summary-ii/",
+      "folderPath": "leetcode/1587-bank-account-summary-ii/",
+      "readmePath": "leetcode/1587-bank-account-summary-ii/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1587-bank-account-summary-ii.sql",
+          "path": "leetcode/1587-bank-account-summary-ii/1587-bank-account-summary-ii.sql",
+          "sha": "4f3ae603a65c5023b3522a4c7ad4e0ae3702268b",
+          "lastSyncedAt": "2026-10-11T07:12:34.346Z"
         }
       ]
     },
