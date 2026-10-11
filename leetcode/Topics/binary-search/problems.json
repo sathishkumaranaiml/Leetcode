@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-11T08:02:17.257Z",
+  "updatedAt": "2026-10-11T08:02:37.541Z",
   "problems": [
     {
       "frontendId": "33",
@@ -463,7 +463,7 @@
           "filename": "2024-maximize-the-confusion-of-an-exam.py",
           "path": "leetcode/2024-maximize-the-confusion-of-an-exam/2024-maximize-the-confusion-of-an-exam.py",
           "sha": "8ce65c97b9f0b9467badc963947dfed9dcd1a5e6",
-          "lastSyncedAt": "2026-10-11T07:09:58.701Z"
+          "lastSyncedAt": "2026-10-11T08:02:37.541Z"
         }
       ]
     },
