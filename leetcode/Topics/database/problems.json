@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-11T07:12:38.659Z",
+  "updatedAt": "2026-10-11T07:12:43.168Z",
   "problems": [
     {
       "frontendId": "1251",
@@ -24,6 +24,26 @@
           "path": "leetcode/1251-average-selling-price/1251-average-selling-price.sql",
           "sha": "7c2bdc29e13005a15cb34f46bdfe26da8a4ea563",
           "lastSyncedAt": "2026-10-11T07:12:15.027Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1527",
+      "title": "Patients With a Condition",
+      "slug": "patients-with-a-condition",
+      "problemName": "1527-patients-with-a-condition",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/patients-with-a-condition/",
+      "folderPath": "leetcode/1527-patients-with-a-condition/",
+      "readmePath": "leetcode/1527-patients-with-a-condition/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1527-patients-with-a-condition.sql",
+          "path": "leetcode/1527-patients-with-a-condition/1527-patients-with-a-condition.sql",
+          "sha": "199c2867dfec4d86e5e485704541859cdbdd731d",
+          "lastSyncedAt": "2026-10-11T07:12:43.168Z"
         }
       ]
     },
