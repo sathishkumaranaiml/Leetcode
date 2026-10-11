@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-11T07:19:55.488Z",
+  "updatedAt": "2026-10-11T07:23:35.233Z",
   "problems": [
     {
       "frontendId": "2",
@@ -204,6 +204,26 @@
           "path": "leetcode/1524-number-of-sub-arrays-with-odd-sum/1524-number-of-sub-arrays-with-odd-sum.py",
           "sha": "58d179c9d5c4180c2b1eb2c2177a0943ca42b38e",
           "lastSyncedAt": "2026-10-11T07:19:29.597Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2269",
+      "title": "Find the K-Beauty of a Number",
+      "slug": "find-the-k-beauty-of-a-number",
+      "problemName": "2269-find-the-k-beauty-of-a-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-k-beauty-of-a-number/",
+      "folderPath": "leetcode/2269-find-the-k-beauty-of-a-number/",
+      "readmePath": "leetcode/2269-find-the-k-beauty-of-a-number/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "2269-find-the-k-beauty-of-a-number.py",
+          "path": "leetcode/2269-find-the-k-beauty-of-a-number/2269-find-the-k-beauty-of-a-number.py",
+          "sha": "f880734c621f3aca6a7c6d1203d70f4586c654b5",
+          "lastSyncedAt": "2026-10-11T07:23:35.233Z"
         }
       ]
     },
