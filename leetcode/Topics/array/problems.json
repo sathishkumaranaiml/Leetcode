@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-11T07:22:35.295Z",
+  "updatedAt": "2026-10-11T07:22:43.992Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1244,6 +1244,26 @@
           "path": "leetcode/1590-make-sum-divisible-by-p/1590-make-sum-divisible-by-p.py",
           "sha": "330039dd1b3512010138318921d5be5706952cb7",
           "lastSyncedAt": "2026-10-11T07:15:54.088Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1652",
+      "title": "Defuse the Bomb",
+      "slug": "defuse-the-bomb",
+      "problemName": "1652-defuse-the-bomb",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/defuse-the-bomb/",
+      "folderPath": "leetcode/1652-defuse-the-bomb/",
+      "readmePath": "leetcode/1652-defuse-the-bomb/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1652-defuse-the-bomb.py",
+          "path": "leetcode/1652-defuse-the-bomb/1652-defuse-the-bomb.py",
+          "sha": "c072e294ab6ff2d7b4e46f7a8882d2588edb69aa",
+          "lastSyncedAt": "2026-10-11T07:22:43.992Z"
         }
       ]
     },
