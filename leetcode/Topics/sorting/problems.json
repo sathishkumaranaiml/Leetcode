@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-11T07:42:18.149Z",
+  "updatedAt": "2026-10-11T07:43:08.276Z",
   "problems": [
     {
       "frontendId": "15",
@@ -524,6 +524,26 @@
           "path": "leetcode/2248-intersection-of-multiple-arrays/2248-intersection-of-multiple-arrays.py",
           "sha": "a4e1dd222f2b45f837303cd8615d390ee7cd4c28",
           "lastSyncedAt": "2026-10-11T07:24:19.080Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2824",
+      "title": "Count Pairs Whose Sum is Less than Target",
+      "slug": "count-pairs-whose-sum-is-less-than-target",
+      "problemName": "2824-count-pairs-whose-sum-is-less-than-target",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/",
+      "folderPath": "leetcode/2824-count-pairs-whose-sum-is-less-than-target/",
+      "readmePath": "leetcode/2824-count-pairs-whose-sum-is-less-than-target/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2824-count-pairs-whose-sum-is-less-than-target.py",
+          "path": "leetcode/2824-count-pairs-whose-sum-is-less-than-target/2824-count-pairs-whose-sum-is-less-than-target.py",
+          "sha": "9ee0899017f73419df57315ce6612a1ce5d480af",
+          "lastSyncedAt": "2026-10-11T07:43:08.276Z"
         }
       ]
     },
