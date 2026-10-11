@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-11T07:07:01.809Z",
+  "updatedAt": "2026-10-11T07:07:09.269Z",
   "problems": [
     {
       "frontendId": "32",
@@ -104,6 +104,26 @@
           "path": "leetcode/1209-remove-all-adjacent-duplicates-in-string-ii/1209-remove-all-adjacent-duplicates-in-string-ii.py",
           "sha": "fb0e8d9114b092304298067cd197f8eab86c9dd4",
           "lastSyncedAt": "2026-10-11T07:06:54.936Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1249",
+      "title": "Minimum Remove to Make Valid Parentheses",
+      "slug": "minimum-remove-to-make-valid-parentheses",
+      "problemName": "1249-minimum-remove-to-make-valid-parentheses",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/",
+      "folderPath": "leetcode/1249-minimum-remove-to-make-valid-parentheses/",
+      "readmePath": "leetcode/1249-minimum-remove-to-make-valid-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "1249-minimum-remove-to-make-valid-parentheses.py",
+          "path": "leetcode/1249-minimum-remove-to-make-valid-parentheses/1249-minimum-remove-to-make-valid-parentheses.py",
+          "sha": "314a8d15ab1136ebffa9a67054b3b0c35713f4e5",
+          "lastSyncedAt": "2026-10-11T07:07:09.269Z"
         }
       ]
     }
