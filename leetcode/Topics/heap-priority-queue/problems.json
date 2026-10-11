@@ -5,8 +5,28 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-10-11T07:07:48.494Z",
+  "updatedAt": "2026-10-11T07:11:13.759Z",
   "problems": [
+    {
+      "frontendId": "451",
+      "title": "Sort Characters By Frequency",
+      "slug": "sort-characters-by-frequency",
+      "problemName": "0451-sort-characters-by-frequency",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-characters-by-frequency/",
+      "folderPath": "leetcode/0451-sort-characters-by-frequency/",
+      "readmePath": "leetcode/0451-sort-characters-by-frequency/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0451-sort-characters-by-frequency.py",
+          "path": "leetcode/0451-sort-characters-by-frequency/0451-sort-characters-by-frequency.py",
+          "sha": "8da7897318a1f88e78d8809c031134a0567bf354",
+          "lastSyncedAt": "2026-10-11T07:11:13.759Z"
+        }
+      ]
+    },
     {
       "frontendId": "4065",
       "title": "Rearrange Array by Removing Distinct Values",
