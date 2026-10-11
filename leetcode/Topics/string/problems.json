@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-11T07:42:27.105Z",
+  "updatedAt": "2026-10-11T07:42:36.064Z",
   "problems": [
     {
       "frontendId": "3",
@@ -664,6 +664,26 @@
           "path": "leetcode/1876-substrings-of-size-three-with-distinct-characters/1876-substrings-of-size-three-with-distinct-characters.py",
           "sha": "298d24174783e4eef780209747d4cc60f507d448",
           "lastSyncedAt": "2026-10-11T07:22:50.622Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1961",
+      "title": "Check If String Is a Prefix of Array",
+      "slug": "check-if-string-is-a-prefix-of-array",
+      "problemName": "1961-check-if-string-is-a-prefix-of-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/",
+      "folderPath": "leetcode/1961-check-if-string-is-a-prefix-of-array/",
+      "readmePath": "leetcode/1961-check-if-string-is-a-prefix-of-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1961-check-if-string-is-a-prefix-of-array.py",
+          "path": "leetcode/1961-check-if-string-is-a-prefix-of-array/1961-check-if-string-is-a-prefix-of-array.py",
+          "sha": "ba18c1535b6f54a34f314e0f1e35ce7170d63cb6",
+          "lastSyncedAt": "2026-10-11T07:42:36.064Z"
         }
       ]
     },
