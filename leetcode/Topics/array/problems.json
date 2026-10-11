@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-11T07:21:21.437Z",
+  "updatedAt": "2026-10-11T07:21:29.436Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1004,6 +1004,26 @@
           "path": "leetcode/0986-interval-list-intersections/0986-interval-list-intersections.py",
           "sha": "7e63111e2fdf5b3dbd69563cd4e1548410a84bde",
           "lastSyncedAt": "2026-10-11T07:20:13.674Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1004",
+      "title": "Max Consecutive Ones III",
+      "slug": "max-consecutive-ones-iii",
+      "problemName": "1004-max-consecutive-ones-iii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/max-consecutive-ones-iii/",
+      "folderPath": "leetcode/1004-max-consecutive-ones-iii/",
+      "readmePath": "leetcode/1004-max-consecutive-ones-iii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1004-max-consecutive-ones-iii.py",
+          "path": "leetcode/1004-max-consecutive-ones-iii/1004-max-consecutive-ones-iii.py",
+          "sha": "262055c1220f71f2e2b7a42defa03306805b2bfa",
+          "lastSyncedAt": "2026-10-11T07:21:29.436Z"
         }
       ]
     },
