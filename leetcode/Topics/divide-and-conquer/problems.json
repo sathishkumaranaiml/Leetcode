@@ -5,8 +5,28 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-10-11T07:10:29.583Z",
+  "updatedAt": "2026-10-11T07:17:08.797Z",
   "problems": [
+    {
+      "frontendId": "240",
+      "title": "Search a 2D Matrix II",
+      "slug": "search-a-2d-matrix-ii",
+      "problemName": "0240-search-a-2d-matrix-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/search-a-2d-matrix-ii/",
+      "folderPath": "leetcode/0240-search-a-2d-matrix-ii/",
+      "readmePath": "leetcode/0240-search-a-2d-matrix-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0240-search-a-2d-matrix-ii.py",
+          "path": "leetcode/0240-search-a-2d-matrix-ii/0240-search-a-2d-matrix-ii.py",
+          "sha": "732985b853b9ee61cda4aa32fcf54043d02cc9d5",
+          "lastSyncedAt": "2026-10-11T07:17:08.797Z"
+        }
+      ]
+    },
     {
       "frontendId": "324",
       "title": "Wiggle Sort II",
