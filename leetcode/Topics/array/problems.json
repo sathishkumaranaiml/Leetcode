@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-11T07:18:06.517Z",
+  "updatedAt": "2026-10-11T07:18:12.271Z",
   "problems": [
     {
       "frontendId": "1",
@@ -404,6 +404,26 @@
           "path": "leetcode/0240-search-a-2d-matrix-ii/0240-search-a-2d-matrix-ii.py",
           "sha": "732985b853b9ee61cda4aa32fcf54043d02cc9d5",
           "lastSyncedAt": "2026-10-11T07:17:08.797Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "274",
+      "title": "H-Index",
+      "slug": "h-index",
+      "problemName": "0274-h-index",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/h-index/",
+      "folderPath": "leetcode/0274-h-index/",
+      "readmePath": "leetcode/0274-h-index/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0274-h-index.py",
+          "path": "leetcode/0274-h-index/0274-h-index.py",
+          "sha": "b679dd86c515a80e12ef837f6cc16747e3465ec3",
+          "lastSyncedAt": "2026-10-11T07:18:12.271Z"
         }
       ]
     },
