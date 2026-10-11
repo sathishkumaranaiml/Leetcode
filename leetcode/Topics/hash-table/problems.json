@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-11T07:42:09.840Z",
+  "updatedAt": "2026-10-11T07:45:37.619Z",
   "problems": [
     {
       "frontendId": "1",
@@ -524,6 +524,26 @@
           "path": "leetcode/0645-set-mismatch/0645-set-mismatch.py",
           "sha": "73b836120943fd6cd1310d0db2da251ab6e6bb48",
           "lastSyncedAt": "2026-10-11T07:16:51.345Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "692",
+      "title": "Top K Frequent Words",
+      "slug": "top-k-frequent-words",
+      "problemName": "0692-top-k-frequent-words",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/top-k-frequent-words/",
+      "folderPath": "leetcode/0692-top-k-frequent-words/",
+      "readmePath": "leetcode/0692-top-k-frequent-words/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0692-top-k-frequent-words.py",
+          "path": "leetcode/0692-top-k-frequent-words/0692-top-k-frequent-words.py",
+          "sha": "5a4ecf3ed7999d91c343dd2aec06faab89d21ddf",
+          "lastSyncedAt": "2026-10-11T07:45:37.619Z"
         }
       ]
     },
