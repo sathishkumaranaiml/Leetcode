@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-11T07:05:11.209Z",
+  "updatedAt": "2026-10-11T07:05:29.904Z",
   "problems": [
     {
       "frontendId": "39",
@@ -64,6 +64,26 @@
           "path": "leetcode/0122-best-time-to-buy-and-sell-stock-ii/0122-best-time-to-buy-and-sell-stock-ii.py",
           "sha": "298ae0ffa7a0bec9044614ecc7e4988bf8d92939",
           "lastSyncedAt": "2026-10-11T07:05:11.209Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "134",
+      "title": "Gas Station",
+      "slug": "gas-station",
+      "problemName": "0134-gas-station",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/gas-station/",
+      "folderPath": "leetcode/0134-gas-station/",
+      "readmePath": "leetcode/0134-gas-station/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0134-gas-station.py",
+          "path": "leetcode/0134-gas-station/0134-gas-station.py",
+          "sha": "857b1704fce22d5fc73c019d1c2308527516bba3",
+          "lastSyncedAt": "2026-10-11T07:05:29.904Z"
         }
       ]
     },
