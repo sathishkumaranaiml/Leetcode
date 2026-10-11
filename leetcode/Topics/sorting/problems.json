@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-11T07:16:51.345Z",
+  "updatedAt": "2026-10-11T07:18:12.271Z",
   "problems": [
     {
       "frontendId": "47",
@@ -84,6 +84,26 @@
           "path": "leetcode/0242-valid-anagram/0242-valid-anagram.py",
           "sha": "432b9bb7e81ced47542a23624769255628142617",
           "lastSyncedAt": "2026-10-11T07:11:42.668Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "274",
+      "title": "H-Index",
+      "slug": "h-index",
+      "problemName": "0274-h-index",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/h-index/",
+      "folderPath": "leetcode/0274-h-index/",
+      "readmePath": "leetcode/0274-h-index/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0274-h-index.py",
+          "path": "leetcode/0274-h-index/0274-h-index.py",
+          "sha": "b679dd86c515a80e12ef837f6cc16747e3465ec3",
+          "lastSyncedAt": "2026-10-11T07:18:12.271Z"
         }
       ]
     },
