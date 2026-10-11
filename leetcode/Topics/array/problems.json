@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-11T07:45:29.226Z",
+  "updatedAt": "2026-10-11T07:45:37.619Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1064,6 +1064,26 @@
           "path": "leetcode/0665-non-decreasing-array/0665-non-decreasing-array.py",
           "sha": "4b9499b17e2c2ec233b42988a5e97eddbd749282",
           "lastSyncedAt": "2026-10-11T07:06:04.221Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "692",
+      "title": "Top K Frequent Words",
+      "slug": "top-k-frequent-words",
+      "problemName": "0692-top-k-frequent-words",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/top-k-frequent-words/",
+      "folderPath": "leetcode/0692-top-k-frequent-words/",
+      "readmePath": "leetcode/0692-top-k-frequent-words/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0692-top-k-frequent-words.py",
+          "path": "leetcode/0692-top-k-frequent-words/0692-top-k-frequent-words.py",
+          "sha": "5a4ecf3ed7999d91c343dd2aec06faab89d21ddf",
+          "lastSyncedAt": "2026-10-11T07:45:37.619Z"
         }
       ]
     },
