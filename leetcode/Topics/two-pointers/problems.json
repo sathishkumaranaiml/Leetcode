@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-11T07:42:44.614Z",
+  "updatedAt": "2026-10-11T07:42:51.560Z",
   "problems": [
     {
       "frontendId": "11",
@@ -364,6 +364,26 @@
           "path": "leetcode/1332-remove-palindromic-subsequences/1332-remove-palindromic-subsequences.py",
           "sha": "7ee974fb9fbc08650804858e86cfd792f50dd81c",
           "lastSyncedAt": "2026-10-11T07:42:44.614Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1455",
+      "title": "Check If a Word Occurs As a Prefix of Any Word in a Sentence",
+      "slug": "check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence",
+      "problemName": "1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/",
+      "folderPath": "leetcode/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/",
+      "readmePath": "leetcode/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.py",
+          "path": "leetcode/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.py",
+          "sha": "e32b81208a204b5d61e73d284e2d4bd7bf0b0459",
+          "lastSyncedAt": "2026-10-11T07:42:51.560Z"
         }
       ]
     },
