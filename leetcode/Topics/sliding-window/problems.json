@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-10-11T07:23:00.315Z",
+  "updatedAt": "2026-10-11T07:23:09.458Z",
   "problems": [
     {
       "frontendId": "3",
@@ -244,6 +244,26 @@
           "path": "leetcode/1248-count-number-of-nice-subarrays/1248-count-number-of-nice-subarrays.py",
           "sha": "cd1ecbb63381714a0a071d791bc2fda3310c9903",
           "lastSyncedAt": "2026-10-11T07:16:01.365Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1343",
+      "title": "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
+      "slug": "number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold",
+      "problemName": "1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/",
+      "folderPath": "leetcode/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/",
+      "readmePath": "leetcode/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold.py",
+          "path": "leetcode/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold.py",
+          "sha": "cdf3553c27ef0f8f18e6c033bc9b7709b210cced",
+          "lastSyncedAt": "2026-10-11T07:23:09.458Z"
         }
       ]
     },
