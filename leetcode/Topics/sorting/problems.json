@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-11T07:57:37.614Z",
+  "updatedAt": "2026-10-11T07:57:53.735Z",
   "problems": [
     {
       "frontendId": "15",
@@ -604,6 +604,26 @@
           "path": "leetcode/1460-make-two-arrays-equal-by-reversing-subarrays/1460-make-two-arrays-equal-by-reversing-subarrays.py",
           "sha": "aec03bb39c640214472c8a270859da8852ee4319",
           "lastSyncedAt": "2026-10-11T07:18:21.616Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1647",
+      "title": "Minimum Deletions to Make Character Frequencies Unique",
+      "slug": "minimum-deletions-to-make-character-frequencies-unique",
+      "problemName": "1647-minimum-deletions-to-make-character-frequencies-unique",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/",
+      "folderPath": "leetcode/1647-minimum-deletions-to-make-character-frequencies-unique/",
+      "readmePath": "leetcode/1647-minimum-deletions-to-make-character-frequencies-unique/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1647-minimum-deletions-to-make-character-frequencies-unique.py",
+          "path": "leetcode/1647-minimum-deletions-to-make-character-frequencies-unique/1647-minimum-deletions-to-make-character-frequencies-unique.py",
+          "sha": "f0234f3c0b12b55dbf6f6a4fae4fc7e47ca81269",
+          "lastSyncedAt": "2026-10-11T07:57:53.735Z"
         }
       ]
     },
