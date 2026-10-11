@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-11T07:18:36.607Z",
+  "updatedAt": "2026-10-11T07:19:29.597Z",
   "problems": [
     {
       "frontendId": "2",
@@ -164,6 +164,26 @@
           "path": "leetcode/1248-count-number-of-nice-subarrays/1248-count-number-of-nice-subarrays.py",
           "sha": "cd1ecbb63381714a0a071d791bc2fda3310c9903",
           "lastSyncedAt": "2026-10-11T07:16:01.365Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1524",
+      "title": "Number of Sub-arrays With Odd Sum",
+      "slug": "number-of-sub-arrays-with-odd-sum",
+      "problemName": "1524-number-of-sub-arrays-with-odd-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/",
+      "folderPath": "leetcode/1524-number-of-sub-arrays-with-odd-sum/",
+      "readmePath": "leetcode/1524-number-of-sub-arrays-with-odd-sum/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1524-number-of-sub-arrays-with-odd-sum.py",
+          "path": "leetcode/1524-number-of-sub-arrays-with-odd-sum/1524-number-of-sub-arrays-with-odd-sum.py",
+          "sha": "58d179c9d5c4180c2b1eb2c2177a0943ca42b38e",
+          "lastSyncedAt": "2026-10-11T07:19:29.597Z"
         }
       ]
     },
