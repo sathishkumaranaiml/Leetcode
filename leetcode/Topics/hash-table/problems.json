@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-11T07:19:19.830Z",
+  "updatedAt": "2026-10-11T07:19:47.737Z",
   "problems": [
     {
       "frontendId": "1",
@@ -364,6 +364,26 @@
           "path": "leetcode/0496-next-greater-element-i/0496-next-greater-element-i.py",
           "sha": "a2cb7a06206859946e9154c4e47e13146a4047e9",
           "lastSyncedAt": "2026-10-11T07:06:44.749Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "525",
+      "title": "Contiguous Array",
+      "slug": "contiguous-array",
+      "problemName": "0525-contiguous-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/contiguous-array/",
+      "folderPath": "leetcode/0525-contiguous-array/",
+      "readmePath": "leetcode/0525-contiguous-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0525-contiguous-array.py",
+          "path": "leetcode/0525-contiguous-array/0525-contiguous-array.py",
+          "sha": "1a17cc45f303a59576db078fe258e033ee232deb",
+          "lastSyncedAt": "2026-10-11T07:19:47.737Z"
         }
       ]
     },
