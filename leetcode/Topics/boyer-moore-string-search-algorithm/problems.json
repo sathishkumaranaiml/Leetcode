@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "boyer-moore-string-search-algorithm",
+    "name": "Boyer–Moore String-Search Algorithm",
+    "tagId": "122019"
+  },
+  "updatedAt": "2026-10-11T07:09:05.294Z",
+  "problems": [
+    {
+      "frontendId": "187",
+      "title": "Repeated DNA Sequences",
+      "slug": "repeated-dna-sequences",
+      "problemName": "0187-repeated-dna-sequences",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/repeated-dna-sequences/",
+      "folderPath": "leetcode/0187-repeated-dna-sequences/",
+      "readmePath": "leetcode/0187-repeated-dna-sequences/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0187-repeated-dna-sequences.py",
+          "path": "leetcode/0187-repeated-dna-sequences/0187-repeated-dna-sequences.py",
+          "sha": "4ccff6ecf207e4c09174fa09ee2f1956a97c3c3b",
+          "lastSyncedAt": "2026-10-11T07:09:05.294Z"
+        }
+      ]
+    }
+  ]
+}
