@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-11T07:17:25.643Z",
+  "updatedAt": "2026-10-11T07:17:32.093Z",
   "problems": [
     {
       "frontendId": "1",
@@ -124,6 +124,26 @@
           "path": "leetcode/0047-permutations-ii/0047-permutations-ii.py",
           "sha": "16a00bec279c75b8170e81fc5ebbab476e9a3271",
           "lastSyncedAt": "2026-10-11T07:16:35.902Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "48",
+      "title": "Rotate Image",
+      "slug": "rotate-image",
+      "problemName": "0048-rotate-image",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-image/",
+      "folderPath": "leetcode/0048-rotate-image/",
+      "readmePath": "leetcode/0048-rotate-image/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0048-rotate-image.py",
+          "path": "leetcode/0048-rotate-image/0048-rotate-image.py",
+          "sha": "91c5b487981c63c34a446d43db2b0a936eda22d3",
+          "lastSyncedAt": "2026-10-11T07:17:32.093Z"
         }
       ]
     },
