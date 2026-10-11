@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-10-11T07:22:01.460Z",
+  "updatedAt": "2026-10-11T07:22:10.402Z",
   "problems": [
     {
       "frontendId": "76",
@@ -264,6 +264,26 @@
           "path": "leetcode/1493-longest-subarray-of-1s-after-deleting-one-element/1493-longest-subarray-of-1s-after-deleting-one-element.py",
           "sha": "e167a9a3d2ef867b826123b6023f50ab04462407",
           "lastSyncedAt": "2026-10-11T07:20:54.765Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1695",
+      "title": "Maximum Erasure Value",
+      "slug": "maximum-erasure-value",
+      "problemName": "1695-maximum-erasure-value",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-erasure-value/",
+      "folderPath": "leetcode/1695-maximum-erasure-value/",
+      "readmePath": "leetcode/1695-maximum-erasure-value/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1695-maximum-erasure-value.py",
+          "path": "leetcode/1695-maximum-erasure-value/1695-maximum-erasure-value.py",
+          "sha": "d56a3447cd687227912eba2103b58621d1501c84",
+          "lastSyncedAt": "2026-10-11T07:22:10.402Z"
         }
       ]
     },
