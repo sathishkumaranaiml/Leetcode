@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-11T07:56:48.006Z",
+  "updatedAt": "2026-10-11T07:57:04.224Z",
   "problems": [
     {
       "frontendId": "3",
@@ -124,6 +124,26 @@
           "path": "leetcode/0076-minimum-window-substring/0076-minimum-window-substring.py",
           "sha": "a7cb6795d51fb70af2b3fd60236f45eccb17816e",
           "lastSyncedAt": "2026-10-11T07:21:03.607Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "179",
+      "title": "Largest Number",
+      "slug": "largest-number",
+      "problemName": "0179-largest-number",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-number/",
+      "folderPath": "leetcode/0179-largest-number/",
+      "readmePath": "leetcode/0179-largest-number/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0179-largest-number.py",
+          "path": "leetcode/0179-largest-number/0179-largest-number.py",
+          "sha": "ae8ecca80b3e2db8316e4c53ce98e60d5aa269a6",
+          "lastSyncedAt": "2026-10-11T07:57:04.224Z"
         }
       ]
     },
