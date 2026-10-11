@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-11T07:25:10.501Z",
+  "updatedAt": "2026-10-11T07:25:24.512Z",
   "problems": [
     {
       "frontendId": "1",
@@ -764,6 +764,26 @@
           "path": "leetcode/0452-minimum-number-of-arrows-to-burst-balloons/0452-minimum-number-of-arrows-to-burst-balloons.py",
           "sha": "499580dde9636bc591548dc1f2bdc1c8634d1e6d",
           "lastSyncedAt": "2026-10-11T07:20:23.019Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "454",
+      "title": "4Sum II",
+      "slug": "4sum-ii",
+      "problemName": "0454-4sum-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/4sum-ii/",
+      "folderPath": "leetcode/0454-4sum-ii/",
+      "readmePath": "leetcode/0454-4sum-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0454-4sum-ii.py",
+          "path": "leetcode/0454-4sum-ii/0454-4sum-ii.py",
+          "sha": "0873b263573371275fadc5a2c19e46991d3f6722",
+          "lastSyncedAt": "2026-10-11T07:25:24.512Z"
         }
       ]
     },
