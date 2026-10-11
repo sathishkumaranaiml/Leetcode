@@ -5,8 +5,28 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-11T07:12:08.856Z",
+  "updatedAt": "2026-10-11T07:12:15.027Z",
   "problems": [
+    {
+      "frontendId": "1251",
+      "title": "Average Selling Price",
+      "slug": "average-selling-price",
+      "problemName": "1251-average-selling-price",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/average-selling-price/",
+      "folderPath": "leetcode/1251-average-selling-price/",
+      "readmePath": "leetcode/1251-average-selling-price/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1251-average-selling-price.sql",
+          "path": "leetcode/1251-average-selling-price/1251-average-selling-price.sql",
+          "sha": "7c2bdc29e13005a15cb34f46bdfe26da8a4ea563",
+          "lastSyncedAt": "2026-10-11T07:12:15.027Z"
+        }
+      ]
+    },
     {
       "frontendId": "1633",
       "title": "Percentage of Users Attended a Contest",
