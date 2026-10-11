@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-11T07:57:04.224Z",
+  "updatedAt": "2026-10-11T07:57:53.735Z",
   "problems": [
     {
       "frontendId": "3",
@@ -844,6 +844,26 @@
           "path": "leetcode/1456-maximum-number-of-vowels-in-a-substring-of-given-length/1456-maximum-number-of-vowels-in-a-substring-of-given-length.py",
           "sha": "e5cd6ce929aa3f304d9ad7af6ce6a75183615584",
           "lastSyncedAt": "2026-10-11T07:23:43.550Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1647",
+      "title": "Minimum Deletions to Make Character Frequencies Unique",
+      "slug": "minimum-deletions-to-make-character-frequencies-unique",
+      "problemName": "1647-minimum-deletions-to-make-character-frequencies-unique",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/",
+      "folderPath": "leetcode/1647-minimum-deletions-to-make-character-frequencies-unique/",
+      "readmePath": "leetcode/1647-minimum-deletions-to-make-character-frequencies-unique/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1647-minimum-deletions-to-make-character-frequencies-unique.py",
+          "path": "leetcode/1647-minimum-deletions-to-make-character-frequencies-unique/1647-minimum-deletions-to-make-character-frequencies-unique.py",
+          "sha": "f0234f3c0b12b55dbf6f6a4fae4fc7e47ca81269",
+          "lastSyncedAt": "2026-10-11T07:57:53.735Z"
         }
       ]
     },
