@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-11T07:09:36.042Z",
+  "updatedAt": "2026-10-11T07:10:22.028Z",
   "problems": [
     {
       "frontendId": "1",
@@ -364,6 +364,26 @@
           "path": "leetcode/0918-maximum-sum-circular-subarray/0918-maximum-sum-circular-subarray.py",
           "sha": "c12a54d83acd9bdd4e226d039ce6b346e1c57748",
           "lastSyncedAt": "2026-10-11T07:04:42.816Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "922",
+      "title": "Sort Array By Parity II",
+      "slug": "sort-array-by-parity-ii",
+      "problemName": "0922-sort-array-by-parity-ii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-array-by-parity-ii/",
+      "folderPath": "leetcode/0922-sort-array-by-parity-ii/",
+      "readmePath": "leetcode/0922-sort-array-by-parity-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0922-sort-array-by-parity-ii.py",
+          "path": "leetcode/0922-sort-array-by-parity-ii/0922-sort-array-by-parity-ii.py",
+          "sha": "7987284ba1941dd38480d269b39a847959c2631f",
+          "lastSyncedAt": "2026-10-11T07:10:22.028Z"
         }
       ]
     },
