@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-11T07:10:50.768Z",
+  "updatedAt": "2026-10-11T07:10:56.975Z",
   "problems": [
     {
       "frontendId": "28",
@@ -124,6 +124,26 @@
           "path": "leetcode/0395-longest-substring-with-at-least-k-repeating-characters/0395-longest-substring-with-at-least-k-repeating-characters.py",
           "sha": "a4e336f3737e4789792e39be5af044b7d9b19579",
           "lastSyncedAt": "2026-10-11T07:09:50.252Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "409",
+      "title": "Longest Palindrome",
+      "slug": "longest-palindrome",
+      "problemName": "0409-longest-palindrome",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-palindrome/",
+      "folderPath": "leetcode/0409-longest-palindrome/",
+      "readmePath": "leetcode/0409-longest-palindrome/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0409-longest-palindrome.py",
+          "path": "leetcode/0409-longest-palindrome/0409-longest-palindrome.py",
+          "sha": "81c8a3ade6b300e67613e50a1acacbbe9bc25761",
+          "lastSyncedAt": "2026-10-11T07:10:56.975Z"
         }
       ]
     },
