@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-11T07:07:48.494Z",
+  "updatedAt": "2026-10-11T07:08:11.671Z",
   "problems": [
     {
       "frontendId": "1",
@@ -404,6 +404,26 @@
           "path": "leetcode/1482-minimum-number-of-days-to-make-m-bouquets/1482-minimum-number-of-days-to-make-m-bouquets.py",
           "sha": "61a045257ff3d2a48b1ea5cd61211b0f2c2e197d",
           "lastSyncedAt": "2026-10-11T07:07:19.908Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "4061",
+      "title": "Minimum Queen Moves to Reach Target",
+      "slug": "minimum-queen-moves-to-reach-target",
+      "problemName": "4061-minimum-queen-moves-to-reach-target",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-queen-moves-to-reach-target/",
+      "folderPath": "leetcode/4061-minimum-queen-moves-to-reach-target/",
+      "readmePath": "leetcode/4061-minimum-queen-moves-to-reach-target/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "4061-minimum-queen-moves-to-reach-target.py",
+          "path": "leetcode/4061-minimum-queen-moves-to-reach-target/4061-minimum-queen-moves-to-reach-target.py",
+          "sha": "2a2823986c7085c80a1a017b370a3808db3578dc",
+          "lastSyncedAt": "2026-10-11T07:08:11.671Z"
         }
       ]
     },
