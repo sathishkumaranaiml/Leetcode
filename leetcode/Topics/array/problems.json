@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-11T07:07:19.908Z",
+  "updatedAt": "2026-10-11T07:07:23.419Z",
   "problems": [
     {
       "frontendId": "1",
@@ -304,6 +304,26 @@
           "path": "leetcode/0918-maximum-sum-circular-subarray/0918-maximum-sum-circular-subarray.py",
           "sha": "c12a54d83acd9bdd4e226d039ce6b346e1c57748",
           "lastSyncedAt": "2026-10-11T07:04:42.816Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1011",
+      "title": "Capacity To Ship Packages Within D Days",
+      "slug": "capacity-to-ship-packages-within-d-days",
+      "problemName": "1011-capacity-to-ship-packages-within-d-days",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/",
+      "folderPath": "leetcode/1011-capacity-to-ship-packages-within-d-days/",
+      "readmePath": "leetcode/1011-capacity-to-ship-packages-within-d-days/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1011-capacity-to-ship-packages-within-d-days.py",
+          "path": "leetcode/1011-capacity-to-ship-packages-within-d-days/1011-capacity-to-ship-packages-within-d-days.py",
+          "sha": "7c8df5e40d83db9f6f01813cdb04501deb9bf48f",
+          "lastSyncedAt": "2026-10-11T07:07:23.419Z"
         }
       ]
     },
