@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-11T07:43:32.605Z",
+  "updatedAt": "2026-10-11T07:43:55.503Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1804,6 +1804,26 @@
           "path": "leetcode/2110-number-of-smooth-descent-periods-of-a-stock/2110-number-of-smooth-descent-periods-of-a-stock.py",
           "sha": "bd06db4e4036a58e7ceafcbccd88c4d79b308cd6",
           "lastSyncedAt": "2026-10-11T07:25:56.287Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2200",
+      "title": "Find All K-Distant Indices in an Array",
+      "slug": "find-all-k-distant-indices-in-an-array",
+      "problemName": "2200-find-all-k-distant-indices-in-an-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/",
+      "folderPath": "leetcode/2200-find-all-k-distant-indices-in-an-array/",
+      "readmePath": "leetcode/2200-find-all-k-distant-indices-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2200-find-all-k-distant-indices-in-an-array.py",
+          "path": "leetcode/2200-find-all-k-distant-indices-in-an-array/2200-find-all-k-distant-indices-in-an-array.py",
+          "sha": "1d2f4a0e2d2969908e7346a713a21ab970fa278c",
+          "lastSyncedAt": "2026-10-11T07:43:55.503Z"
         }
       ]
     },
