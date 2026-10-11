@@ -5,8 +5,28 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-10-11T07:17:08.797Z",
+  "updatedAt": "2026-10-11T07:17:18.328Z",
   "problems": [
+    {
+      "frontendId": "59",
+      "title": "Spiral Matrix II",
+      "slug": "spiral-matrix-ii",
+      "problemName": "0059-spiral-matrix-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/spiral-matrix-ii/",
+      "folderPath": "leetcode/0059-spiral-matrix-ii/",
+      "readmePath": "leetcode/0059-spiral-matrix-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0059-spiral-matrix-ii.py",
+          "path": "leetcode/0059-spiral-matrix-ii/0059-spiral-matrix-ii.py",
+          "sha": "93a59bc0c0f4dafe8c5504f1df69826190321b13",
+          "lastSyncedAt": "2026-10-11T07:17:18.328Z"
+        }
+      ]
+    },
     {
       "frontendId": "74",
       "title": "Search a 2D Matrix",
