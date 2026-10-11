@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-11T07:26:25.749Z",
+  "updatedAt": "2026-10-11T07:26:40.586Z",
   "problems": [
     {
       "frontendId": "2",
@@ -284,6 +284,26 @@
           "path": "leetcode/3732-maximum-product-of-three-elements-after-one-replacement/3732-maximum-product-of-three-elements-after-one-replacement.py",
           "sha": "47082721ed8cec71d3e9b814a08bd8c76bded94e",
           "lastSyncedAt": "2026-10-11T07:26:25.749Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3870",
+      "title": "Count Commas in Range",
+      "slug": "count-commas-in-range",
+      "problemName": "3870-count-commas-in-range",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-commas-in-range/",
+      "folderPath": "leetcode/3870-count-commas-in-range/",
+      "readmePath": "leetcode/3870-count-commas-in-range/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3870-count-commas-in-range.py",
+          "path": "leetcode/3870-count-commas-in-range/3870-count-commas-in-range.py",
+          "sha": "9a337828e0b41b8507ad3f4b714308855a771756",
+          "lastSyncedAt": "2026-10-11T07:26:40.586Z"
         }
       ]
     },
