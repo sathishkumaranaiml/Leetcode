@@ -5,7 +5,7 @@
     "name": "Backtracking",
     "tagId": "14"
   },
-  "updatedAt": "2026-10-11T07:16:28.862Z",
+  "updatedAt": "2026-10-11T07:16:35.902Z",
   "problems": [
     {
       "frontendId": "39",
@@ -44,6 +44,26 @@
           "path": "leetcode/0046-permutations/0046-permutations.py",
           "sha": "6bdfe256ec86232f4c8b370d20378a4827e98c37",
           "lastSyncedAt": "2026-10-11T07:16:28.862Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "47",
+      "title": "Permutations II",
+      "slug": "permutations-ii",
+      "problemName": "0047-permutations-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/permutations-ii/",
+      "folderPath": "leetcode/0047-permutations-ii/",
+      "readmePath": "leetcode/0047-permutations-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0047-permutations-ii.py",
+          "path": "leetcode/0047-permutations-ii/0047-permutations-ii.py",
+          "sha": "16a00bec279c75b8170e81fc5ebbab476e9a3271",
+          "lastSyncedAt": "2026-10-11T07:16:35.902Z"
         }
       ]
     },
