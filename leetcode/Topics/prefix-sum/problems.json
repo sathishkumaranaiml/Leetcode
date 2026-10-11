@@ -5,8 +5,28 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-10-11T07:26:07.685Z",
+  "updatedAt": "2026-10-11T07:26:34.437Z",
   "problems": [
+    {
+      "frontendId": "238",
+      "title": "Product of Array Except Self",
+      "slug": "product-of-array-except-self",
+      "problemName": "0238-product-of-array-except-self",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/product-of-array-except-self/",
+      "folderPath": "leetcode/0238-product-of-array-except-self/",
+      "readmePath": "leetcode/0238-product-of-array-except-self/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0238-product-of-array-except-self.py",
+          "path": "leetcode/0238-product-of-array-except-self/0238-product-of-array-except-self.py",
+          "sha": "15ac726f2b0a9a3f770831a4acad2f69b40407ef",
+          "lastSyncedAt": "2026-10-11T07:26:34.437Z"
+        }
+      ]
+    },
     {
       "frontendId": "303",
       "title": "Range Sum Query - Immutable",
