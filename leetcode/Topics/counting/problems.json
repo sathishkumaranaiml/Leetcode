@@ -5,7 +5,7 @@
     "name": "Counting",
     "tagId": "61062"
   },
-  "updatedAt": "2026-10-11T07:23:17.077Z",
+  "updatedAt": "2026-10-11T07:24:19.080Z",
   "problems": [
     {
       "frontendId": "347",
@@ -144,6 +144,26 @@
           "path": "leetcode/1876-substrings-of-size-three-with-distinct-characters/1876-substrings-of-size-three-with-distinct-characters.py",
           "sha": "298d24174783e4eef780209747d4cc60f507d448",
           "lastSyncedAt": "2026-10-11T07:22:50.622Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2248",
+      "title": "Intersection of Multiple Arrays",
+      "slug": "intersection-of-multiple-arrays",
+      "problemName": "2248-intersection-of-multiple-arrays",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/intersection-of-multiple-arrays/",
+      "folderPath": "leetcode/2248-intersection-of-multiple-arrays/",
+      "readmePath": "leetcode/2248-intersection-of-multiple-arrays/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2248-intersection-of-multiple-arrays.py",
+          "path": "leetcode/2248-intersection-of-multiple-arrays/2248-intersection-of-multiple-arrays.py",
+          "sha": "a4e1dd222f2b45f837303cd8615d390ee7cd4c28",
+          "lastSyncedAt": "2026-10-11T07:24:19.080Z"
         }
       ]
     },
