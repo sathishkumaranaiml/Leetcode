@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-11T07:16:51.345Z",
+  "updatedAt": "2026-10-11T07:17:50.766Z",
   "problems": [
     {
       "frontendId": "78",
@@ -44,6 +44,26 @@
           "path": "leetcode/0187-repeated-dna-sequences/0187-repeated-dna-sequences.py",
           "sha": "4ccff6ecf207e4c09174fa09ee2f1956a97c3c3b",
           "lastSyncedAt": "2026-10-11T07:09:05.294Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "287",
+      "title": "Find the Duplicate Number",
+      "slug": "find-the-duplicate-number",
+      "problemName": "0287-find-the-duplicate-number",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-duplicate-number/",
+      "folderPath": "leetcode/0287-find-the-duplicate-number/",
+      "readmePath": "leetcode/0287-find-the-duplicate-number/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0287-find-the-duplicate-number.py",
+          "path": "leetcode/0287-find-the-duplicate-number/0287-find-the-duplicate-number.py",
+          "sha": "254821ea6f35ea8b1cf211097ca0e422f63cff98",
+          "lastSyncedAt": "2026-10-11T07:17:50.766Z"
         }
       ]
     },
