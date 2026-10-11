@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-10-11T07:26:07.685Z",
+  "updatedAt": "2026-10-11T07:45:55.373Z",
   "problems": [
     {
       "frontendId": "3",
@@ -124,6 +124,26 @@
           "path": "leetcode/0438-find-all-anagrams-in-a-string/0438-find-all-anagrams-in-a-string.py",
           "sha": "4b148f634b0c37b67ff069216a2f6424f5a9cbbc",
           "lastSyncedAt": "2026-10-11T07:23:25.519Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "567",
+      "title": "Permutation in String",
+      "slug": "permutation-in-string",
+      "problemName": "0567-permutation-in-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/permutation-in-string/",
+      "folderPath": "leetcode/0567-permutation-in-string/",
+      "readmePath": "leetcode/0567-permutation-in-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0567-permutation-in-string.py",
+          "path": "leetcode/0567-permutation-in-string/0567-permutation-in-string.py",
+          "sha": "a96972800799f26438826bd419a8a8dd174d2db2",
+          "lastSyncedAt": "2026-10-11T07:45:55.373Z"
         }
       ]
     },
