@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-11T07:45:13.813Z",
+  "updatedAt": "2026-10-11T07:45:22.811Z",
   "problems": [
     {
       "frontendId": "11",
@@ -504,6 +504,26 @@
           "path": "leetcode/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.py",
           "sha": "e32b81208a204b5d61e73d284e2d4bd7bf0b0459",
           "lastSyncedAt": "2026-10-11T07:42:51.560Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1768",
+      "title": "Merge Strings Alternately",
+      "slug": "merge-strings-alternately",
+      "problemName": "1768-merge-strings-alternately",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-strings-alternately/",
+      "folderPath": "leetcode/1768-merge-strings-alternately/",
+      "readmePath": "leetcode/1768-merge-strings-alternately/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "1768-merge-strings-alternately.py",
+          "path": "leetcode/1768-merge-strings-alternately/1768-merge-strings-alternately.py",
+          "sha": "d406daccd9bbad1ec876fdbe5107a2cbef11e26c",
+          "lastSyncedAt": "2026-10-11T07:45:22.811Z"
         }
       ]
     },
