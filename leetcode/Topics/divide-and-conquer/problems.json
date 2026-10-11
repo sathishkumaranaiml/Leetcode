@@ -5,7 +5,7 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-10-11T07:58:05.720Z",
+  "updatedAt": "2026-10-11T08:02:29.450Z",
   "problems": [
     {
       "frontendId": "190",
@@ -143,7 +143,7 @@
           "filename": "0395-longest-substring-with-at-least-k-repeating-characters.py",
           "path": "leetcode/0395-longest-substring-with-at-least-k-repeating-characters/0395-longest-substring-with-at-least-k-repeating-characters.py",
           "sha": "a4e336f3737e4789792e39be5af044b7d9b19579",
-          "lastSyncedAt": "2026-10-11T07:09:50.252Z"
+          "lastSyncedAt": "2026-10-11T08:02:29.450Z"
         }
       ]
     },
