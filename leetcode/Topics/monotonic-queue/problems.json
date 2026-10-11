@@ -5,8 +5,28 @@
     "name": "Monotonic Queue",
     "tagId": "61071"
   },
-  "updatedAt": "2026-10-11T07:57:10.794Z",
+  "updatedAt": "2026-10-11T07:57:43.666Z",
   "problems": [
+    {
+      "frontendId": "239",
+      "title": "Sliding Window Maximum",
+      "slug": "sliding-window-maximum",
+      "problemName": "0239-sliding-window-maximum",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/sliding-window-maximum/",
+      "folderPath": "leetcode/0239-sliding-window-maximum/",
+      "readmePath": "leetcode/0239-sliding-window-maximum/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0239-sliding-window-maximum.py",
+          "path": "leetcode/0239-sliding-window-maximum/0239-sliding-window-maximum.py",
+          "sha": "cb4b0670613c6c8ee2e24d71e1fc5613b1a69fa2",
+          "lastSyncedAt": "2026-10-11T07:57:43.666Z"
+        }
+      ]
+    },
     {
       "frontendId": "862",
       "title": "Shortest Subarray with Sum at Least K",
