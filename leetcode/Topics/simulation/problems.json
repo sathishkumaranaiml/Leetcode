@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-11T07:26:45.492Z",
+  "updatedAt": "2026-10-11T07:43:18.060Z",
   "problems": [
     {
       "frontendId": "59",
@@ -104,6 +104,26 @@
           "path": "leetcode/0498-diagonal-traverse/0498-diagonal-traverse.py",
           "sha": "4f71ee2ac9c8ad1a3edd0cb0a45543fd9cc9ebc7",
           "lastSyncedAt": "2026-10-11T07:10:41.109Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2562",
+      "title": "Find the Array Concatenation Value",
+      "slug": "find-the-array-concatenation-value",
+      "problemName": "2562-find-the-array-concatenation-value",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-array-concatenation-value/",
+      "folderPath": "leetcode/2562-find-the-array-concatenation-value/",
+      "readmePath": "leetcode/2562-find-the-array-concatenation-value/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2562-find-the-array-concatenation-value.py",
+          "path": "leetcode/2562-find-the-array-concatenation-value/2562-find-the-array-concatenation-value.py",
+          "sha": "e10638f0cc5411d9c213054186256453a67ac2d0",
+          "lastSyncedAt": "2026-10-11T07:43:18.060Z"
         }
       ]
     },
