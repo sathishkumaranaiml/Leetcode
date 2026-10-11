@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-11T07:20:54.765Z",
+  "updatedAt": "2026-10-11T07:21:21.437Z",
   "problems": [
     {
       "frontendId": "1",
@@ -904,6 +904,26 @@
           "path": "leetcode/0875-koko-eating-bananas/0875-koko-eating-bananas.py",
           "sha": "9859b2e2b9fe3980db0d2afb8ccb2ad31d646f0a",
           "lastSyncedAt": "2026-10-11T07:07:15.918Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "904",
+      "title": "Fruit Into Baskets",
+      "slug": "fruit-into-baskets",
+      "problemName": "0904-fruit-into-baskets",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/fruit-into-baskets/",
+      "folderPath": "leetcode/0904-fruit-into-baskets/",
+      "readmePath": "leetcode/0904-fruit-into-baskets/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0904-fruit-into-baskets.py",
+          "path": "leetcode/0904-fruit-into-baskets/0904-fruit-into-baskets.py",
+          "sha": "f4c97fd392e9e632a9629700ae439e05375e8c19",
+          "lastSyncedAt": "2026-10-11T07:21:21.437Z"
         }
       ]
     },
