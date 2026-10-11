@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-11T07:22:50.622Z",
+  "updatedAt": "2026-10-11T07:23:17.077Z",
   "problems": [
     {
       "frontendId": "1",
@@ -604,6 +604,26 @@
           "path": "leetcode/1358-number-of-substrings-containing-all-three-characters/1358-number-of-substrings-containing-all-three-characters.py",
           "sha": "ffadaa3591a37d8140a3d9bcf4ef5ebdb0a3e5bd",
           "lastSyncedAt": "2026-10-11T07:21:38.540Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1394",
+      "title": "Find Lucky Integer in an Array",
+      "slug": "find-lucky-integer-in-an-array",
+      "problemName": "1394-find-lucky-integer-in-an-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-lucky-integer-in-an-array/",
+      "folderPath": "leetcode/1394-find-lucky-integer-in-an-array/",
+      "readmePath": "leetcode/1394-find-lucky-integer-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1394-find-lucky-integer-in-an-array.py",
+          "path": "leetcode/1394-find-lucky-integer-in-an-array/1394-find-lucky-integer-in-an-array.py",
+          "sha": "c59257918a39d8b174c020466239f16206cdbea9",
+          "lastSyncedAt": "2026-10-11T07:23:17.077Z"
         }
       ]
     },
