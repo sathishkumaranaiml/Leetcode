@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-11T07:18:21.616Z",
+  "updatedAt": "2026-10-11T07:18:29.320Z",
   "problems": [
     {
       "frontendId": "47",
@@ -124,6 +124,26 @@
           "path": "leetcode/0324-wiggle-sort-ii/0324-wiggle-sort-ii.py",
           "sha": "283d6d8d86fa7b9198d8d676da27055b1d707b2d",
           "lastSyncedAt": "2026-10-11T07:10:29.583Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "442",
+      "title": "Find All Duplicates in an Array",
+      "slug": "find-all-duplicates-in-an-array",
+      "problemName": "0442-find-all-duplicates-in-an-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-all-duplicates-in-an-array/",
+      "folderPath": "leetcode/0442-find-all-duplicates-in-an-array/",
+      "readmePath": "leetcode/0442-find-all-duplicates-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0442-find-all-duplicates-in-an-array.py",
+          "path": "leetcode/0442-find-all-duplicates-in-an-array/0442-find-all-duplicates-in-an-array.py",
+          "sha": "83a9035090334860ef9de1182e6231bbdb3c7e8b",
+          "lastSyncedAt": "2026-10-11T07:18:29.320Z"
         }
       ]
     },
