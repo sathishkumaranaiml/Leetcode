@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-11T07:42:36.064Z",
+  "updatedAt": "2026-10-11T07:42:44.614Z",
   "problems": [
     {
       "frontendId": "11",
@@ -344,6 +344,26 @@
           "path": "leetcode/0986-interval-list-intersections/0986-interval-list-intersections.py",
           "sha": "7e63111e2fdf5b3dbd69563cd4e1548410a84bde",
           "lastSyncedAt": "2026-10-11T07:20:13.674Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1332",
+      "title": "Remove Palindromic Subsequences",
+      "slug": "remove-palindromic-subsequences",
+      "problemName": "1332-remove-palindromic-subsequences",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-palindromic-subsequences/",
+      "folderPath": "leetcode/1332-remove-palindromic-subsequences/",
+      "readmePath": "leetcode/1332-remove-palindromic-subsequences/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1332-remove-palindromic-subsequences.py",
+          "path": "leetcode/1332-remove-palindromic-subsequences/1332-remove-palindromic-subsequences.py",
+          "sha": "7ee974fb9fbc08650804858e86cfd792f50dd81c",
+          "lastSyncedAt": "2026-10-11T07:42:44.614Z"
         }
       ]
     },
