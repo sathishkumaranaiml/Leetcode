@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-11T07:15:46.013Z",
+  "updatedAt": "2026-10-11T07:16:51.345Z",
   "problems": [
     {
       "frontendId": "78",
@@ -44,6 +44,26 @@
           "path": "leetcode/0187-repeated-dna-sequences/0187-repeated-dna-sequences.py",
           "sha": "4ccff6ecf207e4c09174fa09ee2f1956a97c3c3b",
           "lastSyncedAt": "2026-10-11T07:09:05.294Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "645",
+      "title": "Set Mismatch",
+      "slug": "set-mismatch",
+      "problemName": "0645-set-mismatch",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/set-mismatch/",
+      "folderPath": "leetcode/0645-set-mismatch/",
+      "readmePath": "leetcode/0645-set-mismatch/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0645-set-mismatch.py",
+          "path": "leetcode/0645-set-mismatch/0645-set-mismatch.py",
+          "sha": "73b836120943fd6cd1310d0db2da251ab6e6bb48",
+          "lastSyncedAt": "2026-10-11T07:16:51.345Z"
         }
       ]
     },
