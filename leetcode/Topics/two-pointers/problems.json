@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-11T07:44:34.053Z",
+  "updatedAt": "2026-10-11T07:44:40.550Z",
   "problems": [
     {
       "frontendId": "11",
@@ -684,6 +684,26 @@
           "path": "leetcode/3867-sum-of-gcd-of-formed-pairs/3867-sum-of-gcd-of-formed-pairs.py",
           "sha": "f28ec958cc06ab4d0eecc89301699710ea248907",
           "lastSyncedAt": "2026-10-11T07:43:32.605Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3884",
+      "title": "First Matching Character From Both Ends",
+      "slug": "first-matching-character-from-both-ends",
+      "problemName": "3884-first-matching-character-from-both-ends",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/first-matching-character-from-both-ends/",
+      "folderPath": "leetcode/3884-first-matching-character-from-both-ends/",
+      "readmePath": "leetcode/3884-first-matching-character-from-both-ends/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3884-first-matching-character-from-both-ends.py",
+          "path": "leetcode/3884-first-matching-character-from-both-ends/3884-first-matching-character-from-both-ends.py",
+          "sha": "377b50f487e69539015f61e0ee4b042ad63591e3",
+          "lastSyncedAt": "2026-10-11T07:44:40.550Z"
         }
       ]
     },
