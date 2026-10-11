@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-11T07:10:56.975Z",
+  "updatedAt": "2026-10-11T07:18:54.965Z",
   "problems": [
     {
       "frontendId": "45",
@@ -164,6 +164,26 @@
           "path": "leetcode/0763-partition-labels/0763-partition-labels.py",
           "sha": "887c27662ef2dff05e32851fafbbb1ff3ce67331",
           "lastSyncedAt": "2026-10-11T07:05:17.872Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1024",
+      "title": "Video Stitching",
+      "slug": "video-stitching",
+      "problemName": "1024-video-stitching",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/video-stitching/",
+      "folderPath": "leetcode/1024-video-stitching/",
+      "readmePath": "leetcode/1024-video-stitching/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1024-video-stitching.py",
+          "path": "leetcode/1024-video-stitching/1024-video-stitching.py",
+          "sha": "262921f02501267233030bc69335e97c171a91bf",
+          "lastSyncedAt": "2026-10-11T07:18:54.965Z"
         }
       ]
     },
