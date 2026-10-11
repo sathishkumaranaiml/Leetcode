@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-10-11T07:15:54.088Z",
+  "updatedAt": "2026-10-11T07:16:01.365Z",
   "problems": [
     {
       "frontendId": "1208",
@@ -24,6 +24,26 @@
           "path": "leetcode/1208-get-equal-substrings-within-budget/1208-get-equal-substrings-within-budget.py",
           "sha": "74a81f387fba8702fdbfa00fac4d0521cdce551a",
           "lastSyncedAt": "2026-10-11T07:10:13.633Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1248",
+      "title": "Count Number of Nice Subarrays",
+      "slug": "count-number-of-nice-subarrays",
+      "problemName": "1248-count-number-of-nice-subarrays",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-number-of-nice-subarrays/",
+      "folderPath": "leetcode/1248-count-number-of-nice-subarrays/",
+      "readmePath": "leetcode/1248-count-number-of-nice-subarrays/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1248-count-number-of-nice-subarrays.py",
+          "path": "leetcode/1248-count-number-of-nice-subarrays/1248-count-number-of-nice-subarrays.py",
+          "sha": "cd1ecbb63381714a0a071d791bc2fda3310c9903",
+          "lastSyncedAt": "2026-10-11T07:16:01.365Z"
         }
       ]
     },
