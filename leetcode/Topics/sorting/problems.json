@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-11T07:10:29.583Z",
+  "updatedAt": "2026-10-11T07:11:13.759Z",
   "problems": [
     {
       "frontendId": "324",
@@ -24,6 +24,26 @@
           "path": "leetcode/0324-wiggle-sort-ii/0324-wiggle-sort-ii.py",
           "sha": "283d6d8d86fa7b9198d8d676da27055b1d707b2d",
           "lastSyncedAt": "2026-10-11T07:10:29.583Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "451",
+      "title": "Sort Characters By Frequency",
+      "slug": "sort-characters-by-frequency",
+      "problemName": "0451-sort-characters-by-frequency",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-characters-by-frequency/",
+      "folderPath": "leetcode/0451-sort-characters-by-frequency/",
+      "readmePath": "leetcode/0451-sort-characters-by-frequency/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0451-sort-characters-by-frequency.py",
+          "path": "leetcode/0451-sort-characters-by-frequency/0451-sort-characters-by-frequency.py",
+          "sha": "8da7897318a1f88e78d8809c031134a0567bf354",
+          "lastSyncedAt": "2026-10-11T07:11:13.759Z"
         }
       ]
     },
