@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-11T07:21:46.211Z",
+  "updatedAt": "2026-10-11T07:22:01.460Z",
   "problems": [
     {
       "frontendId": "1",
@@ -624,6 +624,26 @@
           "path": "leetcode/1590-make-sum-divisible-by-p/1590-make-sum-divisible-by-p.py",
           "sha": "330039dd1b3512010138318921d5be5706952cb7",
           "lastSyncedAt": "2026-10-11T07:15:54.088Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2260",
+      "title": "Minimum Consecutive Cards to Pick Up",
+      "slug": "minimum-consecutive-cards-to-pick-up",
+      "problemName": "2260-minimum-consecutive-cards-to-pick-up",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/",
+      "folderPath": "leetcode/2260-minimum-consecutive-cards-to-pick-up/",
+      "readmePath": "leetcode/2260-minimum-consecutive-cards-to-pick-up/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "2260-minimum-consecutive-cards-to-pick-up.py",
+          "path": "leetcode/2260-minimum-consecutive-cards-to-pick-up/2260-minimum-consecutive-cards-to-pick-up.py",
+          "sha": "3955f3bf12f7d423ec0f836420b4265199dc5dab",
+          "lastSyncedAt": "2026-10-11T07:22:01.460Z"
         }
       ]
     },
