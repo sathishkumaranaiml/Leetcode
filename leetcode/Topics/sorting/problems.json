@@ -5,8 +5,28 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-11T07:09:36.042Z",
+  "updatedAt": "2026-10-11T07:10:22.028Z",
   "problems": [
+    {
+      "frontendId": "922",
+      "title": "Sort Array By Parity II",
+      "slug": "sort-array-by-parity-ii",
+      "problemName": "0922-sort-array-by-parity-ii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-array-by-parity-ii/",
+      "folderPath": "leetcode/0922-sort-array-by-parity-ii/",
+      "readmePath": "leetcode/0922-sort-array-by-parity-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0922-sort-array-by-parity-ii.py",
+          "path": "leetcode/0922-sort-array-by-parity-ii/0922-sort-array-by-parity-ii.py",
+          "sha": "7987284ba1941dd38480d269b39a847959c2631f",
+          "lastSyncedAt": "2026-10-11T07:10:22.028Z"
+        }
+      ]
+    },
     {
       "frontendId": "1838",
       "title": "Frequency of the Most Frequent Element",
