@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "string-matching",
+    "name": "String Matching",
+    "tagId": "61052"
+  },
+  "updatedAt": "2026-10-11T07:08:29.426Z",
+  "problems": [
+    {
+      "frontendId": "796",
+      "title": "Rotate String",
+      "slug": "rotate-string",
+      "problemName": "0796-rotate-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-string/",
+      "folderPath": "leetcode/0796-rotate-string/",
+      "readmePath": "leetcode/0796-rotate-string/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0796-rotate-string.py",
+          "path": "leetcode/0796-rotate-string/0796-rotate-string.py",
+          "sha": "ec55a394d51d9f36debeb4c9c565e585b6f6e955",
+          "lastSyncedAt": "2026-10-11T07:08:29.426Z"
+        }
+      ]
+    }
+  ]
+}
