@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-11T07:26:25.749Z",
+  "updatedAt": "2026-10-11T07:42:59.761Z",
   "problems": [
     {
       "frontendId": "11",
@@ -204,6 +204,26 @@
           "path": "leetcode/0452-minimum-number-of-arrows-to-burst-balloons/0452-minimum-number-of-arrows-to-burst-balloons.py",
           "sha": "499580dde9636bc591548dc1f2bdc1c8634d1e6d",
           "lastSyncedAt": "2026-10-11T07:20:23.019Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "680",
+      "title": "Valid Palindrome II",
+      "slug": "valid-palindrome-ii",
+      "problemName": "0680-valid-palindrome-ii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-palindrome-ii/",
+      "folderPath": "leetcode/0680-valid-palindrome-ii/",
+      "readmePath": "leetcode/0680-valid-palindrome-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0680-valid-palindrome-ii.py",
+          "path": "leetcode/0680-valid-palindrome-ii/0680-valid-palindrome-ii.py",
+          "sha": "c9c00ad5e8af2b88953e65be116ba093bebc18af",
+          "lastSyncedAt": "2026-10-11T07:42:59.761Z"
         }
       ]
     },
