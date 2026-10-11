@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-11T07:18:12.271Z",
+  "updatedAt": "2026-10-11T07:18:21.616Z",
   "problems": [
     {
       "frontendId": "47",
@@ -184,6 +184,26 @@
           "path": "leetcode/0922-sort-array-by-parity-ii/0922-sort-array-by-parity-ii.py",
           "sha": "7987284ba1941dd38480d269b39a847959c2631f",
           "lastSyncedAt": "2026-10-11T07:10:22.028Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1460",
+      "title": "Make Two Arrays Equal by Reversing Subarrays",
+      "slug": "make-two-arrays-equal-by-reversing-subarrays",
+      "problemName": "1460-make-two-arrays-equal-by-reversing-subarrays",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/",
+      "folderPath": "leetcode/1460-make-two-arrays-equal-by-reversing-subarrays/",
+      "readmePath": "leetcode/1460-make-two-arrays-equal-by-reversing-subarrays/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1460-make-two-arrays-equal-by-reversing-subarrays.py",
+          "path": "leetcode/1460-make-two-arrays-equal-by-reversing-subarrays/1460-make-two-arrays-equal-by-reversing-subarrays.py",
+          "sha": "aec03bb39c640214472c8a270859da8852ee4319",
+          "lastSyncedAt": "2026-10-11T07:18:21.616Z"
         }
       ]
     },
