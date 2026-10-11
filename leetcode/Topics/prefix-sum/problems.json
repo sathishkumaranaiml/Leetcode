@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-10-11T07:15:46.013Z",
+  "updatedAt": "2026-10-11T07:15:54.088Z",
   "problems": [
     {
       "frontendId": "1208",
@@ -44,6 +44,26 @@
           "path": "leetcode/1310-xor-queries-of-a-subarray/1310-xor-queries-of-a-subarray.py",
           "sha": "47b1089291270b20aaae4ddc344605b2964ca9c5",
           "lastSyncedAt": "2026-10-11T07:15:46.013Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1590",
+      "title": "Make Sum Divisible by P",
+      "slug": "make-sum-divisible-by-p",
+      "problemName": "1590-make-sum-divisible-by-p",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/make-sum-divisible-by-p/",
+      "folderPath": "leetcode/1590-make-sum-divisible-by-p/",
+      "readmePath": "leetcode/1590-make-sum-divisible-by-p/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1590-make-sum-divisible-by-p.py",
+          "path": "leetcode/1590-make-sum-divisible-by-p/1590-make-sum-divisible-by-p.py",
+          "sha": "330039dd1b3512010138318921d5be5706952cb7",
+          "lastSyncedAt": "2026-10-11T07:15:54.088Z"
         }
       ]
     },
