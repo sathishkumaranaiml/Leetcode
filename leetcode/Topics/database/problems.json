@@ -5,8 +5,28 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-11T07:13:31.879Z",
+  "updatedAt": "2026-10-11T07:13:36.509Z",
   "problems": [
+    {
+      "frontendId": "608",
+      "title": "Tree Node",
+      "slug": "tree-node",
+      "problemName": "0608-tree-node",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/tree-node/",
+      "folderPath": "leetcode/0608-tree-node/",
+      "readmePath": "leetcode/0608-tree-node/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0608-tree-node.sql",
+          "path": "leetcode/0608-tree-node/0608-tree-node.sql",
+          "sha": "33639db4029736578f63c9f021af3b7a427595d0",
+          "lastSyncedAt": "2026-10-11T07:13:36.509Z"
+        }
+      ]
+    },
     {
       "frontendId": "626",
       "title": "Exchange Seats",
