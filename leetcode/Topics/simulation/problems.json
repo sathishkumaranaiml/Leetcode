@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-11T07:08:15.094Z",
+  "updatedAt": "2026-10-11T07:10:41.109Z",
   "problems": [
     {
       "frontendId": "258",
@@ -44,6 +44,26 @@
           "path": "leetcode/0415-add-strings/0415-add-strings.py",
           "sha": "1fbae73ac1ddd4faef95b1d34ce3ce51345d44e7",
           "lastSyncedAt": "2026-10-11T07:08:15.094Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "498",
+      "title": "Diagonal Traverse",
+      "slug": "diagonal-traverse",
+      "problemName": "0498-diagonal-traverse",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/diagonal-traverse/",
+      "folderPath": "leetcode/0498-diagonal-traverse/",
+      "readmePath": "leetcode/0498-diagonal-traverse/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0498-diagonal-traverse.py",
+          "path": "leetcode/0498-diagonal-traverse/0498-diagonal-traverse.py",
+          "sha": "4f71ee2ac9c8ad1a3edd0cb0a45543fd9cc9ebc7",
+          "lastSyncedAt": "2026-10-11T07:10:41.109Z"
         }
       ]
     },
