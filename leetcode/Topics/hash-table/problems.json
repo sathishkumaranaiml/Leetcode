@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-11T07:56:43.289Z",
+  "updatedAt": "2026-10-11T07:56:50.654Z",
   "problems": [
     {
       "frontendId": "1",
@@ -744,6 +744,26 @@
           "path": "leetcode/0992-subarrays-with-k-different-integers/0992-subarrays-with-k-different-integers.py",
           "sha": "4be4116a099c70a6139a8710cb4cf686c84fbb25",
           "lastSyncedAt": "2026-10-11T07:21:46.211Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1074",
+      "title": "Number of Submatrices That Sum to Target",
+      "slug": "number-of-submatrices-that-sum-to-target",
+      "problemName": "1074-number-of-submatrices-that-sum-to-target",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/",
+      "folderPath": "leetcode/1074-number-of-submatrices-that-sum-to-target/",
+      "readmePath": "leetcode/1074-number-of-submatrices-that-sum-to-target/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "1074-number-of-submatrices-that-sum-to-target.py",
+          "path": "leetcode/1074-number-of-submatrices-that-sum-to-target/1074-number-of-submatrices-that-sum-to-target.py",
+          "sha": "dfa0bd2b644501512674f5bf096f93b289f92511",
+          "lastSyncedAt": "2026-10-11T07:56:50.654Z"
         }
       ]
     },
