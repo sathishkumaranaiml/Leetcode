@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-11T07:10:50.768Z",
+  "updatedAt": "2026-10-11T07:16:20.788Z",
   "problems": [
     {
       "frontendId": "19",
@@ -44,6 +44,26 @@
           "path": "leetcode/0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.py",
           "sha": "1d7b7e8ef18b253f9eeb5159aab79ecc47341082",
           "lastSyncedAt": "2026-10-11T07:09:24.470Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "88",
+      "title": "Merge Sorted Array",
+      "slug": "merge-sorted-array",
+      "problemName": "0088-merge-sorted-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-sorted-array/",
+      "folderPath": "leetcode/0088-merge-sorted-array/",
+      "readmePath": "leetcode/0088-merge-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0088-merge-sorted-array.py",
+          "path": "leetcode/0088-merge-sorted-array/0088-merge-sorted-array.py",
+          "sha": "edae05e24edd4271f24dc6627cb764b5dfe774d6",
+          "lastSyncedAt": "2026-10-11T07:16:20.788Z"
         }
       ]
     },
