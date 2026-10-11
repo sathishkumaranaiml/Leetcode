@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-11T07:24:08.904Z",
+  "updatedAt": "2026-10-11T07:25:10.501Z",
   "problems": [
     {
       "frontendId": "33",
@@ -124,6 +124,26 @@
           "path": "leetcode/0287-find-the-duplicate-number/0287-find-the-duplicate-number.py",
           "sha": "254821ea6f35ea8b1cf211097ca0e422f63cff98",
           "lastSyncedAt": "2026-10-11T07:17:50.766Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "349",
+      "title": "Intersection of Two Arrays",
+      "slug": "intersection-of-two-arrays",
+      "problemName": "0349-intersection-of-two-arrays",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-arrays/",
+      "folderPath": "leetcode/0349-intersection-of-two-arrays/",
+      "readmePath": "leetcode/0349-intersection-of-two-arrays/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0349-intersection-of-two-arrays.py",
+          "path": "leetcode/0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.py",
+          "sha": "37cdf3d5ffd47e364f4fa2a99fc514cd71af9fa7",
+          "lastSyncedAt": "2026-10-11T07:25:10.501Z"
         }
       ]
     },
