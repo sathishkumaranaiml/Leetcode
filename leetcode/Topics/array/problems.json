@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-11T07:44:10.078Z",
+  "updatedAt": "2026-10-11T07:44:46.957Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2064,6 +2064,26 @@
           "path": "leetcode/3867-sum-of-gcd-of-formed-pairs/3867-sum-of-gcd-of-formed-pairs.py",
           "sha": "f28ec958cc06ab4d0eecc89301699710ea248907",
           "lastSyncedAt": "2026-10-11T07:43:32.605Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3936",
+      "title": "Minimum Swaps to Move Zeros to End",
+      "slug": "minimum-swaps-to-move-zeros-to-end",
+      "problemName": "3936-minimum-swaps-to-move-zeros-to-end",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-swaps-to-move-zeros-to-end/",
+      "folderPath": "leetcode/3936-minimum-swaps-to-move-zeros-to-end/",
+      "readmePath": "leetcode/3936-minimum-swaps-to-move-zeros-to-end/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3936-minimum-swaps-to-move-zeros-to-end.py",
+          "path": "leetcode/3936-minimum-swaps-to-move-zeros-to-end/3936-minimum-swaps-to-move-zeros-to-end.py",
+          "sha": "da7354dbc6bedf545fc1c27de31c7f317f6f6628",
+          "lastSyncedAt": "2026-10-11T07:44:46.957Z"
         }
       ]
     },
