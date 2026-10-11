@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-11T07:46:17.263Z",
+  "updatedAt": "2026-10-11T07:46:34.382Z",
   "problems": [
     {
       "frontendId": "1",
@@ -524,6 +524,26 @@
           "path": "leetcode/0567-permutation-in-string/0567-permutation-in-string.py",
           "sha": "a96972800799f26438826bd419a8a8dd174d2db2",
           "lastSyncedAt": "2026-10-11T07:45:55.373Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "575",
+      "title": "Distribute Candies",
+      "slug": "distribute-candies",
+      "problemName": "0575-distribute-candies",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/distribute-candies/",
+      "folderPath": "leetcode/0575-distribute-candies/",
+      "readmePath": "leetcode/0575-distribute-candies/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0575-distribute-candies.py",
+          "path": "leetcode/0575-distribute-candies/0575-distribute-candies.py",
+          "sha": "406cdf6f4e2780dd08cadcfe82174b67cdf3d6ff",
+          "lastSyncedAt": "2026-10-11T07:46:34.382Z"
         }
       ]
     },
