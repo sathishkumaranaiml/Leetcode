@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-11T07:10:07.475Z",
+  "updatedAt": "2026-10-11T07:10:13.633Z",
   "problems": [
     {
       "frontendId": "28",
@@ -264,6 +264,26 @@
           "path": "leetcode/1047-remove-all-adjacent-duplicates-in-string/1047-remove-all-adjacent-duplicates-in-string.py",
           "sha": "36624c0008820a26c5e59613b62abf2b1cdad39d",
           "lastSyncedAt": "2026-10-11T07:06:58.339Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1208",
+      "title": "Get Equal Substrings Within Budget",
+      "slug": "get-equal-substrings-within-budget",
+      "problemName": "1208-get-equal-substrings-within-budget",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/get-equal-substrings-within-budget/",
+      "folderPath": "leetcode/1208-get-equal-substrings-within-budget/",
+      "readmePath": "leetcode/1208-get-equal-substrings-within-budget/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1208-get-equal-substrings-within-budget.py",
+          "path": "leetcode/1208-get-equal-substrings-within-budget/1208-get-equal-substrings-within-budget.py",
+          "sha": "74a81f387fba8702fdbfa00fac4d0521cdce551a",
+          "lastSyncedAt": "2026-10-11T07:10:13.633Z"
         }
       ]
     },
