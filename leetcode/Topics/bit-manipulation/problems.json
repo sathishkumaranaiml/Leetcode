@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "bit-manipulation",
+    "name": "Bit Manipulation",
+    "tagId": "19"
+  },
+  "updatedAt": "2026-10-11T07:04:59.207Z",
+  "problems": [
+    {
+      "frontendId": "78",
+      "title": "Subsets",
+      "slug": "subsets",
+      "problemName": "0078-subsets",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/subsets/",
+      "folderPath": "leetcode/0078-subsets/",
+      "readmePath": "leetcode/0078-subsets/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0078-subsets.py",
+          "path": "leetcode/0078-subsets/0078-subsets.py",
+          "sha": "8577a94f5fffe7733cb7f10b4d0e24e18362ffdb",
+          "lastSyncedAt": "2026-10-11T07:04:59.207Z"
+        }
+      ]
+    }
+  ]
+}
