@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-11T07:10:13.633Z",
+  "updatedAt": "2026-10-11T07:11:49.769Z",
   "problems": [
     {
       "frontendId": "33",
@@ -224,6 +224,26 @@
           "path": "leetcode/2024-maximize-the-confusion-of-an-exam/2024-maximize-the-confusion-of-an-exam.py",
           "sha": "8ce65c97b9f0b9467badc963947dfed9dcd1a5e6",
           "lastSyncedAt": "2026-10-11T07:09:58.701Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "4056",
+      "title": "Number of Intersecting Interval Pairs I",
+      "slug": "number-of-intersecting-interval-pairs-i",
+      "problemName": "4056-number-of-intersecting-interval-pairs-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-intersecting-interval-pairs-i/",
+      "folderPath": "leetcode/4056-number-of-intersecting-interval-pairs-i/",
+      "readmePath": "leetcode/4056-number-of-intersecting-interval-pairs-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "4056-number-of-intersecting-interval-pairs-i.py",
+          "path": "leetcode/4056-number-of-intersecting-interval-pairs-i/4056-number-of-intersecting-interval-pairs-i.py",
+          "sha": "238ed62b7017c08007ee85e341d1511d207e55b7",
+          "lastSyncedAt": "2026-10-11T07:11:49.769Z"
         }
       ]
     }
