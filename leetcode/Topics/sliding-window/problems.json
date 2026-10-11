@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-10-11T07:21:46.211Z",
+  "updatedAt": "2026-10-11T07:21:54.886Z",
   "problems": [
     {
       "frontendId": "76",
@@ -304,6 +304,26 @@
           "path": "leetcode/2024-maximize-the-confusion-of-an-exam/2024-maximize-the-confusion-of-an-exam.py",
           "sha": "8ce65c97b9f0b9467badc963947dfed9dcd1a5e6",
           "lastSyncedAt": "2026-10-11T07:09:58.701Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2760",
+      "title": "Longest Even Odd Subarray With Threshold",
+      "slug": "longest-even-odd-subarray-with-threshold",
+      "problemName": "2760-longest-even-odd-subarray-with-threshold",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-even-odd-subarray-with-threshold/",
+      "folderPath": "leetcode/2760-longest-even-odd-subarray-with-threshold/",
+      "readmePath": "leetcode/2760-longest-even-odd-subarray-with-threshold/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2760-longest-even-odd-subarray-with-threshold.py",
+          "path": "leetcode/2760-longest-even-odd-subarray-with-threshold/2760-longest-even-odd-subarray-with-threshold.py",
+          "sha": "14634b7384ade52cf841cbc5bb48edc99309f170",
+          "lastSyncedAt": "2026-10-11T07:21:54.886Z"
         }
       ]
     }
