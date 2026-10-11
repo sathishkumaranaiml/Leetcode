@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-11T07:10:41.109Z",
+  "updatedAt": "2026-10-11T07:16:43.322Z",
   "problems": [
     {
       "frontendId": "258",
@@ -24,6 +24,26 @@
           "path": "leetcode/0258-add-digits/0258-add-digits.py",
           "sha": "0f8411aa4972a8835875e4a1f3ea9eec8b4707f1",
           "lastSyncedAt": "2026-10-11T07:07:40.039Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "289",
+      "title": "Game of Life",
+      "slug": "game-of-life",
+      "problemName": "0289-game-of-life",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/game-of-life/",
+      "folderPath": "leetcode/0289-game-of-life/",
+      "readmePath": "leetcode/0289-game-of-life/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0289-game-of-life.py",
+          "path": "leetcode/0289-game-of-life/0289-game-of-life.py",
+          "sha": "52e352f789ad2fdb47081efc7616d82a0345034a",
+          "lastSyncedAt": "2026-10-11T07:16:43.322Z"
         }
       ]
     },
