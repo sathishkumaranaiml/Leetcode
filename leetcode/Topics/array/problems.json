@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-11T07:16:43.322Z",
+  "updatedAt": "2026-10-11T07:16:51.345Z",
   "problems": [
     {
       "frontendId": "1",
@@ -404,6 +404,26 @@
           "path": "leetcode/0503-next-greater-element-ii/0503-next-greater-element-ii.py",
           "sha": "73bc5616ab17ef846ccb8fa343751a2acd5a1f97",
           "lastSyncedAt": "2026-10-11T07:06:34.103Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "645",
+      "title": "Set Mismatch",
+      "slug": "set-mismatch",
+      "problemName": "0645-set-mismatch",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/set-mismatch/",
+      "folderPath": "leetcode/0645-set-mismatch/",
+      "readmePath": "leetcode/0645-set-mismatch/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0645-set-mismatch.py",
+          "path": "leetcode/0645-set-mismatch/0645-set-mismatch.py",
+          "sha": "73b836120943fd6cd1310d0db2da251ab6e6bb48",
+          "lastSyncedAt": "2026-10-11T07:16:51.345Z"
         }
       ]
     },
