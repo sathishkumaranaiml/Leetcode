@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-10-11T07:10:13.633Z",
+  "updatedAt": "2026-10-11T07:12:00.933Z",
   "problems": [
     {
       "frontendId": "187",
@@ -44,6 +44,26 @@
           "path": "leetcode/0395-longest-substring-with-at-least-k-repeating-characters/0395-longest-substring-with-at-least-k-repeating-characters.py",
           "sha": "a4e336f3737e4789792e39be5af044b7d9b19579",
           "lastSyncedAt": "2026-10-11T07:09:50.252Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "424",
+      "title": "Longest Repeating Character Replacement",
+      "slug": "longest-repeating-character-replacement",
+      "problemName": "0424-longest-repeating-character-replacement",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-repeating-character-replacement/",
+      "folderPath": "leetcode/0424-longest-repeating-character-replacement/",
+      "readmePath": "leetcode/0424-longest-repeating-character-replacement/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0424-longest-repeating-character-replacement.py",
+          "path": "leetcode/0424-longest-repeating-character-replacement/0424-longest-repeating-character-replacement.py",
+          "sha": "609a9d0fd9cabf2cf637e7efbd285b8b28b6b4da",
+          "lastSyncedAt": "2026-10-11T07:12:00.933Z"
         }
       ]
     },
