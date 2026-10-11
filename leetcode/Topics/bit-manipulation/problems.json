@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-11T07:42:27.105Z",
+  "updatedAt": "2026-10-11T07:46:05.798Z",
   "problems": [
     {
       "frontendId": "78",
@@ -64,6 +64,26 @@
           "path": "leetcode/0191-number-of-1-bits/0191-number-of-1-bits.py",
           "sha": "f7db9942ca244736cbd62feee601d20df91ea38a",
           "lastSyncedAt": "2026-10-11T07:23:55.398Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "201",
+      "title": "Bitwise AND of Numbers Range",
+      "slug": "bitwise-and-of-numbers-range",
+      "problemName": "0201-bitwise-and-of-numbers-range",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/bitwise-and-of-numbers-range/",
+      "folderPath": "leetcode/0201-bitwise-and-of-numbers-range/",
+      "readmePath": "leetcode/0201-bitwise-and-of-numbers-range/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0201-bitwise-and-of-numbers-range.py",
+          "path": "leetcode/0201-bitwise-and-of-numbers-range/0201-bitwise-and-of-numbers-range.py",
+          "sha": "92fc9bcd774fd8f68452441f1b8250acd0219305",
+          "lastSyncedAt": "2026-10-11T07:46:05.798Z"
         }
       ]
     },
