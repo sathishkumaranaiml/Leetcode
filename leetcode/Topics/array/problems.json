@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-11T07:27:16.400Z",
+  "updatedAt": "2026-10-11T07:27:21.602Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1504,6 +1504,26 @@
           "path": "leetcode/1470-shuffle-the-array/1470-shuffle-the-array.py",
           "sha": "c6340d0d1175f32243a8f97394e2bce4ecc200d8",
           "lastSyncedAt": "2026-10-11T07:27:16.400Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1480",
+      "title": "Running Sum of 1d Array",
+      "slug": "running-sum-of-1d-array",
+      "problemName": "1480-running-sum-of-1d-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/running-sum-of-1d-array/",
+      "folderPath": "leetcode/1480-running-sum-of-1d-array/",
+      "readmePath": "leetcode/1480-running-sum-of-1d-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1480-running-sum-of-1d-array.py",
+          "path": "leetcode/1480-running-sum-of-1d-array/1480-running-sum-of-1d-array.py",
+          "sha": "65687f67b0e25d347c8aab40096b60ad29cda9a2",
+          "lastSyncedAt": "2026-10-11T07:27:21.602Z"
         }
       ]
     },
