@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-11T07:08:06.359Z",
+  "updatedAt": "2026-10-11T07:08:15.094Z",
   "problems": [
     {
       "frontendId": "32",
@@ -64,6 +64,26 @@
           "path": "leetcode/0394-decode-string/0394-decode-string.py",
           "sha": "9edcf9ed685ec5863d78a0fed426e42072701c91",
           "lastSyncedAt": "2026-10-11T07:06:50.076Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "415",
+      "title": "Add Strings",
+      "slug": "add-strings",
+      "problemName": "0415-add-strings",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/add-strings/",
+      "folderPath": "leetcode/0415-add-strings/",
+      "readmePath": "leetcode/0415-add-strings/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0415-add-strings.py",
+          "path": "leetcode/0415-add-strings/0415-add-strings.py",
+          "sha": "1fbae73ac1ddd4faef95b1d34ce3ce51345d44e7",
+          "lastSyncedAt": "2026-10-11T07:08:15.094Z"
         }
       ]
     },
