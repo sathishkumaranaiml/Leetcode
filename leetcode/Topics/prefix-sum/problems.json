@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-10-11T07:57:10.794Z",
+  "updatedAt": "2026-10-11T08:02:17.257Z",
   "problems": [
     {
       "frontendId": "238",
@@ -403,7 +403,7 @@
           "filename": "1838-frequency-of-the-most-frequent-element.py",
           "path": "leetcode/1838-frequency-of-the-most-frequent-element/1838-frequency-of-the-most-frequent-element.py",
           "sha": "8a4047b85d88f552354b985818f6c9705b16ae82",
-          "lastSyncedAt": "2026-10-11T07:09:36.042Z"
+          "lastSyncedAt": "2026-10-11T08:02:17.257Z"
         }
       ]
     },
