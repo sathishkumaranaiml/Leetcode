@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-11T07:25:48.737Z",
+  "updatedAt": "2026-10-11T07:25:56.287Z",
   "problems": [
     {
       "frontendId": "11",
@@ -344,6 +344,26 @@
           "path": "leetcode/0986-interval-list-intersections/0986-interval-list-intersections.py",
           "sha": "7e63111e2fdf5b3dbd69563cd4e1548410a84bde",
           "lastSyncedAt": "2026-10-11T07:20:13.674Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2110",
+      "title": "Number of Smooth Descent Periods of a Stock",
+      "slug": "number-of-smooth-descent-periods-of-a-stock",
+      "problemName": "2110-number-of-smooth-descent-periods-of-a-stock",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/",
+      "folderPath": "leetcode/2110-number-of-smooth-descent-periods-of-a-stock/",
+      "readmePath": "leetcode/2110-number-of-smooth-descent-periods-of-a-stock/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "2110-number-of-smooth-descent-periods-of-a-stock.py",
+          "path": "leetcode/2110-number-of-smooth-descent-periods-of-a-stock/2110-number-of-smooth-descent-periods-of-a-stock.py",
+          "sha": "bd06db4e4036a58e7ceafcbccd88c4d79b308cd6",
+          "lastSyncedAt": "2026-10-11T07:25:56.287Z"
         }
       ]
     }
