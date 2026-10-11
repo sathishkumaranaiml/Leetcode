@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-11T07:57:32.251Z",
+  "updatedAt": "2026-10-11T07:57:37.614Z",
   "problems": [
     {
       "frontendId": "1",
@@ -64,6 +64,26 @@
           "path": "leetcode/0015-3sum/0015-3sum.py",
           "sha": "21e9c0f86e6ce6765a5a3d6ed31151945648ddd7",
           "lastSyncedAt": "2026-10-11T07:25:48.737Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "16",
+      "title": "3Sum Closest",
+      "slug": "3sum-closest",
+      "problemName": "0016-3sum-closest",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/3sum-closest/",
+      "folderPath": "leetcode/0016-3sum-closest/",
+      "readmePath": "leetcode/0016-3sum-closest/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0016-3sum-closest.py",
+          "path": "leetcode/0016-3sum-closest/0016-3sum-closest.py",
+          "sha": "a4b8d7494ccf6ecf6ff22bfffd6a351f6d3d5af6",
+          "lastSyncedAt": "2026-10-11T07:57:37.614Z"
         }
       ]
     },
