@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-11T07:14:56.594Z",
+  "updatedAt": "2026-10-11T07:15:01.620Z",
   "problems": [
     {
       "frontendId": "184",
@@ -64,6 +64,26 @@
           "path": "leetcode/0197-rising-temperature/0197-rising-temperature.sql",
           "sha": "7591364aa4c411565a2c83f28926abbb1d9b9da7",
           "lastSyncedAt": "2026-10-11T07:13:45.590Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "577",
+      "title": "Employee Bonus",
+      "slug": "employee-bonus",
+      "problemName": "0577-employee-bonus",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/employee-bonus/",
+      "folderPath": "leetcode/0577-employee-bonus/",
+      "readmePath": "leetcode/0577-employee-bonus/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0577-employee-bonus.sql",
+          "path": "leetcode/0577-employee-bonus/0577-employee-bonus.sql",
+          "sha": "372baf14b35648cd73efce963f848e59d1f713b1",
+          "lastSyncedAt": "2026-10-11T07:15:01.620Z"
         }
       ]
     },
