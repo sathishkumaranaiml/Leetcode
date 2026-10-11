@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-10-11T07:09:05.294Z",
+  "updatedAt": "2026-10-11T07:09:36.042Z",
   "problems": [
     {
       "frontendId": "187",
@@ -24,6 +24,26 @@
           "path": "leetcode/0187-repeated-dna-sequences/0187-repeated-dna-sequences.py",
           "sha": "4ccff6ecf207e4c09174fa09ee2f1956a97c3c3b",
           "lastSyncedAt": "2026-10-11T07:09:05.294Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1838",
+      "title": "Frequency of the Most Frequent Element",
+      "slug": "frequency-of-the-most-frequent-element",
+      "problemName": "1838-frequency-of-the-most-frequent-element",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/frequency-of-the-most-frequent-element/",
+      "folderPath": "leetcode/1838-frequency-of-the-most-frequent-element/",
+      "readmePath": "leetcode/1838-frequency-of-the-most-frequent-element/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1838-frequency-of-the-most-frequent-element.py",
+          "path": "leetcode/1838-frequency-of-the-most-frequent-element/1838-frequency-of-the-most-frequent-element.py",
+          "sha": "8a4047b85d88f552354b985818f6c9705b16ae82",
+          "lastSyncedAt": "2026-10-11T07:09:36.042Z"
         }
       ]
     }
