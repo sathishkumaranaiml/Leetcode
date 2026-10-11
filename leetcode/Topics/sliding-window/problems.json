@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-10-11T07:23:49.602Z",
+  "updatedAt": "2026-10-11T07:25:56.287Z",
   "problems": [
     {
       "frontendId": "3",
@@ -484,6 +484,26 @@
           "path": "leetcode/2090-k-radius-subarray-averages/2090-k-radius-subarray-averages.py",
           "sha": "cac1da4a6ede243abd1411146df2f22fb3150e7c",
           "lastSyncedAt": "2026-10-11T07:23:49.602Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2110",
+      "title": "Number of Smooth Descent Periods of a Stock",
+      "slug": "number-of-smooth-descent-periods-of-a-stock",
+      "problemName": "2110-number-of-smooth-descent-periods-of-a-stock",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/",
+      "folderPath": "leetcode/2110-number-of-smooth-descent-periods-of-a-stock/",
+      "readmePath": "leetcode/2110-number-of-smooth-descent-periods-of-a-stock/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "2110-number-of-smooth-descent-periods-of-a-stock.py",
+          "path": "leetcode/2110-number-of-smooth-descent-periods-of-a-stock/2110-number-of-smooth-descent-periods-of-a-stock.py",
+          "sha": "bd06db4e4036a58e7ceafcbccd88c4d79b308cd6",
+          "lastSyncedAt": "2026-10-11T07:25:56.287Z"
         }
       ]
     },
