@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-11T07:16:01.365Z",
+  "updatedAt": "2026-10-11T07:17:32.093Z",
   "problems": [
     {
       "frontendId": "2",
@@ -24,6 +24,26 @@
           "path": "leetcode/0002-add-two-numbers/0002-add-two-numbers.py",
           "sha": "152510e0d7d63552e48a750fd6de1fc87cc276a6",
           "lastSyncedAt": "2026-10-11T07:06:19.487Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "48",
+      "title": "Rotate Image",
+      "slug": "rotate-image",
+      "problemName": "0048-rotate-image",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-image/",
+      "folderPath": "leetcode/0048-rotate-image/",
+      "readmePath": "leetcode/0048-rotate-image/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0048-rotate-image.py",
+          "path": "leetcode/0048-rotate-image/0048-rotate-image.py",
+          "sha": "91c5b487981c63c34a446d43db2b0a936eda22d3",
+          "lastSyncedAt": "2026-10-11T07:17:32.093Z"
         }
       ]
     },
