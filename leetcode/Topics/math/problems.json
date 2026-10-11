@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-11T07:26:17.688Z",
+  "updatedAt": "2026-10-11T07:26:25.749Z",
   "problems": [
     {
       "frontendId": "2",
@@ -264,6 +264,26 @@
           "path": "leetcode/2269-find-the-k-beauty-of-a-number/2269-find-the-k-beauty-of-a-number.py",
           "sha": "f880734c621f3aca6a7c6d1203d70f4586c654b5",
           "lastSyncedAt": "2026-10-11T07:23:35.233Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3732",
+      "title": "Maximum Product of Three Elements After One Replacement",
+      "slug": "maximum-product-of-three-elements-after-one-replacement",
+      "problemName": "3732-maximum-product-of-three-elements-after-one-replacement",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-product-of-three-elements-after-one-replacement/",
+      "folderPath": "leetcode/3732-maximum-product-of-three-elements-after-one-replacement/",
+      "readmePath": "leetcode/3732-maximum-product-of-three-elements-after-one-replacement/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3732-maximum-product-of-three-elements-after-one-replacement.py",
+          "path": "leetcode/3732-maximum-product-of-three-elements-after-one-replacement/3732-maximum-product-of-three-elements-after-one-replacement.py",
+          "sha": "47082721ed8cec71d3e9b814a08bd8c76bded94e",
+          "lastSyncedAt": "2026-10-11T07:26:25.749Z"
         }
       ]
     },
