@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-11T07:45:13.813Z",
+  "updatedAt": "2026-10-11T07:45:29.226Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1284,6 +1284,26 @@
           "path": "leetcode/0930-binary-subarrays-with-sum/0930-binary-subarrays-with-sum.py",
           "sha": "6a3073294de9daa99aef18ea5160af8a154bc41d",
           "lastSyncedAt": "2026-10-11T07:16:11.800Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "977",
+      "title": "Squares of a Sorted Array",
+      "slug": "squares-of-a-sorted-array",
+      "problemName": "0977-squares-of-a-sorted-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/squares-of-a-sorted-array/",
+      "folderPath": "leetcode/0977-squares-of-a-sorted-array/",
+      "readmePath": "leetcode/0977-squares-of-a-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0977-squares-of-a-sorted-array.py",
+          "path": "leetcode/0977-squares-of-a-sorted-array/0977-squares-of-a-sorted-array.py",
+          "sha": "fedff20d6e35d5db70f6664c25095a609a1862a1",
+          "lastSyncedAt": "2026-10-11T07:45:29.226Z"
         }
       ]
     },
