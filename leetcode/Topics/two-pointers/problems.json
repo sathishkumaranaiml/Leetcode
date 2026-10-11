@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-11T07:10:22.028Z",
+  "updatedAt": "2026-10-11T07:10:50.768Z",
   "problems": [
     {
       "frontendId": "19",
@@ -44,6 +44,26 @@
           "path": "leetcode/0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.py",
           "sha": "1d7b7e8ef18b253f9eeb5159aab79ecc47341082",
           "lastSyncedAt": "2026-10-11T07:09:24.470Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "443",
+      "title": "String Compression",
+      "slug": "string-compression",
+      "problemName": "0443-string-compression",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/string-compression/",
+      "folderPath": "leetcode/0443-string-compression/",
+      "readmePath": "leetcode/0443-string-compression/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0443-string-compression.py",
+          "path": "leetcode/0443-string-compression/0443-string-compression.py",
+          "sha": "470b6761c7b1483b353717baad19e500bf574c4e",
+          "lastSyncedAt": "2026-10-11T07:10:50.768Z"
         }
       ]
     },
