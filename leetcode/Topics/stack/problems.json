@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-10-11T07:06:54.936Z",
+  "updatedAt": "2026-10-11T07:06:58.339Z",
   "problems": [
     {
       "frontendId": "84",
@@ -104,6 +104,26 @@
           "path": "leetcode/0739-daily-temperatures/0739-daily-temperatures.py",
           "sha": "cd5f3930820a38929e98e3c58e24913f467f55f3",
           "lastSyncedAt": "2026-10-11T07:06:40.324Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1047",
+      "title": "Remove All Adjacent Duplicates In String",
+      "slug": "remove-all-adjacent-duplicates-in-string",
+      "problemName": "1047-remove-all-adjacent-duplicates-in-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/",
+      "folderPath": "leetcode/1047-remove-all-adjacent-duplicates-in-string/",
+      "readmePath": "leetcode/1047-remove-all-adjacent-duplicates-in-string/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "1047-remove-all-adjacent-duplicates-in-string.py",
+          "path": "leetcode/1047-remove-all-adjacent-duplicates-in-string/1047-remove-all-adjacent-duplicates-in-string.py",
+          "sha": "36624c0008820a26c5e59613b62abf2b1cdad39d",
+          "lastSyncedAt": "2026-10-11T07:06:58.339Z"
         }
       ]
     },
