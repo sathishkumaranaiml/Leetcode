@@ -5,8 +5,28 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-11T07:05:51.531Z",
+  "updatedAt": "2026-10-11T07:06:00.403Z",
   "problems": [
+    {
+      "frontendId": "367",
+      "title": "Valid Perfect Square",
+      "slug": "valid-perfect-square",
+      "problemName": "0367-valid-perfect-square",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-perfect-square/",
+      "folderPath": "leetcode/0367-valid-perfect-square/",
+      "readmePath": "leetcode/0367-valid-perfect-square/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0367-valid-perfect-square.py",
+          "path": "leetcode/0367-valid-perfect-square/0367-valid-perfect-square.py",
+          "sha": "c0625c032815a8653a1a2ec3e9b42b81db6b751b",
+          "lastSyncedAt": "2026-10-11T07:06:00.403Z"
+        }
+      ]
+    },
     {
       "frontendId": "633",
       "title": "Sum of Square Numbers",
