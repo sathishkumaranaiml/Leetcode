@@ -5,8 +5,28 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-10-11T07:24:54.833Z",
+  "updatedAt": "2026-10-11T07:46:58.164Z",
   "problems": [
+    {
+      "frontendId": "190",
+      "title": "Reverse Bits",
+      "slug": "reverse-bits",
+      "problemName": "0190-reverse-bits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-bits/",
+      "folderPath": "leetcode/0190-reverse-bits/",
+      "readmePath": "leetcode/0190-reverse-bits/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0190-reverse-bits.py",
+          "path": "leetcode/0190-reverse-bits/0190-reverse-bits.py",
+          "sha": "49b4e401ad9cac98b51c160b0c83827d0c286059",
+          "lastSyncedAt": "2026-10-11T07:46:58.164Z"
+        }
+      ]
+    },
     {
       "frontendId": "191",
       "title": "Number of 1 Bits",
