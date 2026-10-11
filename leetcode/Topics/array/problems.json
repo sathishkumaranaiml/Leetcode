@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-11T07:26:34.437Z",
+  "updatedAt": "2026-10-11T07:27:01.596Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1624,6 +1624,26 @@
           "path": "leetcode/1886-determine-whether-matrix-can-be-obtained-by-rotation/1886-determine-whether-matrix-can-be-obtained-by-rotation.py",
           "sha": "9ea68f6ab20537f42ed5fbc74fe3e1a9a67a7f83",
           "lastSyncedAt": "2026-10-11T07:17:25.643Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1991",
+      "title": "Find the Middle Index in Array",
+      "slug": "find-the-middle-index-in-array",
+      "problemName": "1991-find-the-middle-index-in-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-middle-index-in-array/",
+      "folderPath": "leetcode/1991-find-the-middle-index-in-array/",
+      "readmePath": "leetcode/1991-find-the-middle-index-in-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1991-find-the-middle-index-in-array.py",
+          "path": "leetcode/1991-find-the-middle-index-in-array/1991-find-the-middle-index-in-array.py",
+          "sha": "2dd8d9afad62e4102959641a0c9c8a835b4d52b8",
+          "lastSyncedAt": "2026-10-11T07:27:01.596Z"
         }
       ]
     },
