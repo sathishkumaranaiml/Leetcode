@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-11T07:23:43.550Z",
+  "updatedAt": "2026-10-11T07:24:42.407Z",
   "problems": [
     {
       "frontendId": "3",
@@ -704,6 +704,26 @@
           "path": "leetcode/3090-maximum-length-substring-with-two-occurrences/3090-maximum-length-substring-with-two-occurrences.py",
           "sha": "e7967a81591b91432273a41844e29ba8eb456346",
           "lastSyncedAt": "2026-10-11T07:22:26.351Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3110",
+      "title": "Score of a String",
+      "slug": "score-of-a-string",
+      "problemName": "3110-score-of-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/score-of-a-string/",
+      "folderPath": "leetcode/3110-score-of-a-string/",
+      "readmePath": "leetcode/3110-score-of-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3110-score-of-a-string.py",
+          "path": "leetcode/3110-score-of-a-string/3110-score-of-a-string.py",
+          "sha": "c53e2728c72184f378814d37bfdf4a0f5732b749",
+          "lastSyncedAt": "2026-10-11T07:24:42.407Z"
         }
       ]
     }
