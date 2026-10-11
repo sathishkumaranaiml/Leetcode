@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-11T07:11:27.062Z",
+  "updatedAt": "2026-10-11T07:11:36.240Z",
   "problems": [
     {
       "frontendId": "28",
@@ -104,6 +104,26 @@
           "path": "leetcode/0187-repeated-dna-sequences/0187-repeated-dna-sequences.py",
           "sha": "4ccff6ecf207e4c09174fa09ee2f1956a97c3c3b",
           "lastSyncedAt": "2026-10-11T07:09:05.294Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "205",
+      "title": "Isomorphic Strings",
+      "slug": "isomorphic-strings",
+      "problemName": "0205-isomorphic-strings",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/isomorphic-strings/",
+      "folderPath": "leetcode/0205-isomorphic-strings/",
+      "readmePath": "leetcode/0205-isomorphic-strings/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0205-isomorphic-strings.py",
+          "path": "leetcode/0205-isomorphic-strings/0205-isomorphic-strings.py",
+          "sha": "7e484f3559711ad106155e6e32bf1d1ea505f150",
+          "lastSyncedAt": "2026-10-11T07:11:36.240Z"
         }
       ]
     },
