@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-11T07:42:51.560Z",
+  "updatedAt": "2026-10-11T07:42:59.761Z",
   "problems": [
     {
       "frontendId": "3",
@@ -404,6 +404,26 @@
           "path": "leetcode/0647-palindromic-substrings/0647-palindromic-substrings.py",
           "sha": "978556a5224cde40fac6095fe1272603a3a6e69e",
           "lastSyncedAt": "2026-10-11T07:08:22.009Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "680",
+      "title": "Valid Palindrome II",
+      "slug": "valid-palindrome-ii",
+      "problemName": "0680-valid-palindrome-ii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-palindrome-ii/",
+      "folderPath": "leetcode/0680-valid-palindrome-ii/",
+      "readmePath": "leetcode/0680-valid-palindrome-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0680-valid-palindrome-ii.py",
+          "path": "leetcode/0680-valid-palindrome-ii/0680-valid-palindrome-ii.py",
+          "sha": "c9c00ad5e8af2b88953e65be116ba093bebc18af",
+          "lastSyncedAt": "2026-10-11T07:42:59.761Z"
         }
       ]
     },
