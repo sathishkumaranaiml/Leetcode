@@ -5,8 +5,28 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-11T07:15:11.027Z",
+  "updatedAt": "2026-10-11T07:15:15.747Z",
   "problems": [
+    {
+      "frontendId": "175",
+      "title": "Combine Two Tables",
+      "slug": "combine-two-tables",
+      "problemName": "0175-combine-two-tables",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/combine-two-tables/",
+      "folderPath": "leetcode/0175-combine-two-tables/",
+      "readmePath": "leetcode/0175-combine-two-tables/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0175-combine-two-tables.sql",
+          "path": "leetcode/0175-combine-two-tables/0175-combine-two-tables.sql",
+          "sha": "9f14273161a64c053c62f3cd74050389722ff25c",
+          "lastSyncedAt": "2026-10-11T07:15:15.747Z"
+        }
+      ]
+    },
     {
       "frontendId": "183",
       "title": "Customers Who Never Order",
