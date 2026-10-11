@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-11T07:16:11.800Z",
+  "updatedAt": "2026-10-11T07:16:20.788Z",
   "problems": [
     {
       "frontendId": "1",
@@ -164,6 +164,26 @@
           "path": "leetcode/0084-largest-rectangle-in-histogram/0084-largest-rectangle-in-histogram.py",
           "sha": "02b92bf539e8bb3ec2c578817766f0c5eeca6f1d",
           "lastSyncedAt": "2026-10-11T07:06:23.435Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "88",
+      "title": "Merge Sorted Array",
+      "slug": "merge-sorted-array",
+      "problemName": "0088-merge-sorted-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-sorted-array/",
+      "folderPath": "leetcode/0088-merge-sorted-array/",
+      "readmePath": "leetcode/0088-merge-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0088-merge-sorted-array.py",
+          "path": "leetcode/0088-merge-sorted-array/0088-merge-sorted-array.py",
+          "sha": "edae05e24edd4271f24dc6627cb764b5dfe774d6",
+          "lastSyncedAt": "2026-10-11T07:16:20.788Z"
         }
       ]
     },
