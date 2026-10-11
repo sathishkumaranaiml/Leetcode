@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-11T07:20:30.727Z",
+  "updatedAt": "2026-10-11T07:24:30.372Z",
   "problems": [
     {
       "frontendId": "45",
@@ -204,6 +204,26 @@
           "path": "leetcode/0763-partition-labels/0763-partition-labels.py",
           "sha": "887c27662ef2dff05e32851fafbbb1ff3ce67331",
           "lastSyncedAt": "2026-10-11T07:05:17.872Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "881",
+      "title": "Boats to Save People",
+      "slug": "boats-to-save-people",
+      "problemName": "0881-boats-to-save-people",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/boats-to-save-people/",
+      "folderPath": "leetcode/0881-boats-to-save-people/",
+      "readmePath": "leetcode/0881-boats-to-save-people/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0881-boats-to-save-people.py",
+          "path": "leetcode/0881-boats-to-save-people/0881-boats-to-save-people.py",
+          "sha": "7f7b68ec5b7f8654b0ba22c22c8430eb693ddf82",
+          "lastSyncedAt": "2026-10-11T07:24:30.372Z"
         }
       ]
     },
