@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "linked-list",
+    "name": "Linked List",
+    "tagId": "7"
+  },
+  "updatedAt": "2026-10-11T07:05:44.682Z",
+  "problems": [
+    {
+      "frontendId": "206",
+      "title": "Reverse Linked List",
+      "slug": "reverse-linked-list",
+      "problemName": "0206-reverse-linked-list",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-linked-list/",
+      "folderPath": "leetcode/0206-reverse-linked-list/",
+      "readmePath": "leetcode/0206-reverse-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0206-reverse-linked-list.py",
+          "path": "leetcode/0206-reverse-linked-list/0206-reverse-linked-list.py",
+          "sha": "7ba068e07f55c6aa7bb819566254d5182f9324ce",
+          "lastSyncedAt": "2026-10-11T07:05:44.682Z"
+        }
+      ]
+    }
+  ]
+}
