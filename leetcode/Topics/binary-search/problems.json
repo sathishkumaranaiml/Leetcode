@@ -5,8 +5,28 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-11T07:07:27.012Z",
+  "updatedAt": "2026-10-11T07:07:33.275Z",
   "problems": [
+    {
+      "frontendId": "162",
+      "title": "Find Peak Element",
+      "slug": "find-peak-element",
+      "problemName": "0162-find-peak-element",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-peak-element/",
+      "folderPath": "leetcode/0162-find-peak-element/",
+      "readmePath": "leetcode/0162-find-peak-element/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0162-find-peak-element.py",
+          "path": "leetcode/0162-find-peak-element/0162-find-peak-element.py",
+          "sha": "6caf74d535be05a7e5c0df54809aecdb4eccf2e4",
+          "lastSyncedAt": "2026-10-11T07:07:33.275Z"
+        }
+      ]
+    },
     {
       "frontendId": "367",
       "title": "Valid Perfect Square",
