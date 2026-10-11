@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-10-11T07:23:00.315Z",
+  "updatedAt": "2026-10-11T07:26:07.685Z",
   "problems": [
     {
       "frontendId": "303",
@@ -64,6 +64,26 @@
           "path": "leetcode/0525-contiguous-array/0525-contiguous-array.py",
           "sha": "1a17cc45f303a59576db078fe258e033ee232deb",
           "lastSyncedAt": "2026-10-11T07:19:47.737Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "713",
+      "title": "Subarray Product Less Than K",
+      "slug": "subarray-product-less-than-k",
+      "problemName": "0713-subarray-product-less-than-k",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/subarray-product-less-than-k/",
+      "folderPath": "leetcode/0713-subarray-product-less-than-k/",
+      "readmePath": "leetcode/0713-subarray-product-less-than-k/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0713-subarray-product-less-than-k.py",
+          "path": "leetcode/0713-subarray-product-less-than-k/0713-subarray-product-less-than-k.py",
+          "sha": "d676b907ed461b593b27a82293aafcfe2fc6491c",
+          "lastSyncedAt": "2026-10-11T07:26:07.685Z"
         }
       ]
     },
