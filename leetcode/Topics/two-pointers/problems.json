@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-11T07:45:00.887Z",
+  "updatedAt": "2026-10-11T07:45:13.813Z",
   "problems": [
     {
       "frontendId": "11",
@@ -144,6 +144,26 @@
           "path": "leetcode/0088-merge-sorted-array/0088-merge-sorted-array.py",
           "sha": "edae05e24edd4271f24dc6627cb764b5dfe774d6",
           "lastSyncedAt": "2026-10-11T07:16:20.788Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "167",
+      "title": "Two Sum II - Input Array Is Sorted",
+      "slug": "two-sum-ii-input-array-is-sorted",
+      "problemName": "0167-two-sum-ii-input-array-is-sorted",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/",
+      "folderPath": "leetcode/0167-two-sum-ii-input-array-is-sorted/",
+      "readmePath": "leetcode/0167-two-sum-ii-input-array-is-sorted/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0167-two-sum-ii-input-array-is-sorted.py",
+          "path": "leetcode/0167-two-sum-ii-input-array-is-sorted/0167-two-sum-ii-input-array-is-sorted.py",
+          "sha": "6c7be8315d105198a8f388b82415707f45cc6844",
+          "lastSyncedAt": "2026-10-11T07:45:13.813Z"
         }
       ]
     },
