@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-10-11T07:45:55.373Z",
+  "updatedAt": "2026-10-11T07:57:10.794Z",
   "problems": [
     {
       "frontendId": "3",
@@ -164,6 +164,26 @@
           "path": "leetcode/0713-subarray-product-less-than-k/0713-subarray-product-less-than-k.py",
           "sha": "d676b907ed461b593b27a82293aafcfe2fc6491c",
           "lastSyncedAt": "2026-10-11T07:26:07.685Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "862",
+      "title": "Shortest Subarray with Sum at Least K",
+      "slug": "shortest-subarray-with-sum-at-least-k",
+      "problemName": "0862-shortest-subarray-with-sum-at-least-k",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/",
+      "folderPath": "leetcode/0862-shortest-subarray-with-sum-at-least-k/",
+      "readmePath": "leetcode/0862-shortest-subarray-with-sum-at-least-k/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0862-shortest-subarray-with-sum-at-least-k.py",
+          "path": "leetcode/0862-shortest-subarray-with-sum-at-least-k/0862-shortest-subarray-with-sum-at-least-k.py",
+          "sha": "e4f6087b9875260b14772d35cc41394ff40aa157",
+          "lastSyncedAt": "2026-10-11T07:57:10.794Z"
         }
       ]
     },
