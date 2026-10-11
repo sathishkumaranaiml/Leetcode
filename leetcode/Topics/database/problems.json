@@ -5,8 +5,28 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-11T07:13:45.590Z",
+  "updatedAt": "2026-10-11T07:13:50.091Z",
   "problems": [
+    {
+      "frontendId": "184",
+      "title": "Department Highest Salary",
+      "slug": "department-highest-salary",
+      "problemName": "0184-department-highest-salary",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/department-highest-salary/",
+      "folderPath": "leetcode/0184-department-highest-salary/",
+      "readmePath": "leetcode/0184-department-highest-salary/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0184-department-highest-salary.sql",
+          "path": "leetcode/0184-department-highest-salary/0184-department-highest-salary.sql",
+          "sha": "e760cbd2a3a2f425972d45a172fa5be531d95061",
+          "lastSyncedAt": "2026-10-11T07:13:50.091Z"
+        }
+      ]
+    },
     {
       "frontendId": "196",
       "title": "Delete Duplicate Emails",
