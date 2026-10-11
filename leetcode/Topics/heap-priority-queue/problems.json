@@ -5,7 +5,7 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-10-11T07:57:10.794Z",
+  "updatedAt": "2026-10-11T07:57:23.064Z",
   "problems": [
     {
       "frontendId": "215",
@@ -64,6 +64,26 @@
           "path": "leetcode/0451-sort-characters-by-frequency/0451-sort-characters-by-frequency.py",
           "sha": "8da7897318a1f88e78d8809c031134a0567bf354",
           "lastSyncedAt": "2026-10-11T07:11:13.759Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "621",
+      "title": "Task Scheduler",
+      "slug": "task-scheduler",
+      "problemName": "0621-task-scheduler",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/task-scheduler/",
+      "folderPath": "leetcode/0621-task-scheduler/",
+      "readmePath": "leetcode/0621-task-scheduler/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0621-task-scheduler.py",
+          "path": "leetcode/0621-task-scheduler/0621-task-scheduler.py",
+          "sha": "a7b85f2bff10b7f27750587fc2f85097df28fa7b",
+          "lastSyncedAt": "2026-10-11T07:57:23.064Z"
         }
       ]
     },
