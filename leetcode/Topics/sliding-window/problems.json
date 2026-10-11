@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-10-11T07:16:01.365Z",
+  "updatedAt": "2026-10-11T07:16:11.800Z",
   "problems": [
     {
       "frontendId": "187",
@@ -64,6 +64,26 @@
           "path": "leetcode/0424-longest-repeating-character-replacement/0424-longest-repeating-character-replacement.py",
           "sha": "609a9d0fd9cabf2cf637e7efbd285b8b28b6b4da",
           "lastSyncedAt": "2026-10-11T07:12:00.933Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "930",
+      "title": "Binary Subarrays With Sum",
+      "slug": "binary-subarrays-with-sum",
+      "problemName": "0930-binary-subarrays-with-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-subarrays-with-sum/",
+      "folderPath": "leetcode/0930-binary-subarrays-with-sum/",
+      "readmePath": "leetcode/0930-binary-subarrays-with-sum/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0930-binary-subarrays-with-sum.py",
+          "path": "leetcode/0930-binary-subarrays-with-sum/0930-binary-subarrays-with-sum.py",
+          "sha": "6a3073294de9daa99aef18ea5160af8a154bc41d",
+          "lastSyncedAt": "2026-10-11T07:16:11.800Z"
         }
       ]
     },
