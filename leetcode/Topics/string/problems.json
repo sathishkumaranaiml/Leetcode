@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-11T07:45:55.373Z",
+  "updatedAt": "2026-10-11T07:46:27.535Z",
   "problems": [
     {
       "frontendId": "3",
@@ -384,6 +384,26 @@
           "path": "leetcode/0459-repeated-substring-pattern/0459-repeated-substring-pattern.py",
           "sha": "adb7ec9e09ace11cf0a6e59c3b77ebb7bcabb0b9",
           "lastSyncedAt": "2026-10-11T07:08:36.697Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "541",
+      "title": "Reverse String II",
+      "slug": "reverse-string-ii",
+      "problemName": "0541-reverse-string-ii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-string-ii/",
+      "folderPath": "leetcode/0541-reverse-string-ii/",
+      "readmePath": "leetcode/0541-reverse-string-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0541-reverse-string-ii.py",
+          "path": "leetcode/0541-reverse-string-ii/0541-reverse-string-ii.py",
+          "sha": "0f83e6d48151feb8ad5e14852ab01cfd6f7d8c95",
+          "lastSyncedAt": "2026-10-11T07:46:27.535Z"
         }
       ]
     },
