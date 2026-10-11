@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-11T07:19:55.488Z",
+  "updatedAt": "2026-10-11T07:20:06.339Z",
   "problems": [
     {
       "frontendId": "1",
@@ -944,6 +944,26 @@
           "path": "leetcode/1248-count-number-of-nice-subarrays/1248-count-number-of-nice-subarrays.py",
           "sha": "cd1ecbb63381714a0a071d791bc2fda3310c9903",
           "lastSyncedAt": "2026-10-11T07:16:01.365Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1288",
+      "title": "Remove Covered Intervals",
+      "slug": "remove-covered-intervals",
+      "problemName": "1288-remove-covered-intervals",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-covered-intervals/",
+      "folderPath": "leetcode/1288-remove-covered-intervals/",
+      "readmePath": "leetcode/1288-remove-covered-intervals/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1288-remove-covered-intervals.py",
+          "path": "leetcode/1288-remove-covered-intervals/1288-remove-covered-intervals.py",
+          "sha": "e437b9a922c6ec8c290e5c85c21cf6603a00387c",
+          "lastSyncedAt": "2026-10-11T07:20:06.339Z"
         }
       ]
     },
