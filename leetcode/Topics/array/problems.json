@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-11T07:26:25.749Z",
+  "updatedAt": "2026-10-11T07:26:34.437Z",
   "problems": [
     {
       "frontendId": "1",
@@ -524,6 +524,26 @@
           "path": "leetcode/0215-kth-largest-element-in-an-array/0215-kth-largest-element-in-an-array.py",
           "sha": "44621fa5fa98cd521124ebb6644f27dd8d2691cb",
           "lastSyncedAt": "2026-10-11T07:24:54.833Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "238",
+      "title": "Product of Array Except Self",
+      "slug": "product-of-array-except-self",
+      "problemName": "0238-product-of-array-except-self",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/product-of-array-except-self/",
+      "folderPath": "leetcode/0238-product-of-array-except-self/",
+      "readmePath": "leetcode/0238-product-of-array-except-self/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0238-product-of-array-except-self.py",
+          "path": "leetcode/0238-product-of-array-except-self/0238-product-of-array-except-self.py",
+          "sha": "15ac726f2b0a9a3f770831a4acad2f69b40407ef",
+          "lastSyncedAt": "2026-10-11T07:26:34.437Z"
         }
       ]
     },
