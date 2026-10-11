@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-11T07:23:55.398Z",
+  "updatedAt": "2026-10-11T07:42:27.105Z",
   "problems": [
     {
       "frontendId": "78",
@@ -144,6 +144,26 @@
           "path": "leetcode/1310-xor-queries-of-a-subarray/1310-xor-queries-of-a-subarray.py",
           "sha": "47b1089291270b20aaae4ddc344605b2964ca9c5",
           "lastSyncedAt": "2026-10-11T07:15:46.013Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "4030",
+      "title": "Check ASCII Palindromic",
+      "slug": "check-ascii-palindromic",
+      "problemName": "4030-check-ascii-palindromic",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-ascii-palindromic/",
+      "folderPath": "leetcode/4030-check-ascii-palindromic/",
+      "readmePath": "leetcode/4030-check-ascii-palindromic/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "4030-check-ascii-palindromic.py",
+          "path": "leetcode/4030-check-ascii-palindromic/4030-check-ascii-palindromic.py",
+          "sha": "6df4463d99113c4b89a52e450f4fa9fe8b5b53cf",
+          "lastSyncedAt": "2026-10-11T07:42:27.105Z"
         }
       ]
     }
