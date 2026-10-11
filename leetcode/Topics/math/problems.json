@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-11T07:43:32.605Z",
+  "updatedAt": "2026-10-11T07:46:17.263Z",
   "problems": [
     {
       "frontendId": "2",
@@ -224,6 +224,26 @@
           "path": "leetcode/1295-find-numbers-with-even-number-of-digits/1295-find-numbers-with-even-number-of-digits.py",
           "sha": "d1c4f750c358bef9a934f95b86dab7bfd2fbc4cc",
           "lastSyncedAt": "2026-10-11T07:27:34.466Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1512",
+      "title": "Number of Good Pairs",
+      "slug": "number-of-good-pairs",
+      "problemName": "1512-number-of-good-pairs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-good-pairs/",
+      "folderPath": "leetcode/1512-number-of-good-pairs/",
+      "readmePath": "leetcode/1512-number-of-good-pairs/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1512-number-of-good-pairs.py",
+          "path": "leetcode/1512-number-of-good-pairs/1512-number-of-good-pairs.py",
+          "sha": "601a2aafed4ce867cf558c3b128e7839d3f978f1",
+          "lastSyncedAt": "2026-10-11T07:46:17.263Z"
         }
       ]
     },
