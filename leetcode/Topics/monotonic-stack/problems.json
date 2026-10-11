@@ -5,7 +5,7 @@
     "name": "Monotonic Stack",
     "tagId": "61054"
   },
-  "updatedAt": "2026-10-11T07:06:23.435Z",
+  "updatedAt": "2026-10-11T07:06:34.103Z",
   "problems": [
     {
       "frontendId": "84",
@@ -24,6 +24,26 @@
           "path": "leetcode/0084-largest-rectangle-in-histogram/0084-largest-rectangle-in-histogram.py",
           "sha": "02b92bf539e8bb3ec2c578817766f0c5eeca6f1d",
           "lastSyncedAt": "2026-10-11T07:06:23.435Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "503",
+      "title": "Next Greater Element II",
+      "slug": "next-greater-element-ii",
+      "problemName": "0503-next-greater-element-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/next-greater-element-ii/",
+      "folderPath": "leetcode/0503-next-greater-element-ii/",
+      "readmePath": "leetcode/0503-next-greater-element-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0503-next-greater-element-ii.py",
+          "path": "leetcode/0503-next-greater-element-ii/0503-next-greater-element-ii.py",
+          "sha": "73bc5616ab17ef846ccb8fa343751a2acd5a1f97",
+          "lastSyncedAt": "2026-10-11T07:06:34.103Z"
         }
       ]
     }
