@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-10-11T07:22:50.622Z",
+  "updatedAt": "2026-10-11T07:23:00.315Z",
   "problems": [
     {
       "frontendId": "3",
@@ -264,6 +264,26 @@
           "path": "leetcode/1358-number-of-substrings-containing-all-three-characters/1358-number-of-substrings-containing-all-three-characters.py",
           "sha": "ffadaa3591a37d8140a3d9bcf4ef5ebdb0a3e5bd",
           "lastSyncedAt": "2026-10-11T07:21:38.540Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1423",
+      "title": "Maximum Points You Can Obtain from Cards",
+      "slug": "maximum-points-you-can-obtain-from-cards",
+      "problemName": "1423-maximum-points-you-can-obtain-from-cards",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/",
+      "folderPath": "leetcode/1423-maximum-points-you-can-obtain-from-cards/",
+      "readmePath": "leetcode/1423-maximum-points-you-can-obtain-from-cards/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "1423-maximum-points-you-can-obtain-from-cards.py",
+          "path": "leetcode/1423-maximum-points-you-can-obtain-from-cards/1423-maximum-points-you-can-obtain-from-cards.py",
+          "sha": "6b179db8a64a0ac0afb73f43eec70ef3d0bbd53f",
+          "lastSyncedAt": "2026-10-11T07:23:00.315Z"
         }
       ]
     },
