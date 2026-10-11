@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-11T07:44:02.105Z",
+  "updatedAt": "2026-10-11T07:44:20.514Z",
   "problems": [
     {
       "frontendId": "3",
@@ -504,6 +504,26 @@
           "path": "leetcode/0884-uncommon-words-from-two-sentences/0884-uncommon-words-from-two-sentences.py",
           "sha": "7cc4e0985194b7c576b5595616f7c13a3c3d81a0",
           "lastSyncedAt": "2026-10-11T07:08:06.359Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "925",
+      "title": "Long Pressed Name",
+      "slug": "long-pressed-name",
+      "problemName": "0925-long-pressed-name",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/long-pressed-name/",
+      "folderPath": "leetcode/0925-long-pressed-name/",
+      "readmePath": "leetcode/0925-long-pressed-name/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0925-long-pressed-name.py",
+          "path": "leetcode/0925-long-pressed-name/0925-long-pressed-name.py",
+          "sha": "808bfd44b127db475ff2944fddaa4beaaee28142",
+          "lastSyncedAt": "2026-10-11T07:44:20.514Z"
         }
       ]
     },
