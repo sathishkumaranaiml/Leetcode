@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-11T08:02:17.257Z",
+  "updatedAt": "2026-10-11T13:46:43.248Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2324,6 +2324,26 @@
           "path": "leetcode/2760-longest-even-odd-subarray-with-threshold/2760-longest-even-odd-subarray-with-threshold.py",
           "sha": "14634b7384ade52cf841cbc5bb48edc99309f170",
           "lastSyncedAt": "2026-10-11T07:21:54.886Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2778",
+      "title": "Sum of Squares of Special Elements ",
+      "slug": "sum-of-squares-of-special-elements",
+      "problemName": "2778-sum-of-squares-of-special-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-squares-of-special-elements/",
+      "folderPath": "leetcode/2778-sum-of-squares-of-special-elements/",
+      "readmePath": "leetcode/2778-sum-of-squares-of-special-elements/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "2778-sum-of-squares-of-special-elements.py",
+          "path": "leetcode/2778-sum-of-squares-of-special-elements/2778-sum-of-squares-of-special-elements.py",
+          "sha": "77b4757ee58ab5a16921df1a2d9d247ca28928d2",
+          "lastSyncedAt": "2026-10-11T13:46:43.248Z"
         }
       ]
     },
