@@ -5,8 +5,28 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-10-11T07:19:03.531Z",
+  "updatedAt": "2026-10-11T07:23:55.398Z",
   "problems": [
+    {
+      "frontendId": "191",
+      "title": "Number of 1 Bits",
+      "slug": "number-of-1-bits",
+      "problemName": "0191-number-of-1-bits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-1-bits/",
+      "folderPath": "leetcode/0191-number-of-1-bits/",
+      "readmePath": "leetcode/0191-number-of-1-bits/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0191-number-of-1-bits.py",
+          "path": "leetcode/0191-number-of-1-bits/0191-number-of-1-bits.py",
+          "sha": "f7db9942ca244736cbd62feee601d20df91ea38a",
+          "lastSyncedAt": "2026-10-11T07:23:55.398Z"
+        }
+      ]
+    },
     {
       "frontendId": "240",
       "title": "Search a 2D Matrix II",
