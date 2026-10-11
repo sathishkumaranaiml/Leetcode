@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-11T07:06:23.435Z",
+  "updatedAt": "2026-10-11T07:06:34.103Z",
   "problems": [
     {
       "frontendId": "1",
@@ -184,6 +184,26 @@
           "path": "leetcode/0376-wiggle-subsequence/0376-wiggle-subsequence.py",
           "sha": "1516cc1c085fac94ae67a94817d1f0f278904072",
           "lastSyncedAt": "2026-10-11T07:06:11.325Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "503",
+      "title": "Next Greater Element II",
+      "slug": "next-greater-element-ii",
+      "problemName": "0503-next-greater-element-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/next-greater-element-ii/",
+      "folderPath": "leetcode/0503-next-greater-element-ii/",
+      "readmePath": "leetcode/0503-next-greater-element-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0503-next-greater-element-ii.py",
+          "path": "leetcode/0503-next-greater-element-ii/0503-next-greater-element-ii.py",
+          "sha": "73bc5616ab17ef846ccb8fa343751a2acd5a1f97",
+          "lastSyncedAt": "2026-10-11T07:06:34.103Z"
         }
       ]
     },
