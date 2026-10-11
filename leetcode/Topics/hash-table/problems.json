@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-11T07:18:36.607Z",
+  "updatedAt": "2026-10-11T07:18:48.705Z",
   "problems": [
     {
       "frontendId": "1",
@@ -264,6 +264,26 @@
           "path": "leetcode/0442-find-all-duplicates-in-an-array/0442-find-all-duplicates-in-an-array.py",
           "sha": "83a9035090334860ef9de1182e6231bbdb3c7e8b",
           "lastSyncedAt": "2026-10-11T07:18:29.320Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "448",
+      "title": "Find All Numbers Disappeared in an Array",
+      "slug": "find-all-numbers-disappeared-in-an-array",
+      "problemName": "0448-find-all-numbers-disappeared-in-an-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/",
+      "folderPath": "leetcode/0448-find-all-numbers-disappeared-in-an-array/",
+      "readmePath": "leetcode/0448-find-all-numbers-disappeared-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0448-find-all-numbers-disappeared-in-an-array.py",
+          "path": "leetcode/0448-find-all-numbers-disappeared-in-an-array/0448-find-all-numbers-disappeared-in-an-array.py",
+          "sha": "7a250ca404236e41f4f1e0fe52cdccc209c8aa70",
+          "lastSyncedAt": "2026-10-11T07:18:48.705Z"
         }
       ]
     },
