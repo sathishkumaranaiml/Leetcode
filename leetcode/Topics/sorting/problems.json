@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "sorting",
+    "name": "Sorting",
+    "tagId": "61049"
+  },
+  "updatedAt": "2026-10-11T07:07:48.494Z",
+  "problems": [
+    {
+      "frontendId": "4065",
+      "title": "Rearrange Array by Removing Distinct Values",
+      "slug": "rearrange-array-by-removing-distinct-values",
+      "problemName": "4065-rearrange-array-by-removing-distinct-values",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/rearrange-array-by-removing-distinct-values/",
+      "folderPath": "leetcode/4065-rearrange-array-by-removing-distinct-values/",
+      "readmePath": "leetcode/4065-rearrange-array-by-removing-distinct-values/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "4065-rearrange-array-by-removing-distinct-values.py",
+          "path": "leetcode/4065-rearrange-array-by-removing-distinct-values/4065-rearrange-array-by-removing-distinct-values.py",
+          "sha": "ae20035f0713cd529095120554b8a2b4552ac72a",
+          "lastSyncedAt": "2026-10-11T07:07:48.494Z"
+        }
+      ]
+    }
+  ]
+}
