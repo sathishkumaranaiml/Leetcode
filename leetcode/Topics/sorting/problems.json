@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-11T07:26:25.749Z",
+  "updatedAt": "2026-10-11T07:26:53.439Z",
   "problems": [
     {
       "frontendId": "15",
@@ -544,6 +544,26 @@
           "path": "leetcode/3732-maximum-product-of-three-elements-after-one-replacement/3732-maximum-product-of-three-elements-after-one-replacement.py",
           "sha": "47082721ed8cec71d3e9b814a08bd8c76bded94e",
           "lastSyncedAt": "2026-10-11T07:26:25.749Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3992",
+      "title": "Rearrange String to Avoid Character Pair",
+      "slug": "rearrange-string-to-avoid-character-pair",
+      "problemName": "3992-rearrange-string-to-avoid-character-pair",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/rearrange-string-to-avoid-character-pair/",
+      "folderPath": "leetcode/3992-rearrange-string-to-avoid-character-pair/",
+      "readmePath": "leetcode/3992-rearrange-string-to-avoid-character-pair/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3992-rearrange-string-to-avoid-character-pair.py",
+          "path": "leetcode/3992-rearrange-string-to-avoid-character-pair/3992-rearrange-string-to-avoid-character-pair.py",
+          "sha": "56d56c836c7b408b7cfbb8020ae014656317318e",
+          "lastSyncedAt": "2026-10-11T07:26:53.439Z"
         }
       ]
     },
