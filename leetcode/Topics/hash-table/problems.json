@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-11T07:25:31.631Z",
+  "updatedAt": "2026-10-11T07:42:09.840Z",
   "problems": [
     {
       "frontendId": "1",
@@ -844,6 +844,26 @@
           "path": "leetcode/3090-maximum-length-substring-with-two-occurrences/3090-maximum-length-substring-with-two-occurrences.py",
           "sha": "e7967a81591b91432273a41844e29ba8eb456346",
           "lastSyncedAt": "2026-10-11T07:22:26.351Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3718",
+      "title": "Smallest Missing Multiple of K",
+      "slug": "smallest-missing-multiple-of-k",
+      "problemName": "3718-smallest-missing-multiple-of-k",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-missing-multiple-of-k/",
+      "folderPath": "leetcode/3718-smallest-missing-multiple-of-k/",
+      "readmePath": "leetcode/3718-smallest-missing-multiple-of-k/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3718-smallest-missing-multiple-of-k.py",
+          "path": "leetcode/3718-smallest-missing-multiple-of-k/3718-smallest-missing-multiple-of-k.py",
+          "sha": "03c82caa91aeb5820cd7cff67b389eb7a5d297af",
+          "lastSyncedAt": "2026-10-11T07:42:09.840Z"
         }
       ]
     },
