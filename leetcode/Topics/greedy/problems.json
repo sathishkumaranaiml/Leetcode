@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-11T07:24:47.390Z",
+  "updatedAt": "2026-10-11T07:26:25.749Z",
   "problems": [
     {
       "frontendId": "11",
@@ -284,6 +284,26 @@
           "path": "leetcode/1838-frequency-of-the-most-frequent-element/1838-frequency-of-the-most-frequent-element.py",
           "sha": "8a4047b85d88f552354b985818f6c9705b16ae82",
           "lastSyncedAt": "2026-10-11T07:09:36.042Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3732",
+      "title": "Maximum Product of Three Elements After One Replacement",
+      "slug": "maximum-product-of-three-elements-after-one-replacement",
+      "problemName": "3732-maximum-product-of-three-elements-after-one-replacement",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-product-of-three-elements-after-one-replacement/",
+      "folderPath": "leetcode/3732-maximum-product-of-three-elements-after-one-replacement/",
+      "readmePath": "leetcode/3732-maximum-product-of-three-elements-after-one-replacement/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3732-maximum-product-of-three-elements-after-one-replacement.py",
+          "path": "leetcode/3732-maximum-product-of-three-elements-after-one-replacement/3732-maximum-product-of-three-elements-after-one-replacement.py",
+          "sha": "47082721ed8cec71d3e9b814a08bd8c76bded94e",
+          "lastSyncedAt": "2026-10-11T07:26:25.749Z"
         }
       ]
     }
