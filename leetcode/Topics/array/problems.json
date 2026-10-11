@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-11T07:21:46.211Z",
+  "updatedAt": "2026-10-11T07:21:54.886Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1284,6 +1284,26 @@
           "path": "leetcode/1886-determine-whether-matrix-can-be-obtained-by-rotation/1886-determine-whether-matrix-can-be-obtained-by-rotation.py",
           "sha": "9ea68f6ab20537f42ed5fbc74fe3e1a9a67a7f83",
           "lastSyncedAt": "2026-10-11T07:17:25.643Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2760",
+      "title": "Longest Even Odd Subarray With Threshold",
+      "slug": "longest-even-odd-subarray-with-threshold",
+      "problemName": "2760-longest-even-odd-subarray-with-threshold",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-even-odd-subarray-with-threshold/",
+      "folderPath": "leetcode/2760-longest-even-odd-subarray-with-threshold/",
+      "readmePath": "leetcode/2760-longest-even-odd-subarray-with-threshold/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2760-longest-even-odd-subarray-with-threshold.py",
+          "path": "leetcode/2760-longest-even-odd-subarray-with-threshold/2760-longest-even-odd-subarray-with-threshold.py",
+          "sha": "14634b7384ade52cf841cbc5bb48edc99309f170",
+          "lastSyncedAt": "2026-10-11T07:21:54.886Z"
         }
       ]
     },
