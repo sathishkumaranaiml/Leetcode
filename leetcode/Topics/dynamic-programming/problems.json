@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-11T07:59:12.637Z",
+  "updatedAt": "2026-10-11T08:00:05.206Z",
   "problems": [
     {
       "frontendId": "32",
@@ -23,7 +23,7 @@
           "filename": "0032-longest-valid-parentheses.py",
           "path": "leetcode/0032-longest-valid-parentheses/0032-longest-valid-parentheses.py",
           "sha": "85c4aa16870831e269e59d7a895bb93aa576102c",
-          "lastSyncedAt": "2026-10-11T07:07:01.809Z"
+          "lastSyncedAt": "2026-10-11T08:00:05.206Z"
         }
       ]
     },
