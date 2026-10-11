@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-11T07:57:53.735Z",
+  "updatedAt": "2026-10-11T07:58:00.671Z",
   "problems": [
     {
       "frontendId": "1",
@@ -964,6 +964,26 @@
           "path": "leetcode/1695-maximum-erasure-value/1695-maximum-erasure-value.py",
           "sha": "d56a3447cd687227912eba2103b58621d1501c84",
           "lastSyncedAt": "2026-10-11T07:22:10.402Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1748",
+      "title": "Sum of Unique Elements",
+      "slug": "sum-of-unique-elements",
+      "problemName": "1748-sum-of-unique-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-unique-elements/",
+      "folderPath": "leetcode/1748-sum-of-unique-elements/",
+      "readmePath": "leetcode/1748-sum-of-unique-elements/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "1748-sum-of-unique-elements.py",
+          "path": "leetcode/1748-sum-of-unique-elements/1748-sum-of-unique-elements.py",
+          "sha": "ef548e3333664f4760c75e95bef33bcab8987dc5",
+          "lastSyncedAt": "2026-10-11T07:58:00.671Z"
         }
       ]
     },
