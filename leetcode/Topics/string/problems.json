@@ -5,8 +5,28 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-11T07:05:17.872Z",
+  "updatedAt": "2026-10-11T07:06:50.076Z",
   "problems": [
+    {
+      "frontendId": "394",
+      "title": "Decode String",
+      "slug": "decode-string",
+      "problemName": "0394-decode-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/decode-string/",
+      "folderPath": "leetcode/0394-decode-string/",
+      "readmePath": "leetcode/0394-decode-string/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0394-decode-string.py",
+          "path": "leetcode/0394-decode-string/0394-decode-string.py",
+          "sha": "9edcf9ed685ec5863d78a0fed426e42072701c91",
+          "lastSyncedAt": "2026-10-11T07:06:50.076Z"
+        }
+      ]
+    },
     {
       "frontendId": "763",
       "title": "Partition Labels",
