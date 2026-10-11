@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-11T07:14:37.567Z",
+  "updatedAt": "2026-10-11T07:14:42.447Z",
   "problems": [
     {
       "frontendId": "184",
@@ -84,6 +84,26 @@
           "path": "leetcode/0586-customer-placing-the-largest-number-of-orders/0586-customer-placing-the-largest-number-of-orders.sql",
           "sha": "a163d101b8f7a9be22ddce21edc1b21ca4eff872",
           "lastSyncedAt": "2026-10-11T07:14:03.798Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "607",
+      "title": "Sales Person",
+      "slug": "sales-person",
+      "problemName": "0607-sales-person",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sales-person/",
+      "folderPath": "leetcode/0607-sales-person/",
+      "readmePath": "leetcode/0607-sales-person/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0607-sales-person.sql",
+          "path": "leetcode/0607-sales-person/0607-sales-person.sql",
+          "sha": "36e7a16fcadf094e7d745b18fd7166bdbaa4e2ad",
+          "lastSyncedAt": "2026-10-11T07:14:42.447Z"
         }
       ]
     },
