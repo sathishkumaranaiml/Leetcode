@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-10-11T07:23:25.519Z",
+  "updatedAt": "2026-10-11T07:23:35.233Z",
   "problems": [
     {
       "frontendId": "3",
@@ -464,6 +464,26 @@
           "path": "leetcode/2260-minimum-consecutive-cards-to-pick-up/2260-minimum-consecutive-cards-to-pick-up.py",
           "sha": "3955f3bf12f7d423ec0f836420b4265199dc5dab",
           "lastSyncedAt": "2026-10-11T07:22:01.460Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2269",
+      "title": "Find the K-Beauty of a Number",
+      "slug": "find-the-k-beauty-of-a-number",
+      "problemName": "2269-find-the-k-beauty-of-a-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-k-beauty-of-a-number/",
+      "folderPath": "leetcode/2269-find-the-k-beauty-of-a-number/",
+      "readmePath": "leetcode/2269-find-the-k-beauty-of-a-number/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "2269-find-the-k-beauty-of-a-number.py",
+          "path": "leetcode/2269-find-the-k-beauty-of-a-number/2269-find-the-k-beauty-of-a-number.py",
+          "sha": "f880734c621f3aca6a7c6d1203d70f4586c654b5",
+          "lastSyncedAt": "2026-10-11T07:23:35.233Z"
         }
       ]
     },
