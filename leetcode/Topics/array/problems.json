@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-11T07:20:13.674Z",
+  "updatedAt": "2026-10-11T07:20:23.019Z",
   "problems": [
     {
       "frontendId": "1",
@@ -624,6 +624,26 @@
           "path": "leetcode/0448-find-all-numbers-disappeared-in-an-array/0448-find-all-numbers-disappeared-in-an-array.py",
           "sha": "7a250ca404236e41f4f1e0fe52cdccc209c8aa70",
           "lastSyncedAt": "2026-10-11T07:18:48.705Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "452",
+      "title": "Minimum Number of Arrows to Burst Balloons",
+      "slug": "minimum-number-of-arrows-to-burst-balloons",
+      "problemName": "0452-minimum-number-of-arrows-to-burst-balloons",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/",
+      "folderPath": "leetcode/0452-minimum-number-of-arrows-to-burst-balloons/",
+      "readmePath": "leetcode/0452-minimum-number-of-arrows-to-burst-balloons/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0452-minimum-number-of-arrows-to-burst-balloons.py",
+          "path": "leetcode/0452-minimum-number-of-arrows-to-burst-balloons/0452-minimum-number-of-arrows-to-burst-balloons.py",
+          "sha": "499580dde9636bc591548dc1f2bdc1c8634d1e6d",
+          "lastSyncedAt": "2026-10-11T07:20:23.019Z"
         }
       ]
     },
