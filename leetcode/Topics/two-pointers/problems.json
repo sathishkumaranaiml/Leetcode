@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-11T07:16:20.788Z",
+  "updatedAt": "2026-10-11T07:17:50.766Z",
   "problems": [
     {
       "frontendId": "19",
@@ -64,6 +64,26 @@
           "path": "leetcode/0088-merge-sorted-array/0088-merge-sorted-array.py",
           "sha": "edae05e24edd4271f24dc6627cb764b5dfe774d6",
           "lastSyncedAt": "2026-10-11T07:16:20.788Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "287",
+      "title": "Find the Duplicate Number",
+      "slug": "find-the-duplicate-number",
+      "problemName": "0287-find-the-duplicate-number",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-duplicate-number/",
+      "folderPath": "leetcode/0287-find-the-duplicate-number/",
+      "readmePath": "leetcode/0287-find-the-duplicate-number/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0287-find-the-duplicate-number.py",
+          "path": "leetcode/0287-find-the-duplicate-number/0287-find-the-duplicate-number.py",
+          "sha": "254821ea6f35ea8b1cf211097ca0e422f63cff98",
+          "lastSyncedAt": "2026-10-11T07:17:50.766Z"
         }
       ]
     },
