@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-11T07:13:50.091Z",
+  "updatedAt": "2026-10-11T07:13:54.896Z",
   "problems": [
     {
       "frontendId": "184",
@@ -444,6 +444,26 @@
           "path": "leetcode/1731-the-number-of-employees-which-report-to-each-employee/1731-the-number-of-employees-which-report-to-each-employee.sql",
           "sha": "a1e35b60bab84bb40202b91b700f36c611e262a4",
           "lastSyncedAt": "2026-10-11T07:12:20.747Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3421",
+      "title": "Find Students Who Improved",
+      "slug": "find-students-who-improved",
+      "problemName": "3421-find-students-who-improved",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-students-who-improved/",
+      "folderPath": "leetcode/3421-find-students-who-improved/",
+      "readmePath": "leetcode/3421-find-students-who-improved/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "3421-find-students-who-improved.sql",
+          "path": "leetcode/3421-find-students-who-improved/3421-find-students-who-improved.sql",
+          "sha": "8aca97070fc1e589772afb9d0cd2f824ad09ffbb",
+          "lastSyncedAt": "2026-10-11T07:13:54.896Z"
         }
       ]
     }
