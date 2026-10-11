@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-11T07:44:10.078Z",
+  "updatedAt": "2026-10-11T07:44:20.514Z",
   "problems": [
     {
       "frontendId": "11",
@@ -344,6 +344,26 @@
           "path": "leetcode/0922-sort-array-by-parity-ii/0922-sort-array-by-parity-ii.py",
           "sha": "7987284ba1941dd38480d269b39a847959c2631f",
           "lastSyncedAt": "2026-10-11T07:10:22.028Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "925",
+      "title": "Long Pressed Name",
+      "slug": "long-pressed-name",
+      "problemName": "0925-long-pressed-name",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/long-pressed-name/",
+      "folderPath": "leetcode/0925-long-pressed-name/",
+      "readmePath": "leetcode/0925-long-pressed-name/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0925-long-pressed-name.py",
+          "path": "leetcode/0925-long-pressed-name/0925-long-pressed-name.py",
+          "sha": "808bfd44b127db475ff2944fddaa4beaaee28142",
+          "lastSyncedAt": "2026-10-11T07:44:20.514Z"
         }
       ]
     },
