@@ -5,8 +5,28 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-11T07:16:20.788Z",
+  "updatedAt": "2026-10-11T07:16:35.902Z",
   "problems": [
+    {
+      "frontendId": "47",
+      "title": "Permutations II",
+      "slug": "permutations-ii",
+      "problemName": "0047-permutations-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/permutations-ii/",
+      "folderPath": "leetcode/0047-permutations-ii/",
+      "readmePath": "leetcode/0047-permutations-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0047-permutations-ii.py",
+          "path": "leetcode/0047-permutations-ii/0047-permutations-ii.py",
+          "sha": "16a00bec279c75b8170e81fc5ebbab476e9a3271",
+          "lastSyncedAt": "2026-10-11T07:16:35.902Z"
+        }
+      ]
+    },
     {
       "frontendId": "49",
       "title": "Group Anagrams",
