@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-11T07:12:56.852Z",
+  "updatedAt": "2026-10-11T07:13:01.442Z",
   "problems": [
     {
       "frontendId": "1251",
@@ -24,6 +24,26 @@
           "path": "leetcode/1251-average-selling-price/1251-average-selling-price.sql",
           "sha": "7c2bdc29e13005a15cb34f46bdfe26da8a4ea563",
           "lastSyncedAt": "2026-10-11T07:12:15.027Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1280",
+      "title": "Students and Examinations",
+      "slug": "students-and-examinations",
+      "problemName": "1280-students-and-examinations",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/students-and-examinations/",
+      "folderPath": "leetcode/1280-students-and-examinations/",
+      "readmePath": "leetcode/1280-students-and-examinations/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1280-students-and-examinations.sql",
+          "path": "leetcode/1280-students-and-examinations/1280-students-and-examinations.sql",
+          "sha": "129e72667831b48f5f4faab3be450888517c68a6",
+          "lastSyncedAt": "2026-10-11T07:13:01.442Z"
         }
       ]
     },
