@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-11T07:21:21.437Z",
+  "updatedAt": "2026-10-11T07:21:38.540Z",
   "problems": [
     {
       "frontendId": "1",
@@ -544,6 +544,26 @@
           "path": "leetcode/1248-count-number-of-nice-subarrays/1248-count-number-of-nice-subarrays.py",
           "sha": "cd1ecbb63381714a0a071d791bc2fda3310c9903",
           "lastSyncedAt": "2026-10-11T07:16:01.365Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1358",
+      "title": "Number of Substrings Containing All Three Characters",
+      "slug": "number-of-substrings-containing-all-three-characters",
+      "problemName": "1358-number-of-substrings-containing-all-three-characters",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/",
+      "folderPath": "leetcode/1358-number-of-substrings-containing-all-three-characters/",
+      "readmePath": "leetcode/1358-number-of-substrings-containing-all-three-characters/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1358-number-of-substrings-containing-all-three-characters.py",
+          "path": "leetcode/1358-number-of-substrings-containing-all-three-characters/1358-number-of-substrings-containing-all-three-characters.py",
+          "sha": "ffadaa3591a37d8140a3d9bcf4ef5ebdb0a3e5bd",
+          "lastSyncedAt": "2026-10-11T07:21:38.540Z"
         }
       ]
     },
