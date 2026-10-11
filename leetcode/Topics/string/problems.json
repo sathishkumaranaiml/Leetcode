@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-11T07:44:20.514Z",
+  "updatedAt": "2026-10-11T07:44:27.218Z",
   "problems": [
     {
       "frontendId": "3",
@@ -884,6 +884,26 @@
           "path": "leetcode/3110-score-of-a-string/3110-score-of-a-string.py",
           "sha": "c53e2728c72184f378814d37bfdf4a0f5732b749",
           "lastSyncedAt": "2026-10-11T07:24:42.407Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3794",
+      "title": "Reverse String Prefix",
+      "slug": "reverse-string-prefix",
+      "problemName": "3794-reverse-string-prefix",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-string-prefix/",
+      "folderPath": "leetcode/3794-reverse-string-prefix/",
+      "readmePath": "leetcode/3794-reverse-string-prefix/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "3794-reverse-string-prefix.py",
+          "path": "leetcode/3794-reverse-string-prefix/3794-reverse-string-prefix.py",
+          "sha": "48117ef9a1ab89a8317d1545c95332668b6b9b40",
+          "lastSyncedAt": "2026-10-11T07:44:27.218Z"
         }
       ]
     },
