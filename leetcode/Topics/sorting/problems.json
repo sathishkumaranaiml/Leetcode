@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-11T07:57:04.224Z",
+  "updatedAt": "2026-10-11T07:57:23.064Z",
   "problems": [
     {
       "frontendId": "15",
@@ -384,6 +384,26 @@
           "path": "leetcode/0475-heaters/0475-heaters.py",
           "sha": "89c005943ccf8e3ef718459e785e10fad40e53b2",
           "lastSyncedAt": "2026-10-11T07:24:08.904Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "621",
+      "title": "Task Scheduler",
+      "slug": "task-scheduler",
+      "problemName": "0621-task-scheduler",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/task-scheduler/",
+      "folderPath": "leetcode/0621-task-scheduler/",
+      "readmePath": "leetcode/0621-task-scheduler/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0621-task-scheduler.py",
+          "path": "leetcode/0621-task-scheduler/0621-task-scheduler.py",
+          "sha": "a7b85f2bff10b7f27750587fc2f85097df28fa7b",
+          "lastSyncedAt": "2026-10-11T07:57:23.064Z"
         }
       ]
     },
