@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-11T07:27:10.389Z",
+  "updatedAt": "2026-10-11T07:27:16.400Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1484,6 +1484,26 @@
           "path": "leetcode/1460-make-two-arrays-equal-by-reversing-subarrays/1460-make-two-arrays-equal-by-reversing-subarrays.py",
           "sha": "aec03bb39c640214472c8a270859da8852ee4319",
           "lastSyncedAt": "2026-10-11T07:18:21.616Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1470",
+      "title": "Shuffle the Array",
+      "slug": "shuffle-the-array",
+      "problemName": "1470-shuffle-the-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/shuffle-the-array/",
+      "folderPath": "leetcode/1470-shuffle-the-array/",
+      "readmePath": "leetcode/1470-shuffle-the-array/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "1470-shuffle-the-array.py",
+          "path": "leetcode/1470-shuffle-the-array/1470-shuffle-the-array.py",
+          "sha": "c6340d0d1175f32243a8f97394e2bce4ecc200d8",
+          "lastSyncedAt": "2026-10-11T07:27:16.400Z"
         }
       ]
     },
