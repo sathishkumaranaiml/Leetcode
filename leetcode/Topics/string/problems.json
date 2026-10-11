@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-11T07:23:35.233Z",
+  "updatedAt": "2026-10-11T07:23:43.550Z",
   "problems": [
     {
       "frontendId": "3",
@@ -604,6 +604,26 @@
           "path": "leetcode/1392-longest-happy-prefix/1392-longest-happy-prefix.py",
           "sha": "9109a39298800da1a6e384e3a255c8cd289ed127",
           "lastSyncedAt": "2026-10-11T07:08:49.524Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1456",
+      "title": "Maximum Number of Vowels in a Substring of Given Length",
+      "slug": "maximum-number-of-vowels-in-a-substring-of-given-length",
+      "problemName": "1456-maximum-number-of-vowels-in-a-substring-of-given-length",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/",
+      "folderPath": "leetcode/1456-maximum-number-of-vowels-in-a-substring-of-given-length/",
+      "readmePath": "leetcode/1456-maximum-number-of-vowels-in-a-substring-of-given-length/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1456-maximum-number-of-vowels-in-a-substring-of-given-length.py",
+          "path": "leetcode/1456-maximum-number-of-vowels-in-a-substring-of-given-length/1456-maximum-number-of-vowels-in-a-substring-of-given-length.py",
+          "sha": "e5cd6ce929aa3f304d9ad7af6ce6a75183615584",
+          "lastSyncedAt": "2026-10-11T07:23:43.550Z"
         }
       ]
     },
