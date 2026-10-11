@@ -5,8 +5,28 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-10-11T07:04:42.816Z",
+  "updatedAt": "2026-10-11T07:09:50.252Z",
   "problems": [
+    {
+      "frontendId": "395",
+      "title": "Longest Substring with At Least K Repeating Characters",
+      "slug": "longest-substring-with-at-least-k-repeating-characters",
+      "problemName": "0395-longest-substring-with-at-least-k-repeating-characters",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/",
+      "folderPath": "leetcode/0395-longest-substring-with-at-least-k-repeating-characters/",
+      "readmePath": "leetcode/0395-longest-substring-with-at-least-k-repeating-characters/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0395-longest-substring-with-at-least-k-repeating-characters.py",
+          "path": "leetcode/0395-longest-substring-with-at-least-k-repeating-characters/0395-longest-substring-with-at-least-k-repeating-characters.py",
+          "sha": "a4e336f3737e4789792e39be5af044b7d9b19579",
+          "lastSyncedAt": "2026-10-11T07:09:50.252Z"
+        }
+      ]
+    },
     {
       "frontendId": "918",
       "title": "Maximum Sum Circular Subarray",
