@@ -5,7 +5,7 @@
     "name": "Counting",
     "tagId": "61062"
   },
-  "updatedAt": "2026-10-11T07:57:23.064Z",
+  "updatedAt": "2026-10-11T07:58:00.671Z",
   "problems": [
     {
       "frontendId": "347",
@@ -184,6 +184,26 @@
           "path": "leetcode/1512-number-of-good-pairs/1512-number-of-good-pairs.py",
           "sha": "601a2aafed4ce867cf558c3b128e7839d3f978f1",
           "lastSyncedAt": "2026-10-11T07:46:17.263Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1748",
+      "title": "Sum of Unique Elements",
+      "slug": "sum-of-unique-elements",
+      "problemName": "1748-sum-of-unique-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-unique-elements/",
+      "folderPath": "leetcode/1748-sum-of-unique-elements/",
+      "readmePath": "leetcode/1748-sum-of-unique-elements/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "1748-sum-of-unique-elements.py",
+          "path": "leetcode/1748-sum-of-unique-elements/1748-sum-of-unique-elements.py",
+          "sha": "ef548e3333664f4760c75e95bef33bcab8987dc5",
+          "lastSyncedAt": "2026-10-11T07:58:00.671Z"
         }
       ]
     },
