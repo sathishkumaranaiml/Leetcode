@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-11T07:07:19.908Z",
+  "updatedAt": "2026-10-11T07:07:23.419Z",
   "problems": [
     {
       "frontendId": "367",
@@ -64,6 +64,26 @@
           "path": "leetcode/0875-koko-eating-bananas/0875-koko-eating-bananas.py",
           "sha": "9859b2e2b9fe3980db0d2afb8ccb2ad31d646f0a",
           "lastSyncedAt": "2026-10-11T07:07:15.918Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1011",
+      "title": "Capacity To Ship Packages Within D Days",
+      "slug": "capacity-to-ship-packages-within-d-days",
+      "problemName": "1011-capacity-to-ship-packages-within-d-days",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/",
+      "folderPath": "leetcode/1011-capacity-to-ship-packages-within-d-days/",
+      "readmePath": "leetcode/1011-capacity-to-ship-packages-within-d-days/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1011-capacity-to-ship-packages-within-d-days.py",
+          "path": "leetcode/1011-capacity-to-ship-packages-within-d-days/1011-capacity-to-ship-packages-within-d-days.py",
+          "sha": "7c8df5e40d83db9f6f01813cdb04501deb9bf48f",
+          "lastSyncedAt": "2026-10-11T07:07:23.419Z"
         }
       ]
     },
