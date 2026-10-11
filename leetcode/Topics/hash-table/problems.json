@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-11T07:57:32.251Z",
+  "updatedAt": "2026-10-11T07:57:53.735Z",
   "problems": [
     {
       "frontendId": "1",
@@ -924,6 +924,26 @@
           "path": "leetcode/1590-make-sum-divisible-by-p/1590-make-sum-divisible-by-p.py",
           "sha": "330039dd1b3512010138318921d5be5706952cb7",
           "lastSyncedAt": "2026-10-11T07:15:54.088Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1647",
+      "title": "Minimum Deletions to Make Character Frequencies Unique",
+      "slug": "minimum-deletions-to-make-character-frequencies-unique",
+      "problemName": "1647-minimum-deletions-to-make-character-frequencies-unique",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/",
+      "folderPath": "leetcode/1647-minimum-deletions-to-make-character-frequencies-unique/",
+      "readmePath": "leetcode/1647-minimum-deletions-to-make-character-frequencies-unique/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1647-minimum-deletions-to-make-character-frequencies-unique.py",
+          "path": "leetcode/1647-minimum-deletions-to-make-character-frequencies-unique/1647-minimum-deletions-to-make-character-frequencies-unique.py",
+          "sha": "f0234f3c0b12b55dbf6f6a4fae4fc7e47ca81269",
+          "lastSyncedAt": "2026-10-11T07:57:53.735Z"
         }
       ]
     },
