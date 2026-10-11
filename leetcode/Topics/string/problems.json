@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-11T07:24:42.407Z",
+  "updatedAt": "2026-10-11T07:25:31.631Z",
   "problems": [
     {
       "frontendId": "3",
@@ -424,6 +424,26 @@
           "path": "leetcode/0763-partition-labels/0763-partition-labels.py",
           "sha": "887c27662ef2dff05e32851fafbbb1ff3ce67331",
           "lastSyncedAt": "2026-10-11T07:05:17.872Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "771",
+      "title": "Jewels and Stones",
+      "slug": "jewels-and-stones",
+      "problemName": "0771-jewels-and-stones",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/jewels-and-stones/",
+      "folderPath": "leetcode/0771-jewels-and-stones/",
+      "readmePath": "leetcode/0771-jewels-and-stones/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0771-jewels-and-stones.py",
+          "path": "leetcode/0771-jewels-and-stones/0771-jewels-and-stones.py",
+          "sha": "4727f26330fac0798043704db66e59acea035b1b",
+          "lastSyncedAt": "2026-10-11T07:25:31.631Z"
         }
       ]
     },
