@@ -5,7 +5,7 @@
     "name": "String Matching",
     "tagId": "61052"
   },
-  "updatedAt": "2026-10-11T07:08:36.697Z",
+  "updatedAt": "2026-10-11T07:08:49.524Z",
   "problems": [
     {
       "frontendId": "459",
@@ -44,6 +44,26 @@
           "path": "leetcode/0796-rotate-string/0796-rotate-string.py",
           "sha": "ec55a394d51d9f36debeb4c9c565e585b6f6e955",
           "lastSyncedAt": "2026-10-11T07:08:29.426Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1392",
+      "title": "Longest Happy Prefix",
+      "slug": "longest-happy-prefix",
+      "problemName": "1392-longest-happy-prefix",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-happy-prefix/",
+      "folderPath": "leetcode/1392-longest-happy-prefix/",
+      "readmePath": "leetcode/1392-longest-happy-prefix/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "1392-longest-happy-prefix.py",
+          "path": "leetcode/1392-longest-happy-prefix/1392-longest-happy-prefix.py",
+          "sha": "9109a39298800da1a6e384e3a255c8cd289ed127",
+          "lastSyncedAt": "2026-10-11T07:08:49.524Z"
         }
       ]
     }
