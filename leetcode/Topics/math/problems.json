@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-11T07:19:29.597Z",
+  "updatedAt": "2026-10-11T07:19:55.488Z",
   "problems": [
     {
       "frontendId": "2",
@@ -124,6 +124,26 @@
           "path": "leetcode/0415-add-strings/0415-add-strings.py",
           "sha": "1fbae73ac1ddd4faef95b1d34ce3ce51345d44e7",
           "lastSyncedAt": "2026-10-11T07:08:15.094Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "523",
+      "title": "Continuous Subarray Sum",
+      "slug": "continuous-subarray-sum",
+      "problemName": "0523-continuous-subarray-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/continuous-subarray-sum/",
+      "folderPath": "leetcode/0523-continuous-subarray-sum/",
+      "readmePath": "leetcode/0523-continuous-subarray-sum/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0523-continuous-subarray-sum.py",
+          "path": "leetcode/0523-continuous-subarray-sum/0523-continuous-subarray-sum.py",
+          "sha": "d4832891969e007c48ae7007bb467c08526d2a33",
+          "lastSyncedAt": "2026-10-11T07:19:55.488Z"
         }
       ]
     },
