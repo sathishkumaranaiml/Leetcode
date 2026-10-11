@@ -5,7 +5,7 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-10-11T07:57:23.064Z",
+  "updatedAt": "2026-10-11T07:57:43.666Z",
   "problems": [
     {
       "frontendId": "215",
@@ -24,6 +24,26 @@
           "path": "leetcode/0215-kth-largest-element-in-an-array/0215-kth-largest-element-in-an-array.py",
           "sha": "44621fa5fa98cd521124ebb6644f27dd8d2691cb",
           "lastSyncedAt": "2026-10-11T07:24:54.833Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "239",
+      "title": "Sliding Window Maximum",
+      "slug": "sliding-window-maximum",
+      "problemName": "0239-sliding-window-maximum",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/sliding-window-maximum/",
+      "folderPath": "leetcode/0239-sliding-window-maximum/",
+      "readmePath": "leetcode/0239-sliding-window-maximum/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0239-sliding-window-maximum.py",
+          "path": "leetcode/0239-sliding-window-maximum/0239-sliding-window-maximum.py",
+          "sha": "cb4b0670613c6c8ee2e24d71e1fc5613b1a69fa2",
+          "lastSyncedAt": "2026-10-11T07:57:43.666Z"
         }
       ]
     },
