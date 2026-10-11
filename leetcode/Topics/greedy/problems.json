@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-11T07:56:58.588Z",
+  "updatedAt": "2026-10-11T07:57:04.224Z",
   "problems": [
     {
       "frontendId": "11",
@@ -104,6 +104,26 @@
           "path": "leetcode/0134-gas-station/0134-gas-station.py",
           "sha": "857b1704fce22d5fc73c019d1c2308527516bba3",
           "lastSyncedAt": "2026-10-11T07:05:29.904Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "179",
+      "title": "Largest Number",
+      "slug": "largest-number",
+      "problemName": "0179-largest-number",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-number/",
+      "folderPath": "leetcode/0179-largest-number/",
+      "readmePath": "leetcode/0179-largest-number/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0179-largest-number.py",
+          "path": "leetcode/0179-largest-number/0179-largest-number.py",
+          "sha": "ae8ecca80b3e2db8316e4c53ce98e60d5aa269a6",
+          "lastSyncedAt": "2026-10-11T07:57:04.224Z"
         }
       ]
     },
