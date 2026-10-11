@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-11T07:25:56.287Z",
+  "updatedAt": "2026-10-11T07:26:45.492Z",
   "problems": [
     {
       "frontendId": "11",
@@ -364,6 +364,26 @@
           "path": "leetcode/2110-number-of-smooth-descent-periods-of-a-stock/2110-number-of-smooth-descent-periods-of-a-stock.py",
           "sha": "bd06db4e4036a58e7ceafcbccd88c4d79b308cd6",
           "lastSyncedAt": "2026-10-11T07:25:56.287Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3823",
+      "title": "Reverse Letters Then Special Characters in a String",
+      "slug": "reverse-letters-then-special-characters-in-a-string",
+      "problemName": "3823-reverse-letters-then-special-characters-in-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string/",
+      "folderPath": "leetcode/3823-reverse-letters-then-special-characters-in-a-string/",
+      "readmePath": "leetcode/3823-reverse-letters-then-special-characters-in-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3823-reverse-letters-then-special-characters-in-a-string.py",
+          "path": "leetcode/3823-reverse-letters-then-special-characters-in-a-string/3823-reverse-letters-then-special-characters-in-a-string.py",
+          "sha": "88934c21842b9dee46bf12337f13aa284d040f53",
+          "lastSyncedAt": "2026-10-11T07:26:45.492Z"
         }
       ]
     }
