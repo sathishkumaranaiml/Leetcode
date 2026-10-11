@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-11T07:21:29.436Z",
+  "updatedAt": "2026-10-11T07:24:01.848Z",
   "problems": [
     {
       "frontendId": "33",
@@ -164,6 +164,26 @@
           "path": "leetcode/0633-sum-of-square-numbers/0633-sum-of-square-numbers.py",
           "sha": "65d66e74629d2d075cc0f4660fb261427f199dee",
           "lastSyncedAt": "2026-10-11T07:05:51.531Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "704",
+      "title": "Binary Search",
+      "slug": "binary-search",
+      "problemName": "0704-binary-search",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-search/",
+      "folderPath": "leetcode/0704-binary-search/",
+      "readmePath": "leetcode/0704-binary-search/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0704-binary-search.py",
+          "path": "leetcode/0704-binary-search/0704-binary-search.py",
+          "sha": "62339e893181f4418c2ec5ffecdc3fe2d6be6002",
+          "lastSyncedAt": "2026-10-11T07:24:01.848Z"
         }
       ]
     },
