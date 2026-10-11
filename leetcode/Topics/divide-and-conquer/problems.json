@@ -5,7 +5,7 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-10-11T07:23:55.398Z",
+  "updatedAt": "2026-10-11T07:24:54.833Z",
   "problems": [
     {
       "frontendId": "191",
@@ -24,6 +24,26 @@
           "path": "leetcode/0191-number-of-1-bits/0191-number-of-1-bits.py",
           "sha": "f7db9942ca244736cbd62feee601d20df91ea38a",
           "lastSyncedAt": "2026-10-11T07:23:55.398Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "215",
+      "title": "Kth Largest Element in an Array",
+      "slug": "kth-largest-element-in-an-array",
+      "problemName": "0215-kth-largest-element-in-an-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+      "folderPath": "leetcode/0215-kth-largest-element-in-an-array/",
+      "readmePath": "leetcode/0215-kth-largest-element-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0215-kth-largest-element-in-an-array.py",
+          "path": "leetcode/0215-kth-largest-element-in-an-array/0215-kth-largest-element-in-an-array.py",
+          "sha": "44621fa5fa98cd521124ebb6644f27dd8d2691cb",
+          "lastSyncedAt": "2026-10-11T07:24:54.833Z"
         }
       ]
     },
