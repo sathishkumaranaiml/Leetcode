@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-11T07:56:50.654Z",
+  "updatedAt": "2026-10-11T07:56:58.588Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1604,6 +1604,26 @@
           "path": "leetcode/1310-xor-queries-of-a-subarray/1310-xor-queries-of-a-subarray.py",
           "sha": "47b1089291270b20aaae4ddc344605b2964ca9c5",
           "lastSyncedAt": "2026-10-11T07:15:46.013Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1326",
+      "title": "Minimum Number of Taps to Open to Water a Garden",
+      "slug": "minimum-number-of-taps-to-open-to-water-a-garden",
+      "problemName": "1326-minimum-number-of-taps-to-open-to-water-a-garden",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/",
+      "folderPath": "leetcode/1326-minimum-number-of-taps-to-open-to-water-a-garden/",
+      "readmePath": "leetcode/1326-minimum-number-of-taps-to-open-to-water-a-garden/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1326-minimum-number-of-taps-to-open-to-water-a-garden.py",
+          "path": "leetcode/1326-minimum-number-of-taps-to-open-to-water-a-garden/1326-minimum-number-of-taps-to-open-to-water-a-garden.py",
+          "sha": "fa61286f2b7efe1f5d356b021250aeb3dee162e1",
+          "lastSyncedAt": "2026-10-11T07:56:58.588Z"
         }
       ]
     },
