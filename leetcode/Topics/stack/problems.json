@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-10-11T07:06:40.324Z",
+  "updatedAt": "2026-10-11T07:06:44.749Z",
   "problems": [
     {
       "frontendId": "84",
@@ -24,6 +24,26 @@
           "path": "leetcode/0084-largest-rectangle-in-histogram/0084-largest-rectangle-in-histogram.py",
           "sha": "02b92bf539e8bb3ec2c578817766f0c5eeca6f1d",
           "lastSyncedAt": "2026-10-11T07:06:23.435Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "496",
+      "title": "Next Greater Element I",
+      "slug": "next-greater-element-i",
+      "problemName": "0496-next-greater-element-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/next-greater-element-i/",
+      "folderPath": "leetcode/0496-next-greater-element-i/",
+      "readmePath": "leetcode/0496-next-greater-element-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0496-next-greater-element-i.py",
+          "path": "leetcode/0496-next-greater-element-i/0496-next-greater-element-i.py",
+          "sha": "a2cb7a06206859946e9154c4e47e13146a4047e9",
+          "lastSyncedAt": "2026-10-11T07:06:44.749Z"
         }
       ]
     },
