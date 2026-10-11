@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-11T07:12:00.933Z",
+  "updatedAt": "2026-10-11T07:15:54.088Z",
   "problems": [
     {
       "frontendId": "1",
@@ -264,6 +264,26 @@
           "path": "leetcode/0884-uncommon-words-from-two-sentences/0884-uncommon-words-from-two-sentences.py",
           "sha": "7cc4e0985194b7c576b5595616f7c13a3c3d81a0",
           "lastSyncedAt": "2026-10-11T07:08:06.359Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1590",
+      "title": "Make Sum Divisible by P",
+      "slug": "make-sum-divisible-by-p",
+      "problemName": "1590-make-sum-divisible-by-p",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/make-sum-divisible-by-p/",
+      "folderPath": "leetcode/1590-make-sum-divisible-by-p/",
+      "readmePath": "leetcode/1590-make-sum-divisible-by-p/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1590-make-sum-divisible-by-p.py",
+          "path": "leetcode/1590-make-sum-divisible-by-p/1590-make-sum-divisible-by-p.py",
+          "sha": "330039dd1b3512010138318921d5be5706952cb7",
+          "lastSyncedAt": "2026-10-11T07:15:54.088Z"
         }
       ]
     },
