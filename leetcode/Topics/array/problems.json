@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-11T07:18:54.965Z",
+  "updatedAt": "2026-10-11T07:19:03.531Z",
   "problems": [
     {
       "frontendId": "1",
@@ -504,6 +504,26 @@
           "path": "leetcode/0324-wiggle-sort-ii/0324-wiggle-sort-ii.py",
           "sha": "283d6d8d86fa7b9198d8d676da27055b1d707b2d",
           "lastSyncedAt": "2026-10-11T07:10:29.583Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "347",
+      "title": "Top K Frequent Elements",
+      "slug": "top-k-frequent-elements",
+      "problemName": "0347-top-k-frequent-elements",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/top-k-frequent-elements/",
+      "folderPath": "leetcode/0347-top-k-frequent-elements/",
+      "readmePath": "leetcode/0347-top-k-frequent-elements/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0347-top-k-frequent-elements.py",
+          "path": "leetcode/0347-top-k-frequent-elements/0347-top-k-frequent-elements.py",
+          "sha": "7359da2c8d8e839cc82f14c2c17b504ce131f1a6",
+          "lastSyncedAt": "2026-10-11T07:19:03.531Z"
         }
       ]
     },
