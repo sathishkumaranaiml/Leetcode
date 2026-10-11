@@ -5,8 +5,28 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-11T07:24:30.372Z",
+  "updatedAt": "2026-10-11T07:24:47.390Z",
   "problems": [
+    {
+      "frontendId": "11",
+      "title": "Container With Most Water",
+      "slug": "container-with-most-water",
+      "problemName": "0011-container-with-most-water",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/container-with-most-water/",
+      "folderPath": "leetcode/0011-container-with-most-water/",
+      "readmePath": "leetcode/0011-container-with-most-water/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0011-container-with-most-water.py",
+          "path": "leetcode/0011-container-with-most-water/0011-container-with-most-water.py",
+          "sha": "715bf14bb3f04a8816eed3ff4705b28416d8df1d",
+          "lastSyncedAt": "2026-10-11T07:24:47.390Z"
+        }
+      ]
+    },
     {
       "frontendId": "19",
       "title": "Remove Nth Node From End of List",
