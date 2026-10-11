@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-11T07:19:03.531Z",
+  "updatedAt": "2026-10-11T07:20:06.339Z",
   "problems": [
     {
       "frontendId": "47",
@@ -244,6 +244,26 @@
           "path": "leetcode/0922-sort-array-by-parity-ii/0922-sort-array-by-parity-ii.py",
           "sha": "7987284ba1941dd38480d269b39a847959c2631f",
           "lastSyncedAt": "2026-10-11T07:10:22.028Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1288",
+      "title": "Remove Covered Intervals",
+      "slug": "remove-covered-intervals",
+      "problemName": "1288-remove-covered-intervals",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-covered-intervals/",
+      "folderPath": "leetcode/1288-remove-covered-intervals/",
+      "readmePath": "leetcode/1288-remove-covered-intervals/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1288-remove-covered-intervals.py",
+          "path": "leetcode/1288-remove-covered-intervals/1288-remove-covered-intervals.py",
+          "sha": "e437b9a922c6ec8c290e5c85c21cf6603a00387c",
+          "lastSyncedAt": "2026-10-11T07:20:06.339Z"
         }
       ]
     },
