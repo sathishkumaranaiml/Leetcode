@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-11T07:26:53.439Z",
+  "updatedAt": "2026-10-11T07:42:27.105Z",
   "problems": [
     {
       "frontendId": "11",
@@ -404,6 +404,26 @@
           "path": "leetcode/3992-rearrange-string-to-avoid-character-pair/3992-rearrange-string-to-avoid-character-pair.py",
           "sha": "56d56c836c7b408b7cfbb8020ae014656317318e",
           "lastSyncedAt": "2026-10-11T07:26:53.439Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "4030",
+      "title": "Check ASCII Palindromic",
+      "slug": "check-ascii-palindromic",
+      "problemName": "4030-check-ascii-palindromic",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-ascii-palindromic/",
+      "folderPath": "leetcode/4030-check-ascii-palindromic/",
+      "readmePath": "leetcode/4030-check-ascii-palindromic/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "4030-check-ascii-palindromic.py",
+          "path": "leetcode/4030-check-ascii-palindromic/4030-check-ascii-palindromic.py",
+          "sha": "6df4463d99113c4b89a52e450f4fa9fe8b5b53cf",
+          "lastSyncedAt": "2026-10-11T07:42:27.105Z"
         }
       ]
     }
