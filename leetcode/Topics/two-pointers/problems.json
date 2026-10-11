@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-11T07:44:46.957Z",
+  "updatedAt": "2026-10-11T07:44:54.076Z",
   "problems": [
     {
       "frontendId": "11",
@@ -724,6 +724,26 @@
           "path": "leetcode/3936-minimum-swaps-to-move-zeros-to-end/3936-minimum-swaps-to-move-zeros-to-end.py",
           "sha": "da7354dbc6bedf545fc1c27de31c7f317f6f6628",
           "lastSyncedAt": "2026-10-11T07:44:46.957Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3940",
+      "title": "Limit Occurrences in Sorted Array",
+      "slug": "limit-occurrences-in-sorted-array",
+      "problemName": "3940-limit-occurrences-in-sorted-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/limit-occurrences-in-sorted-array/",
+      "folderPath": "leetcode/3940-limit-occurrences-in-sorted-array/",
+      "readmePath": "leetcode/3940-limit-occurrences-in-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3940-limit-occurrences-in-sorted-array.py",
+          "path": "leetcode/3940-limit-occurrences-in-sorted-array/3940-limit-occurrences-in-sorted-array.py",
+          "sha": "bd1c9094963cfa9e6523942f6e9e4d2aef9b11e4",
+          "lastSyncedAt": "2026-10-11T07:44:54.076Z"
         }
       ]
     },
