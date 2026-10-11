@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-11T07:43:32.605Z",
+  "updatedAt": "2026-10-11T07:43:46.511Z",
   "problems": [
     {
       "frontendId": "11",
@@ -424,6 +424,26 @@
           "path": "leetcode/1961-check-if-string-is-a-prefix-of-array/1961-check-if-string-is-a-prefix-of-array.py",
           "sha": "ba18c1535b6f54a34f314e0f1e35ce7170d63cb6",
           "lastSyncedAt": "2026-10-11T07:42:36.064Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2000",
+      "title": "Reverse Prefix of Word",
+      "slug": "reverse-prefix-of-word",
+      "problemName": "2000-reverse-prefix-of-word",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-prefix-of-word/",
+      "folderPath": "leetcode/2000-reverse-prefix-of-word/",
+      "readmePath": "leetcode/2000-reverse-prefix-of-word/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2000-reverse-prefix-of-word.py",
+          "path": "leetcode/2000-reverse-prefix-of-word/2000-reverse-prefix-of-word.py",
+          "sha": "a632f088347e2d8aa9f9c406efced9d81cd72bbd",
+          "lastSyncedAt": "2026-10-11T07:43:46.511Z"
         }
       ]
     },
