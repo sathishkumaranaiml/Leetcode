@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-11T07:57:23.064Z",
+  "updatedAt": "2026-10-11T07:57:32.251Z",
   "problems": [
     {
       "frontendId": "1",
@@ -104,6 +104,26 @@
           "path": "leetcode/0033-search-in-rotated-sorted-array/0033-search-in-rotated-sorted-array.py",
           "sha": "cb257c5812e1eab678c973c2ee3e6d72073e88c6",
           "lastSyncedAt": "2026-10-11T07:07:36.802Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "36",
+      "title": "Valid Sudoku",
+      "slug": "valid-sudoku",
+      "problemName": "0036-valid-sudoku",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-sudoku/",
+      "folderPath": "leetcode/0036-valid-sudoku/",
+      "readmePath": "leetcode/0036-valid-sudoku/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0036-valid-sudoku.py",
+          "path": "leetcode/0036-valid-sudoku/0036-valid-sudoku.py",
+          "sha": "f99f88a882ca124d97b3bf511318fbaa9d0d7947",
+          "lastSyncedAt": "2026-10-11T07:57:32.251Z"
         }
       ]
     },
