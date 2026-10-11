@@ -5,8 +5,28 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-11T07:13:27.226Z",
+  "updatedAt": "2026-10-11T07:13:31.879Z",
   "problems": [
+    {
+      "frontendId": "626",
+      "title": "Exchange Seats",
+      "slug": "exchange-seats",
+      "problemName": "0626-exchange-seats",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/exchange-seats/",
+      "folderPath": "leetcode/0626-exchange-seats/",
+      "readmePath": "leetcode/0626-exchange-seats/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0626-exchange-seats.sql",
+          "path": "leetcode/0626-exchange-seats/0626-exchange-seats.sql",
+          "sha": "da208f0df08436337e9192838da73a497003e342",
+          "lastSyncedAt": "2026-10-11T07:13:31.879Z"
+        }
+      ]
+    },
     {
       "frontendId": "1141",
       "title": "User Activity for the Past 30 Days I",
