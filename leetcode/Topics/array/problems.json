@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-11T08:00:26.970Z",
+  "updatedAt": "2026-10-11T08:00:31.402Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1603,7 +1603,7 @@
           "filename": "1011-capacity-to-ship-packages-within-d-days.py",
           "path": "leetcode/1011-capacity-to-ship-packages-within-d-days/1011-capacity-to-ship-packages-within-d-days.py",
           "sha": "7c8df5e40d83db9f6f01813cdb04501deb9bf48f",
-          "lastSyncedAt": "2026-10-11T07:07:23.419Z"
+          "lastSyncedAt": "2026-10-11T08:00:31.402Z"
         }
       ]
     },
