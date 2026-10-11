@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-11T07:26:07.685Z",
+  "updatedAt": "2026-10-11T07:42:18.149Z",
   "problems": [
     {
       "frontendId": "33",
@@ -404,6 +404,26 @@
           "path": "leetcode/2024-maximize-the-confusion-of-an-exam/2024-maximize-the-confusion-of-an-exam.py",
           "sha": "8ce65c97b9f0b9467badc963947dfed9dcd1a5e6",
           "lastSyncedAt": "2026-10-11T07:09:58.701Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "4031",
+      "title": "Find All Numbers Disappeared in an Array II",
+      "slug": "find-all-numbers-disappeared-in-an-array-ii",
+      "problemName": "4031-find-all-numbers-disappeared-in-an-array-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array-ii/",
+      "folderPath": "leetcode/4031-find-all-numbers-disappeared-in-an-array-ii/",
+      "readmePath": "leetcode/4031-find-all-numbers-disappeared-in-an-array-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "4031-find-all-numbers-disappeared-in-an-array-ii.py",
+          "path": "leetcode/4031-find-all-numbers-disappeared-in-an-array-ii/4031-find-all-numbers-disappeared-in-an-array-ii.py",
+          "sha": "d0476ea77a687754f956c1a863c93c4fb4545ae2",
+          "lastSyncedAt": "2026-10-11T07:42:18.149Z"
         }
       ]
     },
