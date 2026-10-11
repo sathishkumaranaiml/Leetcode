@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-11T07:14:03.798Z",
+  "updatedAt": "2026-10-11T07:14:08.266Z",
   "problems": [
     {
       "frontendId": "184",
@@ -144,6 +144,26 @@
           "path": "leetcode/0626-exchange-seats/0626-exchange-seats.sql",
           "sha": "da208f0df08436337e9192838da73a497003e342",
           "lastSyncedAt": "2026-10-11T07:13:31.879Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1084",
+      "title": "Sales Analysis III",
+      "slug": "sales-analysis-iii",
+      "problemName": "1084-sales-analysis-iii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sales-analysis-iii/",
+      "folderPath": "leetcode/1084-sales-analysis-iii/",
+      "readmePath": "leetcode/1084-sales-analysis-iii/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1084-sales-analysis-iii.sql",
+          "path": "leetcode/1084-sales-analysis-iii/1084-sales-analysis-iii.sql",
+          "sha": "c54fd774a1f6b8520c390a4f40febe1a4a82f3b5",
+          "lastSyncedAt": "2026-10-11T07:14:08.266Z"
         }
       ]
     },
