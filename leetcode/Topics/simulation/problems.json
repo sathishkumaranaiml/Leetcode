@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-11T07:17:18.328Z",
+  "updatedAt": "2026-10-11T07:26:45.492Z",
   "problems": [
     {
       "frontendId": "59",
@@ -104,6 +104,26 @@
           "path": "leetcode/0498-diagonal-traverse/0498-diagonal-traverse.py",
           "sha": "4f71ee2ac9c8ad1a3edd0cb0a45543fd9cc9ebc7",
           "lastSyncedAt": "2026-10-11T07:10:41.109Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3823",
+      "title": "Reverse Letters Then Special Characters in a String",
+      "slug": "reverse-letters-then-special-characters-in-a-string",
+      "problemName": "3823-reverse-letters-then-special-characters-in-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string/",
+      "folderPath": "leetcode/3823-reverse-letters-then-special-characters-in-a-string/",
+      "readmePath": "leetcode/3823-reverse-letters-then-special-characters-in-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3823-reverse-letters-then-special-characters-in-a-string.py",
+          "path": "leetcode/3823-reverse-letters-then-special-characters-in-a-string/3823-reverse-letters-then-special-characters-in-a-string.py",
+          "sha": "88934c21842b9dee46bf12337f13aa284d040f53",
+          "lastSyncedAt": "2026-10-11T07:26:45.492Z"
         }
       ]
     },
