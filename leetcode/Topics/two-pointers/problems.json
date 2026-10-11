@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-11T07:25:40.587Z",
+  "updatedAt": "2026-10-11T07:25:48.737Z",
   "problems": [
     {
       "frontendId": "11",
@@ -24,6 +24,26 @@
           "path": "leetcode/0011-container-with-most-water/0011-container-with-most-water.py",
           "sha": "715bf14bb3f04a8816eed3ff4705b28416d8df1d",
           "lastSyncedAt": "2026-10-11T07:24:47.390Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "15",
+      "title": "3Sum",
+      "slug": "3sum",
+      "problemName": "0015-3sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/3sum/",
+      "folderPath": "leetcode/0015-3sum/",
+      "readmePath": "leetcode/0015-3sum/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0015-3sum.py",
+          "path": "leetcode/0015-3sum/0015-3sum.py",
+          "sha": "21e9c0f86e6ce6765a5a3d6ed31151945648ddd7",
+          "lastSyncedAt": "2026-10-11T07:25:48.737Z"
         }
       ]
     },
