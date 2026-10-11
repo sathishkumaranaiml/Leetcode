@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-10-11T07:10:07.475Z",
+  "updatedAt": "2026-10-11T07:10:13.633Z",
   "problems": [
     {
       "frontendId": "187",
@@ -44,6 +44,26 @@
           "path": "leetcode/0395-longest-substring-with-at-least-k-repeating-characters/0395-longest-substring-with-at-least-k-repeating-characters.py",
           "sha": "a4e336f3737e4789792e39be5af044b7d9b19579",
           "lastSyncedAt": "2026-10-11T07:09:50.252Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1208",
+      "title": "Get Equal Substrings Within Budget",
+      "slug": "get-equal-substrings-within-budget",
+      "problemName": "1208-get-equal-substrings-within-budget",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/get-equal-substrings-within-budget/",
+      "folderPath": "leetcode/1208-get-equal-substrings-within-budget/",
+      "readmePath": "leetcode/1208-get-equal-substrings-within-budget/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1208-get-equal-substrings-within-budget.py",
+          "path": "leetcode/1208-get-equal-substrings-within-budget/1208-get-equal-substrings-within-budget.py",
+          "sha": "74a81f387fba8702fdbfa00fac4d0521cdce551a",
+          "lastSyncedAt": "2026-10-11T07:10:13.633Z"
         }
       ]
     },
