@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "tree",
+    "name": "Tree",
+    "tagId": "20"
+  },
+  "updatedAt": "2026-10-11T13:19:21.409Z",
+  "problems": [
+    {
+      "frontendId": "100",
+      "title": "Same Tree",
+      "slug": "same-tree",
+      "problemName": "0100-same-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/same-tree/",
+      "folderPath": "leetcode/0100-same-tree/",
+      "readmePath": "leetcode/0100-same-tree/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0100-same-tree.py",
+          "path": "leetcode/0100-same-tree/0100-same-tree.py",
+          "sha": "0397e26effe3b4ddf9ff4489a0cdee132b24d132",
+          "lastSyncedAt": "2026-10-11T13:19:21.409Z"
+        }
+      ]
+    }
+  ]
+}
