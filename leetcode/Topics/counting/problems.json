@@ -5,8 +5,28 @@
     "name": "Counting",
     "tagId": "61062"
   },
-  "updatedAt": "2026-10-11T07:07:48.494Z",
+  "updatedAt": "2026-10-11T07:08:06.359Z",
   "problems": [
+    {
+      "frontendId": "884",
+      "title": "Uncommon Words from Two Sentences",
+      "slug": "uncommon-words-from-two-sentences",
+      "problemName": "0884-uncommon-words-from-two-sentences",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/uncommon-words-from-two-sentences/",
+      "folderPath": "leetcode/0884-uncommon-words-from-two-sentences/",
+      "readmePath": "leetcode/0884-uncommon-words-from-two-sentences/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0884-uncommon-words-from-two-sentences.py",
+          "path": "leetcode/0884-uncommon-words-from-two-sentences/0884-uncommon-words-from-two-sentences.py",
+          "sha": "7cc4e0985194b7c576b5595616f7c13a3c3d81a0",
+          "lastSyncedAt": "2026-10-11T07:08:06.359Z"
+        }
+      ]
+    },
     {
       "frontendId": "4065",
       "title": "Rearrange Array by Removing Distinct Values",
