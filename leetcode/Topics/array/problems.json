@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-11T07:10:29.583Z",
+  "updatedAt": "2026-10-11T07:10:41.109Z",
   "problems": [
     {
       "frontendId": "1",
@@ -264,6 +264,26 @@
           "path": "leetcode/0496-next-greater-element-i/0496-next-greater-element-i.py",
           "sha": "a2cb7a06206859946e9154c4e47e13146a4047e9",
           "lastSyncedAt": "2026-10-11T07:06:44.749Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "498",
+      "title": "Diagonal Traverse",
+      "slug": "diagonal-traverse",
+      "problemName": "0498-diagonal-traverse",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/diagonal-traverse/",
+      "folderPath": "leetcode/0498-diagonal-traverse/",
+      "readmePath": "leetcode/0498-diagonal-traverse/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0498-diagonal-traverse.py",
+          "path": "leetcode/0498-diagonal-traverse/0498-diagonal-traverse.py",
+          "sha": "4f71ee2ac9c8ad1a3edd0cb0a45543fd9cc9ebc7",
+          "lastSyncedAt": "2026-10-11T07:10:41.109Z"
         }
       ]
     },
