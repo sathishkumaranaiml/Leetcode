@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-11T07:05:37.820Z",
+  "updatedAt": "2026-10-11T07:06:04.221Z",
   "problems": [
     {
       "frontendId": "39",
@@ -124,6 +124,26 @@
           "path": "leetcode/0134-gas-station/0134-gas-station.py",
           "sha": "857b1704fce22d5fc73c019d1c2308527516bba3",
           "lastSyncedAt": "2026-10-11T07:05:29.904Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "665",
+      "title": "Non-decreasing Array",
+      "slug": "non-decreasing-array",
+      "problemName": "0665-non-decreasing-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/non-decreasing-array/",
+      "folderPath": "leetcode/0665-non-decreasing-array/",
+      "readmePath": "leetcode/0665-non-decreasing-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0665-non-decreasing-array.py",
+          "path": "leetcode/0665-non-decreasing-array/0665-non-decreasing-array.py",
+          "sha": "4b9499b17e2c2ec233b42988a5e97eddbd749282",
+          "lastSyncedAt": "2026-10-11T07:06:04.221Z"
         }
       ]
     },
