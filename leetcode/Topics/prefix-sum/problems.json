@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-10-11T07:10:13.633Z",
+  "updatedAt": "2026-10-11T07:15:46.013Z",
   "problems": [
     {
       "frontendId": "1208",
@@ -24,6 +24,26 @@
           "path": "leetcode/1208-get-equal-substrings-within-budget/1208-get-equal-substrings-within-budget.py",
           "sha": "74a81f387fba8702fdbfa00fac4d0521cdce551a",
           "lastSyncedAt": "2026-10-11T07:10:13.633Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1310",
+      "title": "XOR Queries of a Subarray",
+      "slug": "xor-queries-of-a-subarray",
+      "problemName": "1310-xor-queries-of-a-subarray",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/xor-queries-of-a-subarray/",
+      "folderPath": "leetcode/1310-xor-queries-of-a-subarray/",
+      "readmePath": "leetcode/1310-xor-queries-of-a-subarray/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "1310-xor-queries-of-a-subarray.py",
+          "path": "leetcode/1310-xor-queries-of-a-subarray/1310-xor-queries-of-a-subarray.py",
+          "sha": "47b1089291270b20aaae4ddc344605b2964ca9c5",
+          "lastSyncedAt": "2026-10-11T07:15:46.013Z"
         }
       ]
     },
