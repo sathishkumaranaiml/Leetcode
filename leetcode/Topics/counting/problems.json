@@ -5,8 +5,28 @@
     "name": "Counting",
     "tagId": "61062"
   },
-  "updatedAt": "2026-10-11T07:08:06.359Z",
+  "updatedAt": "2026-10-11T07:11:05.119Z",
   "problems": [
+    {
+      "frontendId": "383",
+      "title": "Ransom Note",
+      "slug": "ransom-note",
+      "problemName": "0383-ransom-note",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/ransom-note/",
+      "folderPath": "leetcode/0383-ransom-note/",
+      "readmePath": "leetcode/0383-ransom-note/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0383-ransom-note.py",
+          "path": "leetcode/0383-ransom-note/0383-ransom-note.py",
+          "sha": "7234cadfdfc315b765abf53a11f046e6aaf0f7d0",
+          "lastSyncedAt": "2026-10-11T07:11:05.119Z"
+        }
+      ]
+    },
     {
       "frontendId": "884",
       "title": "Uncommon Words from Two Sentences",
