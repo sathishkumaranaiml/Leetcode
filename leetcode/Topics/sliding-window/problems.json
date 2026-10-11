@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-10-11T07:21:03.607Z",
+  "updatedAt": "2026-10-11T07:21:21.437Z",
   "problems": [
     {
       "frontendId": "76",
@@ -84,6 +84,26 @@
           "path": "leetcode/0424-longest-repeating-character-replacement/0424-longest-repeating-character-replacement.py",
           "sha": "609a9d0fd9cabf2cf637e7efbd285b8b28b6b4da",
           "lastSyncedAt": "2026-10-11T07:12:00.933Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "904",
+      "title": "Fruit Into Baskets",
+      "slug": "fruit-into-baskets",
+      "problemName": "0904-fruit-into-baskets",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/fruit-into-baskets/",
+      "folderPath": "leetcode/0904-fruit-into-baskets/",
+      "readmePath": "leetcode/0904-fruit-into-baskets/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0904-fruit-into-baskets.py",
+          "path": "leetcode/0904-fruit-into-baskets/0904-fruit-into-baskets.py",
+          "sha": "f4c97fd392e9e632a9629700ae439e05375e8c19",
+          "lastSyncedAt": "2026-10-11T07:21:21.437Z"
         }
       ]
     },
