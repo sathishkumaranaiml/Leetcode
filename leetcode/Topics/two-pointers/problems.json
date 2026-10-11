@@ -5,8 +5,28 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-11T07:05:51.531Z",
+  "updatedAt": "2026-10-11T07:06:16.232Z",
   "problems": [
+    {
+      "frontendId": "19",
+      "title": "Remove Nth Node From End of List",
+      "slug": "remove-nth-node-from-end-of-list",
+      "problemName": "0019-remove-nth-node-from-end-of-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+      "folderPath": "leetcode/0019-remove-nth-node-from-end-of-list/",
+      "readmePath": "leetcode/0019-remove-nth-node-from-end-of-list/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0019-remove-nth-node-from-end-of-list.py",
+          "path": "leetcode/0019-remove-nth-node-from-end-of-list/0019-remove-nth-node-from-end-of-list.py",
+          "sha": "18db5a89e12c1f66b587e3878ebc48cd343593ee",
+          "lastSyncedAt": "2026-10-11T07:06:16.232Z"
+        }
+      ]
+    },
     {
       "frontendId": "633",
       "title": "Sum of Square Numbers",
