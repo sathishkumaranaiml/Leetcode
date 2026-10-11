@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-11T07:43:08.276Z",
+  "updatedAt": "2026-10-11T07:43:18.060Z",
   "problems": [
     {
       "frontendId": "11",
@@ -444,6 +444,26 @@
           "path": "leetcode/2110-number-of-smooth-descent-periods-of-a-stock/2110-number-of-smooth-descent-periods-of-a-stock.py",
           "sha": "bd06db4e4036a58e7ceafcbccd88c4d79b308cd6",
           "lastSyncedAt": "2026-10-11T07:25:56.287Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2562",
+      "title": "Find the Array Concatenation Value",
+      "slug": "find-the-array-concatenation-value",
+      "problemName": "2562-find-the-array-concatenation-value",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-array-concatenation-value/",
+      "folderPath": "leetcode/2562-find-the-array-concatenation-value/",
+      "readmePath": "leetcode/2562-find-the-array-concatenation-value/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2562-find-the-array-concatenation-value.py",
+          "path": "leetcode/2562-find-the-array-concatenation-value/2562-find-the-array-concatenation-value.py",
+          "sha": "e10638f0cc5411d9c213054186256453a67ac2d0",
+          "lastSyncedAt": "2026-10-11T07:43:18.060Z"
         }
       ]
     },
