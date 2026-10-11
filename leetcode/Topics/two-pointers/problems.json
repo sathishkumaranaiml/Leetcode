@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-11T07:44:20.514Z",
+  "updatedAt": "2026-10-11T07:44:27.218Z",
   "problems": [
     {
       "frontendId": "11",
@@ -604,6 +604,26 @@
           "path": "leetcode/2824-count-pairs-whose-sum-is-less-than-target/2824-count-pairs-whose-sum-is-less-than-target.py",
           "sha": "9ee0899017f73419df57315ce6612a1ce5d480af",
           "lastSyncedAt": "2026-10-11T07:43:08.276Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3794",
+      "title": "Reverse String Prefix",
+      "slug": "reverse-string-prefix",
+      "problemName": "3794-reverse-string-prefix",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-string-prefix/",
+      "folderPath": "leetcode/3794-reverse-string-prefix/",
+      "readmePath": "leetcode/3794-reverse-string-prefix/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "3794-reverse-string-prefix.py",
+          "path": "leetcode/3794-reverse-string-prefix/3794-reverse-string-prefix.py",
+          "sha": "48117ef9a1ab89a8317d1545c95332668b6b9b40",
+          "lastSyncedAt": "2026-10-11T07:44:27.218Z"
         }
       ]
     },
