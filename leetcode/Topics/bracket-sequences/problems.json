@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "bracket-sequences",
+    "name": "Bracket Sequences",
+    "tagId": "122055"
+  },
+  "updatedAt": "2026-10-11T07:07:01.809Z",
+  "problems": [
+    {
+      "frontendId": "32",
+      "title": "Longest Valid Parentheses",
+      "slug": "longest-valid-parentheses",
+      "problemName": "0032-longest-valid-parentheses",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-valid-parentheses/",
+      "folderPath": "leetcode/0032-longest-valid-parentheses/",
+      "readmePath": "leetcode/0032-longest-valid-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0032-longest-valid-parentheses.py",
+          "path": "leetcode/0032-longest-valid-parentheses/0032-longest-valid-parentheses.py",
+          "sha": "85c4aa16870831e269e59d7a895bb93aa576102c",
+          "lastSyncedAt": "2026-10-11T07:07:01.809Z"
+        }
+      ]
+    }
+  ]
+}
