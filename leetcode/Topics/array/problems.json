@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-11T07:21:54.886Z",
+  "updatedAt": "2026-10-11T07:22:01.460Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1284,6 +1284,26 @@
           "path": "leetcode/1886-determine-whether-matrix-can-be-obtained-by-rotation/1886-determine-whether-matrix-can-be-obtained-by-rotation.py",
           "sha": "9ea68f6ab20537f42ed5fbc74fe3e1a9a67a7f83",
           "lastSyncedAt": "2026-10-11T07:17:25.643Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2260",
+      "title": "Minimum Consecutive Cards to Pick Up",
+      "slug": "minimum-consecutive-cards-to-pick-up",
+      "problemName": "2260-minimum-consecutive-cards-to-pick-up",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/",
+      "folderPath": "leetcode/2260-minimum-consecutive-cards-to-pick-up/",
+      "readmePath": "leetcode/2260-minimum-consecutive-cards-to-pick-up/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "2260-minimum-consecutive-cards-to-pick-up.py",
+          "path": "leetcode/2260-minimum-consecutive-cards-to-pick-up/2260-minimum-consecutive-cards-to-pick-up.py",
+          "sha": "3955f3bf12f7d423ec0f836420b4265199dc5dab",
+          "lastSyncedAt": "2026-10-11T07:22:01.460Z"
         }
       ]
     },
