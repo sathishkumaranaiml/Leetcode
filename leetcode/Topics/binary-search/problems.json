@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "binary-search",
+    "name": "Binary Search",
+    "tagId": "11"
+  },
+  "updatedAt": "2026-10-11T07:05:51.531Z",
+  "problems": [
+    {
+      "frontendId": "633",
+      "title": "Sum of Square Numbers",
+      "slug": "sum-of-square-numbers",
+      "problemName": "0633-sum-of-square-numbers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-square-numbers/",
+      "folderPath": "leetcode/0633-sum-of-square-numbers/",
+      "readmePath": "leetcode/0633-sum-of-square-numbers/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0633-sum-of-square-numbers.py",
+          "path": "leetcode/0633-sum-of-square-numbers/0633-sum-of-square-numbers.py",
+          "sha": "65d66e74629d2d075cc0f4660fb261427f199dee",
+          "lastSyncedAt": "2026-10-11T07:05:51.531Z"
+        }
+      ]
+    }
+  ]
+}
