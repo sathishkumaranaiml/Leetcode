@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "string",
+    "name": "String",
+    "tagId": "10"
+  },
+  "updatedAt": "2026-10-11T07:05:17.872Z",
+  "problems": [
+    {
+      "frontendId": "763",
+      "title": "Partition Labels",
+      "slug": "partition-labels",
+      "problemName": "0763-partition-labels",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/partition-labels/",
+      "folderPath": "leetcode/0763-partition-labels/",
+      "readmePath": "leetcode/0763-partition-labels/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0763-partition-labels.py",
+          "path": "leetcode/0763-partition-labels/0763-partition-labels.py",
+          "sha": "887c27662ef2dff05e32851fafbbb1ff3ce67331",
+          "lastSyncedAt": "2026-10-11T07:05:17.872Z"
+        }
+      ]
+    }
+  ]
+}
