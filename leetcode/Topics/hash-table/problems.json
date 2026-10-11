@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-11T07:22:10.402Z",
+  "updatedAt": "2026-10-11T07:22:18.606Z",
   "problems": [
     {
       "frontendId": "1",
@@ -24,6 +24,26 @@
           "path": "leetcode/0001-two-sum/0001-two-sum.py",
           "sha": "2fe988972dfa695f900c6d48e80d8432ea03a5d5",
           "lastSyncedAt": "2026-10-11T07:17:44.720Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3",
+      "title": "Longest Substring Without Repeating Characters",
+      "slug": "longest-substring-without-repeating-characters",
+      "problemName": "0003-longest-substring-without-repeating-characters",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+      "folderPath": "leetcode/0003-longest-substring-without-repeating-characters/",
+      "readmePath": "leetcode/0003-longest-substring-without-repeating-characters/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0003-longest-substring-without-repeating-characters.py",
+          "path": "leetcode/0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.py",
+          "sha": "c3d07e96e612752fcc6e46bec136d2899ef31bbb",
+          "lastSyncedAt": "2026-10-11T07:22:18.606Z"
         }
       ]
     },
