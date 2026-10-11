@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-11T07:23:17.077Z",
+  "updatedAt": "2026-10-11T07:23:49.602Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1384,6 +1384,26 @@
           "path": "leetcode/1886-determine-whether-matrix-can-be-obtained-by-rotation/1886-determine-whether-matrix-can-be-obtained-by-rotation.py",
           "sha": "9ea68f6ab20537f42ed5fbc74fe3e1a9a67a7f83",
           "lastSyncedAt": "2026-10-11T07:17:25.643Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2090",
+      "title": "K Radius Subarray Averages",
+      "slug": "k-radius-subarray-averages",
+      "problemName": "2090-k-radius-subarray-averages",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/k-radius-subarray-averages/",
+      "folderPath": "leetcode/2090-k-radius-subarray-averages/",
+      "readmePath": "leetcode/2090-k-radius-subarray-averages/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2090-k-radius-subarray-averages.py",
+          "path": "leetcode/2090-k-radius-subarray-averages/2090-k-radius-subarray-averages.py",
+          "sha": "cac1da4a6ede243abd1411146df2f22fb3150e7c",
+          "lastSyncedAt": "2026-10-11T07:23:49.602Z"
         }
       ]
     },
