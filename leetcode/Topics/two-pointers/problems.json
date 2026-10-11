@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-11T07:21:11.847Z",
+  "updatedAt": "2026-10-11T07:24:08.904Z",
   "problems": [
     {
       "frontendId": "19",
@@ -124,6 +124,26 @@
           "path": "leetcode/0443-string-compression/0443-string-compression.py",
           "sha": "470b6761c7b1483b353717baad19e500bf574c4e",
           "lastSyncedAt": "2026-10-11T07:10:50.768Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "475",
+      "title": "Heaters",
+      "slug": "heaters",
+      "problemName": "0475-heaters",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/heaters/",
+      "folderPath": "leetcode/0475-heaters/",
+      "readmePath": "leetcode/0475-heaters/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0475-heaters.py",
+          "path": "leetcode/0475-heaters/0475-heaters.py",
+          "sha": "89c005943ccf8e3ef718459e785e10fad40e53b2",
+          "lastSyncedAt": "2026-10-11T07:24:08.904Z"
         }
       ]
     },
