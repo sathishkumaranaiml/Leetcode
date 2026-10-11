@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-11T07:11:05.119Z",
+  "updatedAt": "2026-10-11T07:11:13.759Z",
   "problems": [
     {
       "frontendId": "28",
@@ -204,6 +204,26 @@
           "path": "leetcode/0443-string-compression/0443-string-compression.py",
           "sha": "470b6761c7b1483b353717baad19e500bf574c4e",
           "lastSyncedAt": "2026-10-11T07:10:50.768Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "451",
+      "title": "Sort Characters By Frequency",
+      "slug": "sort-characters-by-frequency",
+      "problemName": "0451-sort-characters-by-frequency",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-characters-by-frequency/",
+      "folderPath": "leetcode/0451-sort-characters-by-frequency/",
+      "readmePath": "leetcode/0451-sort-characters-by-frequency/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0451-sort-characters-by-frequency.py",
+          "path": "leetcode/0451-sort-characters-by-frequency/0451-sort-characters-by-frequency.py",
+          "sha": "8da7897318a1f88e78d8809c031134a0567bf354",
+          "lastSyncedAt": "2026-10-11T07:11:13.759Z"
         }
       ]
     },
