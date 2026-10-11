@@ -5,8 +5,28 @@
     "name": "Monotonic Queue",
     "tagId": "61071"
   },
-  "updatedAt": "2026-10-11T07:04:42.816Z",
+  "updatedAt": "2026-10-11T07:57:10.794Z",
   "problems": [
+    {
+      "frontendId": "862",
+      "title": "Shortest Subarray with Sum at Least K",
+      "slug": "shortest-subarray-with-sum-at-least-k",
+      "problemName": "0862-shortest-subarray-with-sum-at-least-k",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/",
+      "folderPath": "leetcode/0862-shortest-subarray-with-sum-at-least-k/",
+      "readmePath": "leetcode/0862-shortest-subarray-with-sum-at-least-k/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0862-shortest-subarray-with-sum-at-least-k.py",
+          "path": "leetcode/0862-shortest-subarray-with-sum-at-least-k/0862-shortest-subarray-with-sum-at-least-k.py",
+          "sha": "e4f6087b9875260b14772d35cc41394ff40aa157",
+          "lastSyncedAt": "2026-10-11T07:57:10.794Z"
+        }
+      ]
+    },
     {
       "frontendId": "918",
       "title": "Maximum Sum Circular Subarray",
