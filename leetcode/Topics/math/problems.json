@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-11T07:08:11.671Z",
+  "updatedAt": "2026-10-11T07:08:15.094Z",
   "problems": [
     {
       "frontendId": "2",
@@ -64,6 +64,26 @@
           "path": "leetcode/0367-valid-perfect-square/0367-valid-perfect-square.py",
           "sha": "c0625c032815a8653a1a2ec3e9b42b81db6b751b",
           "lastSyncedAt": "2026-10-11T07:06:00.403Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "415",
+      "title": "Add Strings",
+      "slug": "add-strings",
+      "problemName": "0415-add-strings",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/add-strings/",
+      "folderPath": "leetcode/0415-add-strings/",
+      "readmePath": "leetcode/0415-add-strings/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0415-add-strings.py",
+          "path": "leetcode/0415-add-strings/0415-add-strings.py",
+          "sha": "1fbae73ac1ddd4faef95b1d34ce3ce51345d44e7",
+          "lastSyncedAt": "2026-10-11T07:08:15.094Z"
         }
       ]
     },
