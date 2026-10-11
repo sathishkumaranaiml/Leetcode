@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-11T07:43:18.060Z",
+  "updatedAt": "2026-10-11T07:43:26.436Z",
   "problems": [
     {
       "frontendId": "11",
@@ -444,6 +444,26 @@
           "path": "leetcode/2110-number-of-smooth-descent-periods-of-a-stock/2110-number-of-smooth-descent-periods-of-a-stock.py",
           "sha": "bd06db4e4036a58e7ceafcbccd88c4d79b308cd6",
           "lastSyncedAt": "2026-10-11T07:25:56.287Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2511",
+      "title": "Maximum Enemy Forts That Can Be Captured",
+      "slug": "maximum-enemy-forts-that-can-be-captured",
+      "problemName": "2511-maximum-enemy-forts-that-can-be-captured",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-enemy-forts-that-can-be-captured/",
+      "folderPath": "leetcode/2511-maximum-enemy-forts-that-can-be-captured/",
+      "readmePath": "leetcode/2511-maximum-enemy-forts-that-can-be-captured/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2511-maximum-enemy-forts-that-can-be-captured.py",
+          "path": "leetcode/2511-maximum-enemy-forts-that-can-be-captured/2511-maximum-enemy-forts-that-can-be-captured.py",
+          "sha": "cc1924f972b409ae4fb76f85625a3b59a1fad748",
+          "lastSyncedAt": "2026-10-11T07:43:26.436Z"
         }
       ]
     },
