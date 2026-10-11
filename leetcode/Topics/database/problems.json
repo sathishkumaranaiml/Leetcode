@@ -5,8 +5,28 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-11T07:13:22.844Z",
+  "updatedAt": "2026-10-11T07:13:27.226Z",
   "problems": [
+    {
+      "frontendId": "1141",
+      "title": "User Activity for the Past 30 Days I",
+      "slug": "user-activity-for-the-past-30-days-i",
+      "problemName": "1141-user-activity-for-the-past-30-days-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/user-activity-for-the-past-30-days-i/",
+      "folderPath": "leetcode/1141-user-activity-for-the-past-30-days-i/",
+      "readmePath": "leetcode/1141-user-activity-for-the-past-30-days-i/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1141-user-activity-for-the-past-30-days-i.sql",
+          "path": "leetcode/1141-user-activity-for-the-past-30-days-i/1141-user-activity-for-the-past-30-days-i.sql",
+          "sha": "8b8e4ef0a1d04a779739ead72fa5a32df945931a",
+          "lastSyncedAt": "2026-10-11T07:13:27.226Z"
+        }
+      ]
+    },
     {
       "frontendId": "1148",
       "title": "Article Views I",
