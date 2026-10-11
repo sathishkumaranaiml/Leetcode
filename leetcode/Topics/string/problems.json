@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-11T07:09:50.252Z",
+  "updatedAt": "2026-10-11T07:09:58.701Z",
   "problems": [
     {
       "frontendId": "28",
@@ -324,6 +324,26 @@
           "path": "leetcode/1392-longest-happy-prefix/1392-longest-happy-prefix.py",
           "sha": "9109a39298800da1a6e384e3a255c8cd289ed127",
           "lastSyncedAt": "2026-10-11T07:08:49.524Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2024",
+      "title": "Maximize the Confusion of an Exam",
+      "slug": "maximize-the-confusion-of-an-exam",
+      "problemName": "2024-maximize-the-confusion-of-an-exam",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximize-the-confusion-of-an-exam/",
+      "folderPath": "leetcode/2024-maximize-the-confusion-of-an-exam/",
+      "readmePath": "leetcode/2024-maximize-the-confusion-of-an-exam/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2024-maximize-the-confusion-of-an-exam.py",
+          "path": "leetcode/2024-maximize-the-confusion-of-an-exam/2024-maximize-the-confusion-of-an-exam.py",
+          "sha": "8ce65c97b9f0b9467badc963947dfed9dcd1a5e6",
+          "lastSyncedAt": "2026-10-11T07:09:58.701Z"
         }
       ]
     }
