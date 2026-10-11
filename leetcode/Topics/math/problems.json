@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-11T07:23:35.233Z",
+  "updatedAt": "2026-10-11T07:25:56.287Z",
   "problems": [
     {
       "frontendId": "2",
@@ -204,6 +204,26 @@
           "path": "leetcode/1524-number-of-sub-arrays-with-odd-sum/1524-number-of-sub-arrays-with-odd-sum.py",
           "sha": "58d179c9d5c4180c2b1eb2c2177a0943ca42b38e",
           "lastSyncedAt": "2026-10-11T07:19:29.597Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2110",
+      "title": "Number of Smooth Descent Periods of a Stock",
+      "slug": "number-of-smooth-descent-periods-of-a-stock",
+      "problemName": "2110-number-of-smooth-descent-periods-of-a-stock",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/",
+      "folderPath": "leetcode/2110-number-of-smooth-descent-periods-of-a-stock/",
+      "readmePath": "leetcode/2110-number-of-smooth-descent-periods-of-a-stock/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "2110-number-of-smooth-descent-periods-of-a-stock.py",
+          "path": "leetcode/2110-number-of-smooth-descent-periods-of-a-stock/2110-number-of-smooth-descent-periods-of-a-stock.py",
+          "sha": "bd06db4e4036a58e7ceafcbccd88c4d79b308cd6",
+          "lastSyncedAt": "2026-10-11T07:25:56.287Z"
         }
       ]
     },
