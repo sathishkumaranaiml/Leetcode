@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-11T07:46:10.887Z",
+  "updatedAt": "2026-10-11T07:46:17.263Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1704,6 +1704,26 @@
           "path": "leetcode/1493-longest-subarray-of-1s-after-deleting-one-element/1493-longest-subarray-of-1s-after-deleting-one-element.py",
           "sha": "e167a9a3d2ef867b826123b6023f50ab04462407",
           "lastSyncedAt": "2026-10-11T07:20:54.765Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1512",
+      "title": "Number of Good Pairs",
+      "slug": "number-of-good-pairs",
+      "problemName": "1512-number-of-good-pairs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-good-pairs/",
+      "folderPath": "leetcode/1512-number-of-good-pairs/",
+      "readmePath": "leetcode/1512-number-of-good-pairs/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1512-number-of-good-pairs.py",
+          "path": "leetcode/1512-number-of-good-pairs/1512-number-of-good-pairs.py",
+          "sha": "601a2aafed4ce867cf558c3b128e7839d3f978f1",
+          "lastSyncedAt": "2026-10-11T07:46:17.263Z"
         }
       ]
     },
