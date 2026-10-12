@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 190 | 103 | 82 | 5 |
+| 192 | 105 | 82 | 5 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 19 days | 48 |
+| 2 days | 19 days | 49 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-13 | 1 |
 | 2026-09-14 | 5 |
 | 2026-09-15 | 4 |
 | 2026-09-16 | 5 |
@@ -28,20 +27,21 @@ Contains topicwise list of solved problems.
 | 2026-09-23 | 5 |
 | 2026-09-24 | 3 |
 | 2026-09-25 | 1 |
-| 2026-10-11 | 2 |
+| 2026-10-11 | 3 |
+| 2026-10-12 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 97 | 51% |
+| Array | 99 | 52% |
 | Database | 46 | 24% |
 | Hash Table | 46 | 24% |
-| String | 45 | 24% |
+| String | 45 | 23% |
 | Two Pointers | 42 | 22% |
 | Sorting | 35 | 18% |
 | Sliding Window | 32 | 17% |
-| Prefix Sum | 21 | 11% |
+| Prefix Sum | 22 | 11% |
 | Binary Search | 17 | 9% |
 | Math | 13 | 7% |
 
@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 127 |
+| [Array](Topics/array/) | 129 |
 | [Backtracking](Topics/backtracking/) | 4 |
 | [Binary Search](Topics/binary-search/) | 26 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
@@ -65,7 +65,7 @@ Contains topicwise list of solved problems.
 | [Design](Topics/design/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 8 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 13 |
-| [Enumeration](Topics/enumeration/) | 1 |
+| [Enumeration](Topics/enumeration/) | 2 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Greedy](Topics/greedy/) | 20 |
 | [Hash Function](Topics/hash-function/) | 2 |
@@ -80,7 +80,7 @@ Contains topicwise list of solved problems.
 | [Number Theory](Topics/number-theory/) | 2 |
 | [Ordered Set](Topics/ordered-set/) | 1 |
 | [Pigeonhole Principle](Topics/pigeonhole-principle/) | 2 |
-| [Prefix Sum](Topics/prefix-sum/) | 23 |
+| [Prefix Sum](Topics/prefix-sum/) | 24 |
 | [Queue](Topics/queue/) | 3 |
 | [Quickselect](Topics/quickselect/) | 3 |
 | [Quicksort](Topics/quicksort/) | 1 |
