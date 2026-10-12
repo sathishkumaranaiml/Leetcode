@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-10-12T01:22:38.308Z",
+  "updatedAt": "2026-10-12T01:27:30.024Z",
   "problems": [
     {
       "frontendId": "238",
@@ -323,7 +323,7 @@
           "filename": "1413-minimum-value-to-get-positive-step-by-step-sum.py",
           "path": "leetcode/1413-minimum-value-to-get-positive-step-by-step-sum/1413-minimum-value-to-get-positive-step-by-step-sum.py",
           "sha": "cecb84782863b85e1e90e54090c20f3510267b28",
-          "lastSyncedAt": "2026-10-12T01:22:38.308Z"
+          "lastSyncedAt": "2026-10-12T01:27:30.024Z"
         }
       ]
     },
