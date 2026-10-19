@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-12T01:27:30.024Z",
+  "updatedAt": "2026-10-19T15:04:57.520Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2164,6 +2164,26 @@
           "path": "leetcode/1991-find-the-middle-index-in-array/1991-find-the-middle-index-in-array.py",
           "sha": "2dd8d9afad62e4102959641a0c9c8a835b4d52b8",
           "lastSyncedAt": "2026-10-11T07:27:01.596Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2089",
+      "title": "Find Target Indices After Sorting Array",
+      "slug": "find-target-indices-after-sorting-array",
+      "problemName": "2089-find-target-indices-after-sorting-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-target-indices-after-sorting-array/",
+      "folderPath": "leetcode/2089-find-target-indices-after-sorting-array/",
+      "readmePath": "leetcode/2089-find-target-indices-after-sorting-array/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "2089-find-target-indices-after-sorting-array.py",
+          "path": "leetcode/2089-find-target-indices-after-sorting-array/2089-find-target-indices-after-sorting-array.py",
+          "sha": "768601b872d8fa06dcb7e93afa47d95a48b429e7",
+          "lastSyncedAt": "2026-10-19T15:04:57.520Z"
         }
       ]
     },
